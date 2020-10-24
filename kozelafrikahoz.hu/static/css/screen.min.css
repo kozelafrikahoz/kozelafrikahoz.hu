@@ -563,7 +563,7 @@ body{.page-header__nav_index{
 }
 .portfolio__item-title:before{
     #content:"\f002";
-    content:"BĹvebben";
+    content:"Bövebben";
     -webkit-box-sizing:border-box;
     box-sizing:border-box;
     display:block;
@@ -1028,6 +1028,14 @@ body{.page-header__nav_index{
 	padding-top: 0px;
 	padding-bottom: 0px;
 	font-weight: 500;
+}
+
+.learn_more_page_title2{
+
+	padding-top: 0px;
+	padding-bottom: 0px;
+	font-weight: 500;
+    font-style: underline;
 }
 .learn_more_page_title_lesser{
 
