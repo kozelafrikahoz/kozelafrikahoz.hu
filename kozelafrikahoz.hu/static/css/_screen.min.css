@@ -563,7 +563,7 @@ body{.page-header__nav_index{
 }
 .portfolio__item-title:before{
     #content:"\f002";
-    content:"Bövebben";
+    content:"Bővebben";
     -webkit-box-sizing:border-box;
     box-sizing:border-box;
     display:block;
@@ -1029,14 +1029,6 @@ body{.page-header__nav_index{
 	padding-bottom: 0px;
 	font-weight: 500;
 }
-
-.learn_more_page_title2{
-
-	padding-top: 0px;
-	padding-bottom: 0px;
-	font-weight: 500;
-    font-style: underline;
-}
 .learn_more_page_title_lesser{
 
 	text-align: left;
@@ -1268,7 +1260,7 @@ body{.page-header__nav_index{
 .Default_main{
 	background-color:#F0E7A8;
 	height:100%;
-	width:100%
+	width:100
 }
 .SaC_countries{
 	text-align: center;
