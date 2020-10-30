@@ -243,6 +243,28 @@ body{.page-header__nav_index{
     padding-bottom:10px;
     
 }    
+
+.contact_card-title.newsletter{
+    padding-top:30px;
+    font-weight: 100;
+    font-style: normal;
+}
+.contact__card-item.newsletter:before{
+    content:"\f0e0";
+    margin-right:10px
+}
+.contact__card-item.newsletter{
+    display:inline-block;
+    padding-left:70px;
+    font-size: 20px;
+    line-height:24px;
+    color:#444;
+    padding-bottom:10px;
+}    
+.contact__card-item.legal:before{
+    content:"\f15c";
+    margin-right:10px
+}
 .contact__card-item.legal{
     display:inline-block;
     padding-left:70px;
