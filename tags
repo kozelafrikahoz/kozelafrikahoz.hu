@@ -455,6 +455,7 @@ Aicha KEITA	kozelafrikahoz.hu/SaC/Mali/Winners/Aicha_KEITA.html	/^            <h
 Aicha KEITA	kozelafrikahoz.hu/SaC/Mali/Winners/aichataKeita.html	/^          <h2 class="children_data_page_title">Aicha KEITA<\/h2>$/;"	i
 Aichatou COULIBALY	kozelafrikahoz.hu/SaC/Mali/Cherifoula/aichatouCoulibaly.html	/^            <h2 class="children_data_page_title">Aichatou COULIBALY<\/h2>$/;"	i
 Aichatou COULIBALY	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Aichatou COULIBALY<\/h3>$/;"	j
+Aichatou TOLO	kozelafrikahoz.hu/SaC/Mali/Cherifoula/aichatouTolo.html	/^            <h2 class="children_data_page_title">Aichatou TOLO<\/h2>$/;"	i
 Aichatou TOLO	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Aichatou TOLO<\/h3>$/;"	j
 Alassan MAIGA	kozelafrikahoz.hu/SaC/Mali/Cherifoula/alassanMaiga.html	/^            <h2 class="children_data_page_title">Alassan MAIGA<\/h2>$/;"	i
 Alassan MAIGA	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Alassan MAIGA<\/h3>$/;"	j
@@ -1050,8 +1051,10 @@ Hírek	kozelafrikahoz.hu/news.html	/^		<h1 class = "news_page_title">Hírek<\/h1
 IBAN HU61 1620 0010 1009 7432 0000 0000	kozelafrikahoz.hu/SaC/mali.html	/^	        <h3 class="details_donate_page"><b>IBAN HU61<\/b> 1620 0010 1009 7432 0000 0000<\/h3>$/;"	j
 IBAN HU61 1620 0010 1009 7432 0000 0000	kozelafrikahoz.hu/SaC/zambia.html	/^	        <h3 class="details_donate_page"><b>IBAN HU61<\/b> 1620 0010 1009 7432 0000 0000<\/h3>$/;"	j
 IBAN HU61 1620 0010 1009 7432 0000 0000	kozelafrikahoz.hu/donate.html	/^					<h3 class="details_donate_page"><b>IBAN HU61<\/b> 1620 0010 1009 7432 0000 0000<\/h3>$/;"	j
+Ibrahim Soumaoro	kozelafrikahoz.hu/SaC/Mali/Cherifoula/ibrahimSoumaoro.html	/^            <h2 class="children_data_page_title">Ibrahim Soumaoro<\/h2>$/;"	i
 Ibrahim Soumaoro	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Ibrahim Soumaoro<\/h3>$/;"	j
 Ibrahim TIEMA	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Ibrahim TIEMA<\/h3>$/;"	j
+Ibrahim Tiema MALLET	kozelafrikahoz.hu/SaC/Mali/Cherifoula/ibrahimTiema.html	/^            <h2 class="children_data_page_title">Ibrahim Tiema MALLET<\/h2>$/;"	i
 Ie	kozelafrikahoz.hu/static/_js/body.min.js	/^    function Ie(e, t) {$/;"	f
 Iskolaépítés	kozelafrikahoz.hu/up_comming.html	/^		<h2 class="learn_more_page_title2">Iskolaépítés<\/h2>$/;"	i
 Iskolák:	kozelafrikahoz.hu/SaC/mali.html	/^            <h2 class="children__title">Iskolák:<\/h2>$/;"	i
@@ -1510,6 +1513,7 @@ team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/YoumourouSow.html	/^	  <section class
 team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/abdoullahTolo.html	/^	  <section class="children" id="team">$/;"	I
 team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/adamaKoita.html	/^	  <section class="children" id="team">$/;"	I
 team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/aichatouCoulibaly.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/aichatouTolo.html	/^    <section class="children" id="team">$/;"	I
 team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/alassanMaiga.html	/^	  <section class="children" id="team">$/;"	I
 team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/aminataMoussa.html	/^	  <section class="children" id="team">$/;"	I
 team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/aminataTheophile.html	/^	  <section class="children" id="team">$/;"	I
@@ -1520,6 +1524,8 @@ team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/bintouSogoba.html	/^	  <section class
 team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/diamoussaDoumbia.html	/^	  <section class="children" id="team">$/;"	I
 team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/djenebaKamissoko.html	/^	  <section class="children" id="team">$/;"	I
 team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/fatoumataArama.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/ibrahimSoumaoro.html	/^    <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/ibrahimTiema.html	/^    <section class="children" id="team">$/;"	I
 team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/issaBelem.html	/^	  <section class="children" id="team">$/;"	I
 team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/mamadouKaya.html	/^	  <section class="children" id="team">$/;"	I
 team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/salmaMaiga.html	/^	  <section class="children" id="team">$/;"	I
