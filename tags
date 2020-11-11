@@ -1,0 +1,1610 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/663bfb1c/
+#portfolio_permanent1	kozelafrikahoz.hu/static/css/_screen.min.css	/^#portfolio_permanent1{$/;"	i
+#portfolio_permanent1	kozelafrikahoz.hu/static/css/screen.min.css	/^#portfolio_permanent1{$/;"	i
+.BaS_image1	kozelafrikahoz.hu/static/css/_screen.min.css	/^.BaS_image1{$/;"	c
+.BaS_image1	kozelafrikahoz.hu/static/css/screen.min.css	/^.BaS_image1{$/;"	c
+.Children_data_page_image	kozelafrikahoz.hu/static/css/_screen.min.css	/^.Children_data_page_image{$/;"	c
+.Children_data_page_image	kozelafrikahoz.hu/static/css/screen.min.css	/^.Children_data_page_image{$/;"	c
+.Children_data_page_image2	kozelafrikahoz.hu/static/css/_screen.min.css	/^.Children_data_page_image2{$/;"	c
+.Children_data_page_image2	kozelafrikahoz.hu/static/css/screen.min.css	/^.Children_data_page_image2{$/;"	c
+.Children_data_page_pictures	kozelafrikahoz.hu/static/css/_screen.min.css	/^.Children_data_page_pictures{$/;"	c
+.Children_data_page_pictures	kozelafrikahoz.hu/static/css/screen.min.css	/^.Children_data_page_pictures{$/;"	c
+.Default_main	kozelafrikahoz.hu/static/css/_screen.min.css	/^.Default_main{$/;"	c
+.Default_main	kozelafrikahoz.hu/static/css/screen.min.css	/^.Default_main{$/;"	c
+.HWP_image1	kozelafrikahoz.hu/static/css/_screen.min.css	/^.HWP_image1{$/;"	c
+.HWP_image1	kozelafrikahoz.hu/static/css/screen.min.css	/^.HWP_image1{$/;"	c
+.SaC_countries	kozelafrikahoz.hu/static/css/_screen.min.css	/^.SaC_countries{$/;"	c
+.SaC_countries	kozelafrikahoz.hu/static/css/screen.min.css	/^.SaC_countries{$/;"	c
+.SaC_countries_item	kozelafrikahoz.hu/static/css/_screen.min.css	/^.SaC_countries_item{$/;"	c
+.SaC_countries_item	kozelafrikahoz.hu/static/css/screen.min.css	/^.SaC_countries_item{$/;"	c
+.SaC_countries_item_descr	kozelafrikahoz.hu/static/css/_screen.min.css	/^.SaC_countries_item_descr{$/;"	c
+.SaC_countries_item_descr	kozelafrikahoz.hu/static/css/screen.min.css	/^.SaC_countries_item_descr{$/;"	c
+.SaC_countries_item_picture	kozelafrikahoz.hu/static/css/_screen.min.css	/^.SaC_countries_item_picture{$/;"	c
+.SaC_countries_item_picture	kozelafrikahoz.hu/static/css/screen.min.css	/^.SaC_countries_item_picture{$/;"	c
+.UtatAlabdanak_image	kozelafrikahoz.hu/static/css/_screen.min.css	/^.UtatAlabdanak_image{$/;"	c
+.UtatAlabdanak_image	kozelafrikahoz.hu/static/css/screen.min.css	/^.UtatAlabdanak_image{$/;"	c
+.UtatAlabdanak_image_small	kozelafrikahoz.hu/static/css/_screen.min.css	/^.UtatAlabdanak_image_small{$/;"	c
+.UtatAlabdanak_image_small	kozelafrikahoz.hu/static/css/screen.min.css	/^.UtatAlabdanak_image_small{$/;"	c
+.UtatAlabdanak_list	kozelafrikahoz.hu/static/css/_screen.min.css	/^.UtatAlabdanak_list{$/;"	c
+.UtatAlabdanak_list	kozelafrikahoz.hu/static/css/screen.min.css	/^.UtatAlabdanak_list{$/;"	c
+.UtatAlabdanak_main_image	kozelafrikahoz.hu/static/css/_screen.min.css	/^.UtatAlabdanak_main_image{$/;"	c
+.UtatAlabdanak_main_image	kozelafrikahoz.hu/static/css/screen.min.css	/^.UtatAlabdanak_main_image{$/;"	c
+.UtatAlabdanak_text	kozelafrikahoz.hu/static/css/_screen.min.css	/^.UtatAlabdanak_text{$/;"	c
+.UtatAlabdanak_text	kozelafrikahoz.hu/static/css/screen.min.css	/^.UtatAlabdanak_text{$/;"	c
+.UtatAlabdanak_text_alt	kozelafrikahoz.hu/static/css/_screen.min.css	/^.UtatAlabdanak_text_alt{$/;"	c
+.UtatAlabdanak_text_alt	kozelafrikahoz.hu/static/css/screen.min.css	/^.UtatAlabdanak_text_alt{$/;"	c
+.UtatAlabdanak_tinytext	kozelafrikahoz.hu/static/css/_screen.min.css	/^.UtatAlabdanak_tinytext{$/;"	c
+.UtatAlabdanak_tinytext	kozelafrikahoz.hu/static/css/screen.min.css	/^.UtatAlabdanak_tinytext{$/;"	c
+.UtatAlabdanak_title	kozelafrikahoz.hu/static/css/_screen.min.css	/^.UtatAlabdanak_title{$/;"	c
+.UtatAlabdanak_title	kozelafrikahoz.hu/static/css/screen.min.css	/^.UtatAlabdanak_title{$/;"	c
+.UtatAlabdanak_ul	kozelafrikahoz.hu/static/css/_screen.min.css	/^.UtatAlabdanak_ul{$/;"	c
+.UtatAlabdanak_ul	kozelafrikahoz.hu/static/css/screen.min.css	/^.UtatAlabdanak_ul{$/;"	c
+.child	kozelafrikahoz.hu/static/css/_screen.min.css	/^.child{$/;"	c
+.child	kozelafrikahoz.hu/static/css/screen.min.css	/^.child{$/;"	c
+.child img	kozelafrikahoz.hu/static/css/_screen.min.css	/^.child img{$/;"	s
+.child img	kozelafrikahoz.hu/static/css/screen.min.css	/^.child img{$/;"	s
+.child-descr	kozelafrikahoz.hu/static/css/_screen.min.css	/^.child-descr{$/;"	c
+.child-descr	kozelafrikahoz.hu/static/css/screen.min.css	/^.child-descr{$/;"	c
+.child-info	kozelafrikahoz.hu/static/css/_screen.min.css	/^.child-info{$/;"	c
+.child-info	kozelafrikahoz.hu/static/css/screen.min.css	/^.child-info{$/;"	c
+.child-name	kozelafrikahoz.hu/static/css/_screen.min.css	/^.child-name{$/;"	c
+.child-name	kozelafrikahoz.hu/static/css/screen.min.css	/^.child-name{$/;"	c
+.child__status	kozelafrikahoz.hu/static/css/_screen.min.css	/^.child__status{$/;"	c
+.child__status	kozelafrikahoz.hu/static/css/screen.min.css	/^.child__status{$/;"	c
+.children	kozelafrikahoz.hu/static/css/_screen.min.css	/^.children{$/;"	c
+.children	kozelafrikahoz.hu/static/css/screen.min.css	/^.children{$/;"	c
+.children__descr	kozelafrikahoz.hu/static/css/_screen.min.css	/^.children__descr{$/;"	c
+.children__descr	kozelafrikahoz.hu/static/css/screen.min.css	/^.children__descr{$/;"	c
+.children__inner	kozelafrikahoz.hu/static/css/_screen.min.css	/^.children__inner{$/;"	c
+.children__inner	kozelafrikahoz.hu/static/css/screen.min.css	/^.children__inner{$/;"	c
+.children__inner:after	kozelafrikahoz.hu/static/css/_screen.min.css	/^.children__inner:after{$/;"	c
+.children__inner:after	kozelafrikahoz.hu/static/css/screen.min.css	/^.children__inner:after{$/;"	c
+.children__title	kozelafrikahoz.hu/static/css/_screen.min.css	/^.children__title{$/;"	c
+.children__title	kozelafrikahoz.hu/static/css/screen.min.css	/^.children__title{$/;"	c
+.children_data_page_birthdate	kozelafrikahoz.hu/static/css/_screen.min.css	/^.children_data_page_birthdate{$/;"	c
+.children_data_page_birthdate	kozelafrikahoz.hu/static/css/screen.min.css	/^.children_data_page_birthdate{$/;"	c
+.children_data_page_class	kozelafrikahoz.hu/static/css/_screen.min.css	/^.children_data_page_class{$/;"	c
+.children_data_page_class	kozelafrikahoz.hu/static/css/screen.min.css	/^.children_data_page_class{$/;"	c
+.children_data_page_learn_more	kozelafrikahoz.hu/static/css/_screen.min.css	/^.children_data_page_learn_more{$/;"	c
+.children_data_page_learn_more	kozelafrikahoz.hu/static/css/screen.min.css	/^.children_data_page_learn_more{$/;"	c
+.children_data_page_text	kozelafrikahoz.hu/static/css/_screen.min.css	/^.children_data_page_text{$/;"	c
+.children_data_page_text	kozelafrikahoz.hu/static/css/screen.min.css	/^.children_data_page_text{$/;"	c
+.children_data_page_title	kozelafrikahoz.hu/static/css/_screen.min.css	/^.children_data_page_title{$/;"	c
+.children_data_page_title	kozelafrikahoz.hu/static/css/screen.min.css	/^.children_data_page_title{$/;"	c
+.contact	kozelafrikahoz.hu/static/css/_screen.min.css	/^    .contact{$/;"	c
+.contact	kozelafrikahoz.hu/static/css/_screen.min.css	/^.contact{$/;"	c
+.contact	kozelafrikahoz.hu/static/css/screen.min.css	/^    .contact{$/;"	c
+.contact	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact{$/;"	c
+.contact__card	kozelafrikahoz.hu/static/css/_screen.min.css	/^    .contact__card{$/;"	c
+.contact__card	kozelafrikahoz.hu/static/css/_screen.min.css	/^.contact__card{$/;"	c
+.contact__card	kozelafrikahoz.hu/static/css/screen.min.css	/^    .contact__card{$/;"	c
+.contact__card	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact__card{$/;"	c
+.contact__card-item	kozelafrikahoz.hu/static/css/_screen.min.css	/^.contact__card-item{$/;"	c
+.contact__card-item	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact__card-item{$/;"	c
+.contact__card-item.email	kozelafrikahoz.hu/static/css/_screen.min.css	/^.contact__card-item.email{$/;"	c
+.contact__card-item.email	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact__card-item.email{$/;"	c
+.contact__card-item.email:before	kozelafrikahoz.hu/static/css/_screen.min.css	/^.contact__card-item.email:before{$/;"	c
+.contact__card-item.email:before	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact__card-item.email:before{$/;"	c
+.contact__card-item.facebook	kozelafrikahoz.hu/static/css/_screen.min.css	/^.contact__card-item.facebook{$/;"	c
+.contact__card-item.facebook	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact__card-item.facebook{$/;"	c
+.contact__card-item.facebook:before	kozelafrikahoz.hu/static/css/_screen.min.css	/^.contact__card-item.facebook:before{$/;"	c
+.contact__card-item.facebook:before	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact__card-item.facebook:before{$/;"	c
+.contact__card-item.facebook:hover	kozelafrikahoz.hu/static/css/_screen.min.css	/^.contact__card-item.facebook:hover{$/;"	c
+.contact__card-item.facebook:hover	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact__card-item.facebook:hover{$/;"	c
+.contact__card-item.fax:before	kozelafrikahoz.hu/static/css/_screen.min.css	/^.contact__card-item.fax:before{$/;"	c
+.contact__card-item.fax:before	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact__card-item.fax:before{$/;"	c
+.contact__card-item.insta	kozelafrikahoz.hu/static/css/_screen.min.css	/^.contact__card-item.insta{$/;"	c
+.contact__card-item.insta	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact__card-item.insta{$/;"	c
+.contact__card-item.insta:before	kozelafrikahoz.hu/static/css/_screen.min.css	/^.contact__card-item.insta:before{$/;"	c
+.contact__card-item.insta:before	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact__card-item.insta:before{$/;"	c
+.contact__card-item.insta:hover	kozelafrikahoz.hu/static/css/_screen.min.css	/^.contact__card-item.insta:hover{$/;"	c
+.contact__card-item.insta:hover	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact__card-item.insta:hover{$/;"	c
+.contact__card-item.legal	kozelafrikahoz.hu/static/css/_screen.min.css	/^.contact__card-item.legal{$/;"	c
+.contact__card-item.legal	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact__card-item.legal{$/;"	c
+.contact__card-item.legal:before	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact__card-item.legal:before{$/;"	c
+.contact__card-item.newsletter	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact__card-item.newsletter{$/;"	c
+.contact__card-item.newsletter:before	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact__card-item.newsletter:before{$/;"	c
+.contact__card-item.paypal	kozelafrikahoz.hu/static/css/_screen.min.css	/^.contact__card-item.paypal{$/;"	c
+.contact__card-item.paypal	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact__card-item.paypal{$/;"	c
+.contact__card-item.paypal:before	kozelafrikahoz.hu/static/css/_screen.min.css	/^.contact__card-item.paypal:before{$/;"	c
+.contact__card-item.paypal:before	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact__card-item.paypal:before{$/;"	c
+.contact__card-item.paypal:hover	kozelafrikahoz.hu/static/css/_screen.min.css	/^.contact__card-item.paypal:hover{$/;"	c
+.contact__card-item.paypal:hover	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact__card-item.paypal:hover{$/;"	c
+.contact__card-item.place	kozelafrikahoz.hu/static/css/_screen.min.css	/^.contact__card-item.place{$/;"	c
+.contact__card-item.place	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact__card-item.place{$/;"	c
+.contact__card-item.place:before	kozelafrikahoz.hu/static/css/_screen.min.css	/^.contact__card-item.place:before{$/;"	c
+.contact__card-item.place:before	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact__card-item.place:before{$/;"	c
+.contact__card-item.tel	kozelafrikahoz.hu/static/css/_screen.min.css	/^.contact__card-item.tel{$/;"	c
+.contact__card-item.tel	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact__card-item.tel{$/;"	c
+.contact__card-item.tel:before	kozelafrikahoz.hu/static/css/_screen.min.css	/^.contact__card-item.tel:before{$/;"	c
+.contact__card-item.tel:before	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact__card-item.tel:before{$/;"	c
+.contact__card-item:before	kozelafrikahoz.hu/static/css/_screen.min.css	/^.contact__card-item:before{$/;"	c
+.contact__card-item:before	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact__card-item:before{$/;"	c
+.contact__card-title	kozelafrikahoz.hu/static/css/_screen.min.css	/^    .contact__card-title{$/;"	c
+.contact__card-title	kozelafrikahoz.hu/static/css/_screen.min.css	/^.contact__card-title{$/;"	c
+.contact__card-title	kozelafrikahoz.hu/static/css/screen.min.css	/^    .contact__card-title{$/;"	c
+.contact__card-title	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact__card-title{$/;"	c
+.contact__descr	kozelafrikahoz.hu/static/css/_screen.min.css	/^.contact__descr{$/;"	c
+.contact__descr	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact__descr{$/;"	c
+.contact__form	kozelafrikahoz.hu/static/css/_screen.min.css	/^    .contact__form{$/;"	c
+.contact__form	kozelafrikahoz.hu/static/css/_screen.min.css	/^.contact__form{$/;"	c
+.contact__form	kozelafrikahoz.hu/static/css/screen.min.css	/^    .contact__form{$/;"	c
+.contact__form	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact__form{$/;"	c
+.contact__form-input	kozelafrikahoz.hu/static/css/_screen.min.css	/^    .contact__form-input{$/;"	c
+.contact__form-input	kozelafrikahoz.hu/static/css/_screen.min.css	/^.contact__form-input{$/;"	c
+.contact__form-input	kozelafrikahoz.hu/static/css/screen.min.css	/^    .contact__form-input{$/;"	c
+.contact__form-input	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact__form-input{$/;"	c
+.contact__form-input:first-of-type	kozelafrikahoz.hu/static/css/_screen.min.css	/^.contact__form-input:first-of-type{$/;"	c
+.contact__form-input:first-of-type	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact__form-input:first-of-type{$/;"	c
+.contact__form-submit	kozelafrikahoz.hu/static/css/_screen.min.css	/^    .contact__form-submit{$/;"	c
+.contact__form-submit	kozelafrikahoz.hu/static/css/_screen.min.css	/^.contact__form-submit{$/;"	c
+.contact__form-submit	kozelafrikahoz.hu/static/css/screen.min.css	/^    .contact__form-submit{$/;"	c
+.contact__form-submit	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact__form-submit{$/;"	c
+.contact__form-submit:hover	kozelafrikahoz.hu/static/css/_screen.min.css	/^.contact__form-submit:hover{$/;"	c
+.contact__form-submit:hover	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact__form-submit:hover{$/;"	c
+.contact__form-tarea	kozelafrikahoz.hu/static/css/_screen.min.css	/^    .contact__form-tarea{$/;"	c
+.contact__form-tarea	kozelafrikahoz.hu/static/css/_screen.min.css	/^.contact__form-tarea{$/;"	c
+.contact__form-tarea	kozelafrikahoz.hu/static/css/screen.min.css	/^    .contact__form-tarea{$/;"	c
+.contact__form-tarea	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact__form-tarea{$/;"	c
+.contact__form:after	kozelafrikahoz.hu/static/css/_screen.min.css	/^.contact__form:after{$/;"	c
+.contact__form:after	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact__form:after{$/;"	c
+.contact__inner	kozelafrikahoz.hu/static/css/_screen.min.css	/^.contact__inner{$/;"	c
+.contact__inner	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact__inner{$/;"	c
+.contact__title	kozelafrikahoz.hu/static/css/_screen.min.css	/^.contact__title{$/;"	c
+.contact__title	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact__title{$/;"	c
+.contact_card-title.newsletter	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact_card-title.newsletter{$/;"	c
+.contact_more_information	kozelafrikahoz.hu/static/css/_screen.min.css	/^.contact_more_information{$/;"	c
+.contact_more_information	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact_more_information{$/;"	c
+.details	kozelafrikahoz.hu/static/css/_screen.min.css	/^.details{$/;"	c
+.details	kozelafrikahoz.hu/static/css/screen.min.css	/^.details{$/;"	c
+.details_donate_page	kozelafrikahoz.hu/static/css/_screen.min.css	/^.details_donate_page{$/;"	c
+.details_donate_page	kozelafrikahoz.hu/static/css/screen.min.css	/^.details_donate_page{$/;"	c
+.details_donate_page_last	kozelafrikahoz.hu/static/css/_screen.min.css	/^.details_donate_page_last{$/;"	c
+.details_donate_page_last	kozelafrikahoz.hu/static/css/screen.min.css	/^.details_donate_page_last{$/;"	c
+.details_sac	kozelafrikahoz.hu/static/css/_screen.min.css	/^.details_sac{$/;"	c
+.details_sac	kozelafrikahoz.hu/static/css/screen.min.css	/^.details_sac{$/;"	c
+.end	kozelafrikahoz.hu/static/css/_screen.min.css	/^.end{$/;"	c
+.end	kozelafrikahoz.hu/static/css/screen.min.css	/^.end{$/;"	c
+.fa	kozelafrikahoz.hu/static/css/_screen.min.css	/^.fa {$/;"	c
+.fa	kozelafrikahoz.hu/static/css/screen.min.css	/^.fa {$/;"	c
+.fa-facebook	kozelafrikahoz.hu/static/css/_screen.min.css	/^.fa-facebook {$/;"	c
+.fa-facebook	kozelafrikahoz.hu/static/css/screen.min.css	/^.fa-facebook {$/;"	c
+.fa-instagram	kozelafrikahoz.hu/static/css/_screen.min.css	/^.fa-instagram {$/;"	c
+.fa-instagram	kozelafrikahoz.hu/static/css/screen.min.css	/^.fa-instagram {$/;"	c
+.fa-twitter	kozelafrikahoz.hu/static/css/_screen.min.css	/^.fa-twitter {$/;"	c
+.fa-twitter	kozelafrikahoz.hu/static/css/screen.min.css	/^.fa-twitter {$/;"	c
+.fa:hover	kozelafrikahoz.hu/static/css/_screen.min.css	/^.fa:hover {$/;"	c
+.fa:hover	kozelafrikahoz.hu/static/css/screen.min.css	/^.fa:hover {$/;"	c
+.just_an_example	kozelafrikahoz.hu/static/css/_screen.min.css	/^.just_an_example{$/;"	c
+.just_an_example	kozelafrikahoz.hu/static/css/screen.min.css	/^.just_an_example{$/;"	c
+.learn_more_page	kozelafrikahoz.hu/static/css/_screen.min.css	/^.learn_more_page{$/;"	c
+.learn_more_page	kozelafrikahoz.hu/static/css/screen.min.css	/^.learn_more_page{$/;"	c
+.learn_more_page_link	kozelafrikahoz.hu/static/css/_screen.min.css	/^.learn_more_page_link{$/;"	c
+.learn_more_page_link	kozelafrikahoz.hu/static/css/screen.min.css	/^.learn_more_page_link{$/;"	c
+.learn_more_page_text	kozelafrikahoz.hu/static/css/_screen.min.css	/^.learn_more_page_text{$/;"	c
+.learn_more_page_text	kozelafrikahoz.hu/static/css/screen.min.css	/^.learn_more_page_text{$/;"	c
+.learn_more_page_text_error_notice	kozelafrikahoz.hu/static/css/_screen.min.css	/^.learn_more_page_text_error_notice{$/;"	c
+.learn_more_page_text_error_notice	kozelafrikahoz.hu/static/css/screen.min.css	/^.learn_more_page_text_error_notice{$/;"	c
+.learn_more_page_text_last	kozelafrikahoz.hu/static/css/_screen.min.css	/^.learn_more_page_text_last{$/;"	c
+.learn_more_page_text_last	kozelafrikahoz.hu/static/css/screen.min.css	/^.learn_more_page_text_last{$/;"	c
+.learn_more_page_text_paypal_notice	kozelafrikahoz.hu/static/css/_screen.min.css	/^.learn_more_page_text_paypal_notice{$/;"	c
+.learn_more_page_text_paypal_notice	kozelafrikahoz.hu/static/css/screen.min.css	/^.learn_more_page_text_paypal_notice{$/;"	c
+.learn_more_page_text_top	kozelafrikahoz.hu/static/css/_screen.min.css	/^.learn_more_page_text_top{$/;"	c
+.learn_more_page_text_top	kozelafrikahoz.hu/static/css/screen.min.css	/^.learn_more_page_text_top{$/;"	c
+.learn_more_page_title	kozelafrikahoz.hu/static/css/_screen.min.css	/^.learn_more_page_title{$/;"	c
+.learn_more_page_title	kozelafrikahoz.hu/static/css/screen.min.css	/^.learn_more_page_title{$/;"	c
+.learn_more_page_title0	kozelafrikahoz.hu/static/css/_screen.min.css	/^.learn_more_page_title0{$/;"	c
+.learn_more_page_title0	kozelafrikahoz.hu/static/css/screen.min.css	/^.learn_more_page_title0{$/;"	c
+.learn_more_page_title1	kozelafrikahoz.hu/static/css/_screen.min.css	/^.learn_more_page_title1{$/;"	c
+.learn_more_page_title1	kozelafrikahoz.hu/static/css/screen.min.css	/^.learn_more_page_title1{$/;"	c
+.learn_more_page_title2	kozelafrikahoz.hu/static/css/screen.min.css	/^.learn_more_page_title2{$/;"	c
+.learn_more_page_title_lesser	kozelafrikahoz.hu/static/css/_screen.min.css	/^.learn_more_page_title_lesser{$/;"	c
+.learn_more_page_title_lesser	kozelafrikahoz.hu/static/css/screen.min.css	/^.learn_more_page_title_lesser{$/;"	c
+.mc_embed_signup	kozelafrikahoz.hu/static/css/_screen.min.css	/^.mc_embed_signup{$/;"	c
+.mc_embed_signup	kozelafrikahoz.hu/static/css/screen.min.css	/^.mc_embed_signup{$/;"	c
+.news_block	kozelafrikahoz.hu/static/css/_screen.min.css	/^.news_block{$/;"	c
+.news_block	kozelafrikahoz.hu/static/css/screen.min.css	/^.news_block{$/;"	c
+.news_block_image	kozelafrikahoz.hu/static/css/_screen.min.css	/^.news_block_image{$/;"	c
+.news_block_image	kozelafrikahoz.hu/static/css/screen.min.css	/^.news_block_image{$/;"	c
+.news_block_text	kozelafrikahoz.hu/static/css/_screen.min.css	/^.news_block_text{$/;"	c
+.news_block_text	kozelafrikahoz.hu/static/css/screen.min.css	/^.news_block_text{$/;"	c
+.news_block_text_desc	kozelafrikahoz.hu/static/css/_screen.min.css	/^.news_block_text_desc{$/;"	c
+.news_block_text_desc	kozelafrikahoz.hu/static/css/screen.min.css	/^.news_block_text_desc{$/;"	c
+.news_block_text_title	kozelafrikahoz.hu/static/css/_screen.min.css	/^.news_block_text_title{$/;"	c
+.news_block_text_title	kozelafrikahoz.hu/static/css/screen.min.css	/^.news_block_text_title{$/;"	c
+.news_page	kozelafrikahoz.hu/static/css/_screen.min.css	/^.news_page{$/;"	c
+.news_page	kozelafrikahoz.hu/static/css/screen.min.css	/^.news_page{$/;"	c
+.news_page_sign_up_link	kozelafrikahoz.hu/static/css/_screen.min.css	/^.news_page_sign_up_link{$/;"	c
+.news_page_sign_up_link	kozelafrikahoz.hu/static/css/screen.min.css	/^.news_page_sign_up_link{$/;"	c
+.news_page_sign_up_link:hover	kozelafrikahoz.hu/static/css/_screen.min.css	/^.news_page_sign_up_link:hover{$/;"	c
+.news_page_sign_up_link:hover	kozelafrikahoz.hu/static/css/screen.min.css	/^.news_page_sign_up_link:hover{$/;"	c
+.news_page_title	kozelafrikahoz.hu/static/css/_screen.min.css	/^.news_page_title{$/;"	c
+.news_page_title	kozelafrikahoz.hu/static/css/screen.min.css	/^.news_page_title{$/;"	c
+.news_pictures	kozelafrikahoz.hu/static/css/_screen.min.css	/^.news_pictures{$/;"	c
+.news_pictures	kozelafrikahoz.hu/static/css/screen.min.css	/^.news_pictures{$/;"	c
+.news_section	kozelafrikahoz.hu/static/css/_screen.min.css	/^.news_section{$/;"	c
+.news_section	kozelafrikahoz.hu/static/css/screen.min.css	/^.news_section{$/;"	c
+.page-footer	kozelafrikahoz.hu/static/css/_screen.min.css	/^    .page-footer{$/;"	c
+.page-footer	kozelafrikahoz.hu/static/css/_screen.min.css	/^.page-footer{$/;"	c
+.page-footer	kozelafrikahoz.hu/static/css/screen.min.css	/^    .page-footer{$/;"	c
+.page-footer	kozelafrikahoz.hu/static/css/screen.min.css	/^.page-footer{$/;"	c
+.page-footer__copyright	kozelafrikahoz.hu/static/css/_screen.min.css	/^    .page-footer__copyright{$/;"	c
+.page-footer__copyright	kozelafrikahoz.hu/static/css/_screen.min.css	/^.page-footer__copyright{$/;"	c
+.page-footer__copyright	kozelafrikahoz.hu/static/css/screen.min.css	/^    .page-footer__copyright{$/;"	c
+.page-footer__copyright	kozelafrikahoz.hu/static/css/screen.min.css	/^.page-footer__copyright{$/;"	c
+.page-footer__gotop	kozelafrikahoz.hu/static/css/_screen.min.css	/^    .page-footer__gotop{$/;"	c
+.page-footer__gotop	kozelafrikahoz.hu/static/css/_screen.min.css	/^.page-footer__gotop{$/;"	c
+.page-footer__gotop	kozelafrikahoz.hu/static/css/screen.min.css	/^    .page-footer__gotop{$/;"	c
+.page-footer__gotop	kozelafrikahoz.hu/static/css/screen.min.css	/^.page-footer__gotop{$/;"	c
+.page-footer__gotop:before	kozelafrikahoz.hu/static/css/_screen.min.css	/^.page-footer__gotop:before{$/;"	c
+.page-footer__gotop:before	kozelafrikahoz.hu/static/css/screen.min.css	/^.page-footer__gotop:before{$/;"	c
+.page-footer__gotop:hover	kozelafrikahoz.hu/static/css/_screen.min.css	/^.page-footer__gotop:hover{$/;"	c
+.page-footer__gotop:hover	kozelafrikahoz.hu/static/css/screen.min.css	/^.page-footer__gotop:hover{$/;"	c
+.page-footer__inner	kozelafrikahoz.hu/static/css/_screen.min.css	/^.page-footer__inner{$/;"	c
+.page-footer__inner	kozelafrikahoz.hu/static/css/screen.min.css	/^.page-footer__inner{$/;"	c
+.page-footer__inner:after	kozelafrikahoz.hu/static/css/_screen.min.css	/^.page-footer__inner:after{$/;"	c
+.page-footer__inner:after	kozelafrikahoz.hu/static/css/screen.min.css	/^.page-footer__inner:after{$/;"	c
+.page-header	kozelafrikahoz.hu/static/css/_screen.min.css	/^    .page-header{$/;"	c
+.page-header	kozelafrikahoz.hu/static/css/_screen.min.css	/^.page-header{$/;"	c
+.page-header	kozelafrikahoz.hu/static/css/screen.min.css	/^    .page-header{$/;"	c
+.page-header	kozelafrikahoz.hu/static/css/screen.min.css	/^.page-header{$/;"	c
+.page-header.is-fixed	kozelafrikahoz.hu/static/css/_screen.min.css	/^.page-header.is-fixed{$/;"	c
+.page-header.is-fixed	kozelafrikahoz.hu/static/css/screen.min.css	/^.page-header.is-fixed{$/;"	c
+.page-header:after	kozelafrikahoz.hu/static/css/_screen.min.css	/^.page-header:after{$/;"	c
+.page-header:after	kozelafrikahoz.hu/static/css/screen.min.css	/^.page-header:after{$/;"	c
+.page-header__inner	kozelafrikahoz.hu/static/css/_screen.min.css	/^    .page-header__inner{$/;"	c
+.page-header__inner	kozelafrikahoz.hu/static/css/_screen.min.css	/^.page-header__inner{$/;"	c
+.page-header__inner	kozelafrikahoz.hu/static/css/screen.min.css	/^    .page-header__inner{$/;"	c
+.page-header__inner	kozelafrikahoz.hu/static/css/screen.min.css	/^.page-header__inner{$/;"	c
+.page-header__inner:after	kozelafrikahoz.hu/static/css/_screen.min.css	/^.page-header__inner:after{$/;"	c
+.page-header__inner:after	kozelafrikahoz.hu/static/css/screen.min.css	/^.page-header__inner:after{$/;"	c
+.page-header__link	kozelafrikahoz.hu/static/css/_screen.min.css	/^.page-header__link{$/;"	c
+.page-header__link	kozelafrikahoz.hu/static/css/screen.min.css	/^.page-header__link{$/;"	c
+.page-header__logo	kozelafrikahoz.hu/static/css/_screen.min.css	/^    .page-header__logo{$/;"	c
+.page-header__logo	kozelafrikahoz.hu/static/css/_screen.min.css	/^.page-header__logo{$/;"	c
+.page-header__logo	kozelafrikahoz.hu/static/css/screen.min.css	/^    .page-header__logo{$/;"	c
+.page-header__logo	kozelafrikahoz.hu/static/css/screen.min.css	/^.page-header__logo{$/;"	c
+.page-header__logo h1	kozelafrikahoz.hu/static/css/_screen.min.css	/^    .page-header__logo h1{$/;"	s
+.page-header__logo h1	kozelafrikahoz.hu/static/css/_screen.min.css	/^.page-header__logo h1{$/;"	s
+.page-header__logo h1	kozelafrikahoz.hu/static/css/screen.min.css	/^    .page-header__logo h1{$/;"	s
+.page-header__logo h1	kozelafrikahoz.hu/static/css/screen.min.css	/^.page-header__logo h1{$/;"	s
+.page-header__logo span	kozelafrikahoz.hu/static/css/_screen.min.css	/^    .page-header__logo span{$/;"	s
+.page-header__logo span	kozelafrikahoz.hu/static/css/_screen.min.css	/^.page-header__logo span{$/;"	s
+.page-header__logo span	kozelafrikahoz.hu/static/css/screen.min.css	/^    .page-header__logo span{$/;"	s
+.page-header__logo span	kozelafrikahoz.hu/static/css/screen.min.css	/^.page-header__logo span{$/;"	s
+.page-header__nav	kozelafrikahoz.hu/static/css/_screen.min.css	/^    .page-header__nav{$/;"	c
+.page-header__nav	kozelafrikahoz.hu/static/css/_screen.min.css	/^.page-header__nav{$/;"	c
+.page-header__nav	kozelafrikahoz.hu/static/css/screen.min.css	/^    .page-header__nav{$/;"	c
+.page-header__nav	kozelafrikahoz.hu/static/css/screen.min.css	/^.page-header__nav{$/;"	c
+.page-header__nav li	kozelafrikahoz.hu/static/css/_screen.min.css	/^    .page-header__nav li{$/;"	s
+.page-header__nav li	kozelafrikahoz.hu/static/css/_screen.min.css	/^.page-header__nav li{$/;"	s
+.page-header__nav li	kozelafrikahoz.hu/static/css/screen.min.css	/^    .page-header__nav li{$/;"	s
+.page-header__nav li	kozelafrikahoz.hu/static/css/screen.min.css	/^.page-header__nav li{$/;"	s
+.page-header__nav-donate	kozelafrikahoz.hu/static/css/_screen.min.css	/^.page-header__nav-donate{$/;"	c
+.page-header__nav-donate	kozelafrikahoz.hu/static/css/screen.min.css	/^.page-header__nav-donate{$/;"	c
+.page-header__nav-link	kozelafrikahoz.hu/static/css/_screen.min.css	/^.page-header__nav-link{$/;"	c
+.page-header__nav-link	kozelafrikahoz.hu/static/css/screen.min.css	/^.page-header__nav-link{$/;"	c
+.page-header__nav-link.is-active	kozelafrikahoz.hu/static/css/_screen.min.css	/^.page-header__nav-link:hover,.page-header__nav-link.is-active{$/;"	c
+.page-header__nav-link.is-active	kozelafrikahoz.hu/static/css/screen.min.css	/^.page-header__nav-link:hover,.page-header__nav-link.is-active{$/;"	c
+.page-header__nav-link:hover	kozelafrikahoz.hu/static/css/_screen.min.css	/^.page-header__nav-link:hover,.page-header__nav-link.is-active{$/;"	c
+.page-header__nav-link:hover	kozelafrikahoz.hu/static/css/screen.min.css	/^.page-header__nav-link:hover,.page-header__nav-link.is-active{$/;"	c
+.page-header__nav_index	kozelafrikahoz.hu/static/css/_screen.min.css	/^.page-header__nav_index{$/;"	c
+.page-header__nav_index	kozelafrikahoz.hu/static/css/_screen.min.css	/^}.page-header__nav_index{$/;"	c
+.page-header__nav_index	kozelafrikahoz.hu/static/css/screen.min.css	/^.page-header__nav_index{$/;"	c
+.page-header__nav_index	kozelafrikahoz.hu/static/css/screen.min.css	/^}.page-header__nav_index{$/;"	c
+.page-header__nav_index li	kozelafrikahoz.hu/static/css/_screen.min.css	/^.page-header__nav_index li{$/;"	s
+.page-header__nav_index li	kozelafrikahoz.hu/static/css/screen.min.css	/^.page-header__nav_index li{$/;"	s
+.portfolio	kozelafrikahoz.hu/static/css/_screen.min.css	/^    .portfolio{$/;"	c
+.portfolio	kozelafrikahoz.hu/static/css/_screen.min.css	/^.portfolio{$/;"	c
+.portfolio	kozelafrikahoz.hu/static/css/screen.min.css	/^    .portfolio{$/;"	c
+.portfolio	kozelafrikahoz.hu/static/css/screen.min.css	/^.portfolio{$/;"	c
+.portfolio__content	kozelafrikahoz.hu/static/css/_screen.min.css	/^.portfolio__content{$/;"	c
+.portfolio__content	kozelafrikahoz.hu/static/css/screen.min.css	/^.portfolio__content{$/;"	c
+.portfolio__descr	kozelafrikahoz.hu/static/css/_screen.min.css	/^.portfolio__descr{$/;"	c
+.portfolio__descr	kozelafrikahoz.hu/static/css/screen.min.css	/^.portfolio__descr{$/;"	c
+.portfolio__descr_end	kozelafrikahoz.hu/static/css/_screen.min.css	/^.portfolio__descr_end{$/;"	c
+.portfolio__descr_end	kozelafrikahoz.hu/static/css/screen.min.css	/^.portfolio__descr_end{$/;"	c
+.portfolio__descr_sponsor	kozelafrikahoz.hu/static/css/_screen.min.css	/^.portfolio__descr_sponsor{$/;"	c
+.portfolio__descr_sponsor	kozelafrikahoz.hu/static/css/screen.min.css	/^.portfolio__descr_sponsor{$/;"	c
+.portfolio__filter li	kozelafrikahoz.hu/static/css/_screen.min.css	/^    .portfolio__filter li{$/;"	s
+.portfolio__filter li	kozelafrikahoz.hu/static/css/_screen.min.css	/^.portfolio__filter li{$/;"	s
+.portfolio__filter li	kozelafrikahoz.hu/static/css/screen.min.css	/^    .portfolio__filter li{$/;"	s
+.portfolio__filter li	kozelafrikahoz.hu/static/css/screen.min.css	/^.portfolio__filter li{$/;"	s
+.portfolio__filter-btn	kozelafrikahoz.hu/static/css/_screen.min.css	/^.portfolio__filter-btn{$/;"	c
+.portfolio__filter-btn	kozelafrikahoz.hu/static/css/screen.min.css	/^.portfolio__filter-btn{$/;"	c
+.portfolio__filter-btn.is-selected	kozelafrikahoz.hu/static/css/_screen.min.css	/^.portfolio__filter-btn:hover,.portfolio__filter-btn.is-selected{$/;"	c
+.portfolio__filter-btn.is-selected	kozelafrikahoz.hu/static/css/screen.min.css	/^.portfolio__filter-btn:hover,.portfolio__filter-btn.is-selected{$/;"	c
+.portfolio__filter-btn:hover	kozelafrikahoz.hu/static/css/_screen.min.css	/^.portfolio__filter-btn:hover,.portfolio__filter-btn.is-selected{$/;"	c
+.portfolio__filter-btn:hover	kozelafrikahoz.hu/static/css/screen.min.css	/^.portfolio__filter-btn:hover,.portfolio__filter-btn.is-selected{$/;"	c
+.portfolio__inner	kozelafrikahoz.hu/static/css/_screen.min.css	/^.portfolio__inner{$/;"	c
+.portfolio__inner	kozelafrikahoz.hu/static/css/screen.min.css	/^.portfolio__inner{$/;"	c
+.portfolio__inner:after	kozelafrikahoz.hu/static/css/_screen.min.css	/^.portfolio__inner:after{$/;"	c
+.portfolio__inner:after	kozelafrikahoz.hu/static/css/screen.min.css	/^.portfolio__inner:after{$/;"	c
+.portfolio__item	kozelafrikahoz.hu/static/css/_screen.min.css	/^.portfolio__item{$/;"	c
+.portfolio__item	kozelafrikahoz.hu/static/css/screen.min.css	/^.portfolio__item{$/;"	c
+.portfolio__item-caption	kozelafrikahoz.hu/static/css/_screen.min.css	/^.portfolio__item-caption{$/;"	c
+.portfolio__item-caption	kozelafrikahoz.hu/static/css/screen.min.css	/^.portfolio__item-caption{$/;"	c
+.portfolio__item-cat	kozelafrikahoz.hu/static/css/_screen.min.css	/^.portfolio__item-cat{$/;"	c
+.portfolio__item-cat	kozelafrikahoz.hu/static/css/screen.min.css	/^.portfolio__item-cat{$/;"	c
+.portfolio__item-img	kozelafrikahoz.hu/static/css/_screen.min.css	/^.portfolio__item-img{$/;"	c
+.portfolio__item-img	kozelafrikahoz.hu/static/css/screen.min.css	/^.portfolio__item-img{$/;"	c
+.portfolio__item-title	kozelafrikahoz.hu/static/css/_screen.min.css	/^.portfolio__item-title{$/;"	c
+.portfolio__item-title	kozelafrikahoz.hu/static/css/screen.min.css	/^.portfolio__item-title{$/;"	c
+.portfolio__item-title:before	kozelafrikahoz.hu/static/css/_screen.min.css	/^.portfolio__item-title:before{$/;"	c
+.portfolio__item-title:before	kozelafrikahoz.hu/static/css/screen.min.css	/^.portfolio__item-title:before{$/;"	c
+.portfolio__item.is-hidden	kozelafrikahoz.hu/static/css/_screen.min.css	/^.portfolio__item.is-hidden{$/;"	c
+.portfolio__item.is-hidden	kozelafrikahoz.hu/static/css/screen.min.css	/^.portfolio__item.is-hidden{$/;"	c
+.portfolio__item:hover .portfolio__item-caption	kozelafrikahoz.hu/static/css/_screen.min.css	/^.portfolio__item:hover .portfolio__item-caption{$/;"	c
+.portfolio__item:hover .portfolio__item-caption	kozelafrikahoz.hu/static/css/screen.min.css	/^.portfolio__item:hover .portfolio__item-caption{$/;"	c
+.portfolio__title	kozelafrikahoz.hu/static/css/_screen.min.css	/^.portfolio__title{$/;"	c
+.portfolio__title	kozelafrikahoz.hu/static/css/screen.min.css	/^.portfolio__title{$/;"	c
+.portfolio_permanent_name	kozelafrikahoz.hu/static/css/_screen.min.css	/^.portfolio_permanent_name{$/;"	c
+.portfolio_permanent_name	kozelafrikahoz.hu/static/css/screen.min.css	/^.portfolio_permanent_name{$/;"	c
+.programs_title	kozelafrikahoz.hu/static/css/_screen.min.css	/^.programs_title{$/;"	c
+.programs_title	kozelafrikahoz.hu/static/css/screen.min.css	/^.programs_title{$/;"	c
+.promo	kozelafrikahoz.hu/static/css/_screen.min.css	/^.promo{$/;"	c
+.promo	kozelafrikahoz.hu/static/css/screen.min.css	/^.promo{$/;"	c
+.promo1__title	kozelafrikahoz.hu/static/css/_screen.min.css	/^.promo1__title{$/;"	c
+.promo1__title	kozelafrikahoz.hu/static/css/screen.min.css	/^.promo1__title{$/;"	c
+.promo2__title	kozelafrikahoz.hu/static/css/_screen.min.css	/^.promo2__title{$/;"	c
+.promo2__title	kozelafrikahoz.hu/static/css/screen.min.css	/^.promo2__title{$/;"	c
+.promo__btn	kozelafrikahoz.hu/static/css/_screen.min.css	/^.promo__btn{$/;"	c
+.promo__btn	kozelafrikahoz.hu/static/css/screen.min.css	/^.promo__btn{$/;"	c
+.promo__btn:hover	kozelafrikahoz.hu/static/css/_screen.min.css	/^.promo__btn:hover{$/;"	c
+.promo__btn:hover	kozelafrikahoz.hu/static/css/screen.min.css	/^.promo__btn:hover{$/;"	c
+.promo__descr	kozelafrikahoz.hu/static/css/_screen.min.css	/^.promo__descr{$/;"	c
+.promo__descr	kozelafrikahoz.hu/static/css/screen.min.css	/^.promo__descr{$/;"	c
+.promo__go-next	kozelafrikahoz.hu/static/css/_screen.min.css	/^.promo__go-next{$/;"	c
+.promo__go-next	kozelafrikahoz.hu/static/css/screen.min.css	/^.promo__go-next{$/;"	c
+.promo__go-next:before	kozelafrikahoz.hu/static/css/_screen.min.css	/^.promo__go-next:before{$/;"	c
+.promo__go-next:before	kozelafrikahoz.hu/static/css/screen.min.css	/^.promo__go-next:before{$/;"	c
+.promo__go-next:hover	kozelafrikahoz.hu/static/css/_screen.min.css	/^.promo__go-next:hover{$/;"	c
+.promo__go-next:hover	kozelafrikahoz.hu/static/css/screen.min.css	/^.promo__go-next:hover{$/;"	c
+.promo__inner	kozelafrikahoz.hu/static/css/_screen.min.css	/^.promo__inner{$/;"	c
+.promo__inner	kozelafrikahoz.hu/static/css/screen.min.css	/^.promo__inner{$/;"	c
+.promo__inner:after	kozelafrikahoz.hu/static/css/_screen.min.css	/^.promo__inner:after{$/;"	c
+.promo__inner:after	kozelafrikahoz.hu/static/css/screen.min.css	/^.promo__inner:after{$/;"	c
+.promo__title	kozelafrikahoz.hu/static/css/_screen.min.css	/^.promo__title{$/;"	c
+.promo__title	kozelafrikahoz.hu/static/css/screen.min.css	/^.promo__title{$/;"	c
+.promo__title span	kozelafrikahoz.hu/static/css/_screen.min.css	/^.promo__title span{$/;"	s
+.promo__title span	kozelafrikahoz.hu/static/css/screen.min.css	/^.promo__title span{$/;"	s
+.schools	kozelafrikahoz.hu/static/css/_screen.min.css	/^.schools{$/;"	c
+.schools	kozelafrikahoz.hu/static/css/screen.min.css	/^.schools{$/;"	c
+.schools img	kozelafrikahoz.hu/static/css/_screen.min.css	/^.schools img{$/;"	s
+.schools img	kozelafrikahoz.hu/static/css/screen.min.css	/^.schools img{$/;"	s
+.sign_up_page	kozelafrikahoz.hu/static/css/_screen.min.css	/^.sign_up_page{$/;"	c
+.sign_up_page	kozelafrikahoz.hu/static/css/screen.min.css	/^.sign_up_page{$/;"	c
+.sign_up_page_embeded_mailchimp	kozelafrikahoz.hu/static/css/_screen.min.css	/^.sign_up_page_embeded_mailchimp{$/;"	c
+.sign_up_page_embeded_mailchimp	kozelafrikahoz.hu/static/css/screen.min.css	/^.sign_up_page_embeded_mailchimp{$/;"	c
+.sign_up_page_required_email	kozelafrikahoz.hu/static/css/_screen.min.css	/^.sign_up_page_required_email{$/;"	c
+.sign_up_page_required_email	kozelafrikahoz.hu/static/css/screen.min.css	/^.sign_up_page_required_email{$/;"	c
+.sign_up_page_submit_button	kozelafrikahoz.hu/static/css/_screen.min.css	/^.sign_up_page_submit_button{$/;"	c
+.sign_up_page_submit_button	kozelafrikahoz.hu/static/css/screen.min.css	/^.sign_up_page_submit_button{$/;"	c
+.sign_up_page_submit_button_div	kozelafrikahoz.hu/static/css/_screen.min.css	/^.sign_up_page_submit_button_div{$/;"	c
+.sign_up_page_submit_button_div	kozelafrikahoz.hu/static/css/screen.min.css	/^.sign_up_page_submit_button_div{$/;"	c
+.team	kozelafrikahoz.hu/static/css/_screen.min.css	/^    .team{$/;"	c
+.team	kozelafrikahoz.hu/static/css/screen.min.css	/^    .team{$/;"	c
+.teamMember	kozelafrikahoz.hu/static/css/_screen.min.css	/^.teamMember{$/;"	c
+.teamMember	kozelafrikahoz.hu/static/css/screen.min.css	/^.teamMember{$/;"	c
+.teamMemberDescr	kozelafrikahoz.hu/static/css/_screen.min.css	/^.teamMemberDescr{$/;"	c
+.teamMemberDescr	kozelafrikahoz.hu/static/css/screen.min.css	/^.teamMemberDescr{$/;"	c
+.teamMemberImage	kozelafrikahoz.hu/static/css/_screen.min.css	/^.teamMemberImage{$/;"	c
+.teamMemberImage	kozelafrikahoz.hu/static/css/screen.min.css	/^.teamMemberImage{$/;"	c
+.teamMemberItem	kozelafrikahoz.hu/static/css/_screen.min.css	/^.teamMemberItem{$/;"	c
+.teamMemberItem	kozelafrikahoz.hu/static/css/screen.min.css	/^.teamMemberItem{$/;"	c
+.teamMemberItem_last	kozelafrikahoz.hu/static/css/_screen.min.css	/^.teamMemberItem_last{$/;"	c
+.teamMemberItem_last	kozelafrikahoz.hu/static/css/screen.min.css	/^.teamMemberItem_last{$/;"	c
+.team__member	kozelafrikahoz.hu/static/css/_screen.min.css	/^    .team__member{$/;"	c
+.team__member	kozelafrikahoz.hu/static/css/screen.min.css	/^    .team__member{$/;"	c
+.team__member-descr	kozelafrikahoz.hu/static/css/_screen.min.css	/^    .team__member-descr{$/;"	c
+.team__member-descr	kozelafrikahoz.hu/static/css/screen.min.css	/^    .team__member-descr{$/;"	c
+.team__member-icon	kozelafrikahoz.hu/static/css/_screen.min.css	/^.team__member-icon{$/;"	c
+.team__member-icon	kozelafrikahoz.hu/static/css/screen.min.css	/^.team__member-icon{$/;"	c
+.team__member-icon.db:before	kozelafrikahoz.hu/static/css/_screen.min.css	/^.team__member-icon.db:before{$/;"	c
+.team__member-icon.db:before	kozelafrikahoz.hu/static/css/screen.min.css	/^.team__member-icon.db:before{$/;"	c
+.team__member-icon.fb:before	kozelafrikahoz.hu/static/css/_screen.min.css	/^.team__member-icon.fb:before{$/;"	c
+.team__member-icon.fb:before	kozelafrikahoz.hu/static/css/screen.min.css	/^.team__member-icon.fb:before{$/;"	c
+.team__member-icon.gplus:before	kozelafrikahoz.hu/static/css/_screen.min.css	/^.team__member-icon.gplus:before{$/;"	c
+.team__member-icon.gplus:before	kozelafrikahoz.hu/static/css/screen.min.css	/^.team__member-icon.gplus:before{$/;"	c
+.team__member-icon.tw:before	kozelafrikahoz.hu/static/css/_screen.min.css	/^.team__member-icon.tw:before{$/;"	c
+.team__member-icon.tw:before	kozelafrikahoz.hu/static/css/screen.min.css	/^.team__member-icon.tw:before{$/;"	c
+.team__member-icon:before	kozelafrikahoz.hu/static/css/_screen.min.css	/^.team__member-icon:before{$/;"	c
+.team__member-icon:before	kozelafrikahoz.hu/static/css/screen.min.css	/^.team__member-icon:before{$/;"	c
+.team__member-icon:hover	kozelafrikahoz.hu/static/css/_screen.min.css	/^.team__member-icon:hover{$/;"	c
+.team__member-icon:hover	kozelafrikahoz.hu/static/css/screen.min.css	/^.team__member-icon:hover{$/;"	c
+.team__member-info	kozelafrikahoz.hu/static/css/_screen.min.css	/^    .team__member-info{$/;"	c
+.team__member-info	kozelafrikahoz.hu/static/css/screen.min.css	/^    .team__member-info{$/;"	c
+.team__member-soc	kozelafrikahoz.hu/static/css/_screen.min.css	/^    .team__member-soc{$/;"	c
+.team__member-soc	kozelafrikahoz.hu/static/css/_screen.min.css	/^.team__member-soc{$/;"	c
+.team__member-soc	kozelafrikahoz.hu/static/css/screen.min.css	/^    .team__member-soc{$/;"	c
+.team__member-soc	kozelafrikahoz.hu/static/css/screen.min.css	/^.team__member-soc{$/;"	c
+.team__member-soc li	kozelafrikahoz.hu/static/css/_screen.min.css	/^.team__member-soc li{$/;"	s
+.team__member-soc li	kozelafrikahoz.hu/static/css/screen.min.css	/^.team__member-soc li{$/;"	s
+.team__member:hover .team__member-soc	kozelafrikahoz.hu/static/css/_screen.min.css	/^.team__member:hover .team__member-soc{$/;"	c
+.team__member:hover .team__member-soc	kozelafrikahoz.hu/static/css/screen.min.css	/^.team__member:hover .team__member-soc{$/;"	c
+.video_section	kozelafrikahoz.hu/static/css/_screen.min.css	/^.video_section{$/;"	c
+.video_section	kozelafrikahoz.hu/static/css/screen.min.css	/^.video_section{$/;"	c
+0	kozelafrikahoz.hu/.vs/VSWorkspaceState.json	/^    ""$/;"	s	array:ExpandedNodes
+4.7.0	kozelafrikahoz.hu/static/css/_screen.min.css	/^}https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.min.css$/;"	c
+4.7.0	kozelafrikahoz.hu/static/css/screen.min.css	/^}https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.min.css$/;"	c
+A Bamakói gyermektámogatás!	kozelafrikahoz.hu/utatAlabdanak.html	/^      <h2 class="UtatAlabdanak_title">A Bamakói gyermektámogatás!<\/h2>$/;"	i
+A TÖRÖS GYÜJTEMÉNY	kozelafrikahoz.hu/news.html	/^			<h3 class = "news_block_text_title">A TÖRÖS GYÜJTEMÉNY<\/h3>$/;"	j
+A TÖRÖS GYÜJTEMÉNY	kozelafrikahoz.hu/news/toros_collection.html	/^            <h2 class="children_data_page_title">A TÖRÖS GYÜJTEMÉNY<\/h2>$/;"	i
+A háttér	kozelafrikahoz.hu/scholarship.html	/^		<h3 class="learn_more_page_title1">A háttér<\/h3>$/;"	j
+A nők oktatása és a születésszám	kozelafrikahoz.hu/scholarship.html	/^		<h3 class="learn_more_page_title1">A nők oktatása és a születésszám<\/h3>$/;"	j
+A támogatói csoport lehetősége	kozelafrikahoz.hu/scholarship.html	/^		<h3 class="learn_more_page_title1">A támogatói csoport lehetősége<\/h3>$/;"	j
+Abdoulaye SIDIBÉ	kozelafrikahoz.hu/SaC/Mali/Winners.html	/^                  <h3 class="child-name">Abdoulaye SIDIBÉ<\/h3>$/;"	j
+Abdoulaye SIDIBÉ	kozelafrikahoz.hu/SaC/Mali/Winners/AbdoulayeSidibe.html	/^            <h2 class="children_data_page_title">Abdoulaye SIDIBÉ<\/h2>$/;"	i
+Abdoullah TOLO	kozelafrikahoz.hu/SaC/Mali/Cherifoula/abdoullahTolo.html	/^            <h2 class="children_data_page_title">Abdoullah TOLO<\/h2>$/;"	i
+Abdoullah Tolo	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Abdoullah Tolo<\/h3>$/;"	j
+Abigel KALUBA	kozelafrikahoz.hu/SaC/Zambia/Prambs/AbigelKaluba.html	/^            <h2 class="children_data_page_title">Abigel KALUBA<\/h2>$/;"	i
+Adama KOITA	kozelafrikahoz.hu/SaC/Mali/Cherifoula/adamaKoita.html	/^            <h2 class="children_data_page_title">Adama KOITA<\/h2>$/;"	i
+Adama KOITA	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Adama KOITA<\/h3>$/;"	j
+Adama SAMAKÉ	kozelafrikahoz.hu/SaC/Mali/Cherifoula/AdamaSamake.html	/^            <h2 class="children_data_page_title">Adama SAMAKÉ<\/h2>$/;"	i
+Adama SAMAKÉ	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Adama SAMAKÉ<\/h3>$/;"	j
+Aicha KEITA	kozelafrikahoz.hu/SaC/Mali/Winners.html	/^                  <h3 class="child-name">Aicha KEITA<\/h3>$/;"	j
+Aicha KEITA	kozelafrikahoz.hu/SaC/Mali/Winners/Aicha_KEITA.html	/^            <h2 class="children_data_page_title">Aicha KEITA<\/h2>$/;"	i
+Aicha KEITA	kozelafrikahoz.hu/SaC/Mali/Winners/aichataKeita.html	/^          <h2 class="children_data_page_title">Aicha KEITA<\/h2>$/;"	i
+Aichatou COULIBALY	kozelafrikahoz.hu/SaC/Mali/Cherifoula/aichatouCoulibaly.html	/^            <h2 class="children_data_page_title">Aichatou COULIBALY<\/h2>$/;"	i
+Aichatou COULIBALY	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Aichatou COULIBALY<\/h3>$/;"	j
+Aichatou TOLO	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Aichatou TOLO<\/h3>$/;"	j
+Alassan MAIGA	kozelafrikahoz.hu/SaC/Mali/Cherifoula/alassanMaiga.html	/^            <h2 class="children_data_page_title">Alassan MAIGA<\/h2>$/;"	i
+Alassan MAIGA	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Alassan MAIGA<\/h3>$/;"	j
+Aly BARRY	kozelafrikahoz.hu/SaC/Mali/Winners.html	/^                  <h3 class="child-name">Aly BARRY<\/h3>$/;"	j
+Aly Barry	kozelafrikahoz.hu/SaC/Mali/Winners/AlyBarry.html	/^            <h2 class="children_data_page_title">Aly Barry<\/h2>$/;"	i
+Aminata Moussa Traoré	kozelafrikahoz.hu/SaC/Mali/Cherifoula/aminataMoussa.html	/^            <h2 class="children_data_page_title">Aminata Moussa Traoré<\/h2>$/;"	i
+Aminata Moussa Traoré	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Aminata Moussa Traoré<\/h3>$/;"	j
+Aminata SAMAKÉ	kozelafrikahoz.hu/SaC/Mali/Winners/AminataSamake.html	/^            <h2 class="children_data_page_title">Aminata SAMAKÉ <\/h2>$/;"	i
+Aminata SAMANKÉ	kozelafrikahoz.hu/SaC/Mali/Winners.html	/^                  <h3 class="child-name">Aminata SAMANKÉ<\/h3>$/;"	j
+Aminata Théophile TRAORÉ	kozelafrikahoz.hu/SaC/Mali/Cherifoula/aminataTheophile.html	/^             <h2 class="children_data_page_title">Aminata Théophile TRAORÉ<\/h2>$/;"	i
+Aminata Théophile TRAORÉ	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                   <h3 class="child-name">Aminata Théophile TRAORÉ<\/h3>$/;"	j
+AnonymousFunction2dbd01500100	kozelafrikahoz.hu/static/_js/body.min.js	/^}("undefined" != typeof window ? window : this, function(h, e) {$/;"	f
+AnonymousFunction2dbd01500200	kozelafrikahoz.hu/static/_js/body.min.js	/^        u = function(e, t) {$/;"	f
+AnonymousFunction2dbd01500300	kozelafrikahoz.hu/static/_js/body.min.js	/^        toArray: function() {$/;"	f
+AnonymousFunction2dbd01500400	kozelafrikahoz.hu/static/_js/body.min.js	/^        get: function(e) {$/;"	f
+AnonymousFunction2dbd01500500	kozelafrikahoz.hu/static/_js/body.min.js	/^        pushStack: function(e) {$/;"	f
+AnonymousFunction2dbd01500600	kozelafrikahoz.hu/static/_js/body.min.js	/^        each: function(e, t) {$/;"	f
+AnonymousFunction2dbd01500700	kozelafrikahoz.hu/static/_js/body.min.js	/^        map: function(n) {$/;"	f
+AnonymousFunction2dbd01500800	kozelafrikahoz.hu/static/_js/body.min.js	/^            return this.pushStack(C.map(this, function(e, t) {$/;"	f	function:AnonymousFunction2dbd01500700
+AnonymousFunction2dbd01500900	kozelafrikahoz.hu/static/_js/body.min.js	/^        slice: function() {$/;"	f
+AnonymousFunction2dbd01500a00	kozelafrikahoz.hu/static/_js/body.min.js	/^        first: function() {$/;"	f
+AnonymousFunction2dbd01500b00	kozelafrikahoz.hu/static/_js/body.min.js	/^        last: function() {$/;"	f
+AnonymousFunction2dbd01500c00	kozelafrikahoz.hu/static/_js/body.min.js	/^        eq: function(e) {$/;"	f
+AnonymousFunction2dbd01500d00	kozelafrikahoz.hu/static/_js/body.min.js	/^        end: function() {$/;"	f
+AnonymousFunction2dbd01500e00	kozelafrikahoz.hu/static/_js/body.min.js	/^    }, C.extend = C.fn.extend = function() {$/;"	f
+AnonymousFunction2dbd01500f00	kozelafrikahoz.hu/static/_js/body.min.js	/^        error: function(e) {$/;"	f
+AnonymousFunction2dbd01501000	kozelafrikahoz.hu/static/_js/body.min.js	/^        noop: function() {},$/;"	f
+AnonymousFunction2dbd015010000	kozelafrikahoz.hu/static/_js/body.min.js	/^            return 1 === r && (a = i, (i = function(e) {$/;"	f	function:AnonymousFunction2dbd0150ff00
+AnonymousFunction2dbd015010100	kozelafrikahoz.hu/static/_js/body.min.js	/^            }).guid = a.guid || (a.guid = C.guid++)), this.each(function() {$/;"	f	function:AnonymousFunction2dbd0150ff00
+AnonymousFunction2dbd015010200	kozelafrikahoz.hu/static/_js/body.min.js	/^        one: function(e, t, n, i) {$/;"	f
+AnonymousFunction2dbd015010300	kozelafrikahoz.hu/static/_js/body.min.js	/^        off: function(e, t, n) {$/;"	f
+AnonymousFunction2dbd015010400	kozelafrikahoz.hu/static/_js/body.min.js	/^            if ("object" != typeof e) return !1 !== t && "function" != typeof t || (n = t, t = v/;"	f	function:AnonymousFunction2dbd015010300
+AnonymousFunction2dbd015010500	kozelafrikahoz.hu/static/_js/body.min.js	/^        trigger: function(e, t) {$/;"	f
+AnonymousFunction2dbd015010600	kozelafrikahoz.hu/static/_js/body.min.js	/^            return this.each(function() {$/;"	f	function:AnonymousFunction2dbd015010500
+AnonymousFunction2dbd015010700	kozelafrikahoz.hu/static/_js/body.min.js	/^        triggerHandler: function(e, t) {$/;"	f
+AnonymousFunction2dbd015010800	kozelafrikahoz.hu/static/_js/body.min.js	/^        clone: function(e, t, n) {$/;"	f
+AnonymousFunction2dbd015010900	kozelafrikahoz.hu/static/_js/body.min.js	/^        buildFragment: function(e, t, n, i) {$/;"	f
+AnonymousFunction2dbd015010a00	kozelafrikahoz.hu/static/_js/body.min.js	/^        cleanData: function(e, t) {$/;"	f
+AnonymousFunction2dbd015010b00	kozelafrikahoz.hu/static/_js/body.min.js	/^        text: function(e) {$/;"	f
+AnonymousFunction2dbd015010c00	kozelafrikahoz.hu/static/_js/body.min.js	/^            return X(this, function(e) {$/;"	f	function:AnonymousFunction2dbd015010b00
+AnonymousFunction2dbd015010d00	kozelafrikahoz.hu/static/_js/body.min.js	/^        append: function() {$/;"	f
+AnonymousFunction2dbd015010e00	kozelafrikahoz.hu/static/_js/body.min.js	/^            return this.domManip(arguments, function(e) {$/;"	f	function:AnonymousFunction2dbd015010d00
+AnonymousFunction2dbd015010f00	kozelafrikahoz.hu/static/_js/body.min.js	/^        prepend: function() {$/;"	f
+AnonymousFunction2dbd01501100	kozelafrikahoz.hu/static/_js/body.min.js	/^        isFunction: function(e) {$/;"	f
+AnonymousFunction2dbd015011000	kozelafrikahoz.hu/static/_js/body.min.js	/^            return this.domManip(arguments, function(e) {$/;"	f	function:AnonymousFunction2dbd015010f00
+AnonymousFunction2dbd015011100	kozelafrikahoz.hu/static/_js/body.min.js	/^        before: function() {$/;"	f
+AnonymousFunction2dbd015011200	kozelafrikahoz.hu/static/_js/body.min.js	/^            return this.domManip(arguments, function(e) {$/;"	c	class:AnonymousFunction2dbd015011100
+AnonymousFunction2dbd015011300	kozelafrikahoz.hu/static/_js/body.min.js	/^        after: function() {$/;"	f
+AnonymousFunction2dbd015011400	kozelafrikahoz.hu/static/_js/body.min.js	/^            return this.domManip(arguments, function(e) {$/;"	c	class:AnonymousFunction2dbd015011300
+AnonymousFunction2dbd015011500	kozelafrikahoz.hu/static/_js/body.min.js	/^        remove: function(e, t) {$/;"	f
+AnonymousFunction2dbd015011600	kozelafrikahoz.hu/static/_js/body.min.js	/^        empty: function() {$/;"	f
+AnonymousFunction2dbd015011700	kozelafrikahoz.hu/static/_js/body.min.js	/^        clone: function(e, t) {$/;"	f
+AnonymousFunction2dbd015011800	kozelafrikahoz.hu/static/_js/body.min.js	/^            return e = null != e && e, t = null == t ? e : t, this.map(function() {$/;"	f	function:AnonymousFunction2dbd015011700
+AnonymousFunction2dbd015011900	kozelafrikahoz.hu/static/_js/body.min.js	/^        html: function(e) {$/;"	f
+AnonymousFunction2dbd015011a00	kozelafrikahoz.hu/static/_js/body.min.js	/^            return X(this, function(e) {$/;"	f	function:AnonymousFunction2dbd015011900
+AnonymousFunction2dbd015011b00	kozelafrikahoz.hu/static/_js/body.min.js	/^        replaceWith: function() {$/;"	f
+AnonymousFunction2dbd015011c00	kozelafrikahoz.hu/static/_js/body.min.js	/^            return this.domManip(arguments, function(e) {$/;"	f	function:AnonymousFunction2dbd015011b00
+AnonymousFunction2dbd015011d00	kozelafrikahoz.hu/static/_js/body.min.js	/^        detach: function(e) {$/;"	f
+AnonymousFunction2dbd015011e00	kozelafrikahoz.hu/static/_js/body.min.js	/^        domManip: function(n, i) {$/;"	f
+AnonymousFunction2dbd015011f00	kozelafrikahoz.hu/static/_js/body.min.js	/^            if (p || 1 < u && "string" == typeof d && !v.checkClone && fe.test(d)) return this.e/;"	f	function:AnonymousFunction2dbd015011e00
+AnonymousFunction2dbd01501200	kozelafrikahoz.hu/static/_js/body.min.js	/^        isArray: Array.isArray || function(e) {$/;"	f
+AnonymousFunction2dbd015012000	kozelafrikahoz.hu/static/_js/body.min.js	/^    }, function(e, a) {$/;"	f
+AnonymousFunction2dbd015012100	kozelafrikahoz.hu/static/_js/body.min.js	/^    v.shrinkWrapBlocks = function() {$/;"	f
+AnonymousFunction2dbd015012200	kozelafrikahoz.hu/static/_js/body.min.js	/^    h.getComputedStyle ? (Ae = function(e) {$/;"	f
+AnonymousFunction2dbd015012300	kozelafrikahoz.hu/static/_js/body.min.js	/^        }, De = function(e, t, n) {$/;"	f
+AnonymousFunction2dbd015012400	kozelafrikahoz.hu/static/_js/body.min.js	/^        }) : N.documentElement.currentStyle && (Ae = function(e) {$/;"	f
+AnonymousFunction2dbd015012500	kozelafrikahoz.hu/static/_js/body.min.js	/^        }, De = function(e, t, n) {$/;"	f
+AnonymousFunction2dbd015012600	kozelafrikahoz.hu/static/_js/body.min.js	/^        function() {$/;"	f
+AnonymousFunction2dbd015012700	kozelafrikahoz.hu/static/_js/body.min.js	/^                reliableHiddenOffsets: function() {$/;"	f	function:AnonymousFunction2dbd015012600
+AnonymousFunction2dbd015012800	kozelafrikahoz.hu/static/_js/body.min.js	/^                boxSizingReliable: function() {$/;"	f	function:AnonymousFunction2dbd015012600
+AnonymousFunction2dbd015012900	kozelafrikahoz.hu/static/_js/body.min.js	/^                pixelPosition: function() {$/;"	f	function:AnonymousFunction2dbd015012600
+AnonymousFunction2dbd015012a00	kozelafrikahoz.hu/static/_js/body.min.js	/^                reliableMarginRight: function() {$/;"	f	function:AnonymousFunction2dbd015012600
+AnonymousFunction2dbd015012b00	kozelafrikahoz.hu/static/_js/body.min.js	/^        }(), C.swap = function(e, t, n, i) {$/;"	f
+AnonymousFunction2dbd015012c00	kozelafrikahoz.hu/static/_js/body.min.js	/^                get: function(e, t) {$/;"	f
+AnonymousFunction2dbd015012d00	kozelafrikahoz.hu/static/_js/body.min.js	/^        style: function(e, t, n, i) {$/;"	f
+AnonymousFunction2dbd015012e00	kozelafrikahoz.hu/static/_js/body.min.js	/^        css: function(e, t, n, i) {$/;"	f
+AnonymousFunction2dbd015012f00	kozelafrikahoz.hu/static/_js/body.min.js	/^    }), C.each(["height", "width"], function(e, r) {$/;"	f
+AnonymousFunction2dbd01501300	kozelafrikahoz.hu/static/_js/body.min.js	/^        isWindow: function(e) {$/;"	f
+AnonymousFunction2dbd015013000	kozelafrikahoz.hu/static/_js/body.min.js	/^                if (t) return Be.test(C.css(e, "display")) && 0 === e.offsetWidth ? C.swap(e, We/;"	f	function:C.cssHooks
+AnonymousFunction2dbd015013100	kozelafrikahoz.hu/static/_js/body.min.js	/^        get: function(e, t) {$/;"	f
+AnonymousFunction2dbd015013200	kozelafrikahoz.hu/static/_js/body.min.js	/^        set: function(e, t) {$/;"	f
+AnonymousFunction2dbd015013300	kozelafrikahoz.hu/static/_js/body.min.js	/^    }), C.cssHooks.marginRight = Me(v.reliableMarginRight, function(e, t) {$/;"	f
+AnonymousFunction2dbd015013400	kozelafrikahoz.hu/static/_js/body.min.js	/^    }, function(r, o) {$/;"	f
+AnonymousFunction2dbd015013500	kozelafrikahoz.hu/static/_js/body.min.js	/^        css: function(e, t) {$/;"	f
+AnonymousFunction2dbd015013600	kozelafrikahoz.hu/static/_js/body.min.js	/^            return X(this, function(e, t, n) {$/;"	f	function:AnonymousFunction2dbd015013500
+AnonymousFunction2dbd015013700	kozelafrikahoz.hu/static/_js/body.min.js	/^        show: function() {$/;"	f
+AnonymousFunction2dbd015013800	kozelafrikahoz.hu/static/_js/body.min.js	/^        hide: function() {$/;"	f
+AnonymousFunction2dbd015013900	kozelafrikahoz.hu/static/_js/body.min.js	/^        toggle: function(e) {$/;"	f
+AnonymousFunction2dbd015013a00	kozelafrikahoz.hu/static/_js/body.min.js	/^            return "boolean" == typeof e ? e ? this.show() : this.hide() : this.each(function() /;"	f	function:AnonymousFunction2dbd015013900
+AnonymousFunction2dbd015013b00	kozelafrikahoz.hu/static/_js/body.min.js	/^        init: function(e, t, n, i, r, o) {$/;"	c
+AnonymousFunction2dbd015013c00	kozelafrikahoz.hu/static/_js/body.min.js	/^        cur: function() {$/;"	f
+AnonymousFunction2dbd015013d00	kozelafrikahoz.hu/static/_js/body.min.js	/^        run: function(e) {$/;"	f
+AnonymousFunction2dbd015013e00	kozelafrikahoz.hu/static/_js/body.min.js	/^            get: function(e) {$/;"	f
+AnonymousFunction2dbd015013f00	kozelafrikahoz.hu/static/_js/body.min.js	/^            set: function(e) {$/;"	f
+AnonymousFunction2dbd01501400	kozelafrikahoz.hu/static/_js/body.min.js	/^        isNumeric: function(e) {$/;"	f
+AnonymousFunction2dbd015014000	kozelafrikahoz.hu/static/_js/body.min.js	/^        set: function(e) {$/;"	f
+AnonymousFunction2dbd015014100	kozelafrikahoz.hu/static/_js/body.min.js	/^        linear: function(e) {$/;"	f
+AnonymousFunction2dbd015014200	kozelafrikahoz.hu/static/_js/body.min.js	/^        swing: function(e) {$/;"	f
+AnonymousFunction2dbd015014300	kozelafrikahoz.hu/static/_js/body.min.js	/^        at = [function(t, e, n) {$/;"	f
+AnonymousFunction2dbd015014400	kozelafrikahoz.hu/static/_js/body.min.js	/^            n.queue || (null == (s = C._queueHooks(t, "fx")).unqueued && (s.unqueued = 0, l = s./;"	f
+AnonymousFunction2dbd015014500	kozelafrikahoz.hu/static/_js/body.min.js	/^            }), s.unqueued++, c.always(function() {$/;"	f
+AnonymousFunction2dbd015014600	kozelafrikahoz.hu/static/_js/body.min.js	/^                c.always(function() {$/;"	f
+AnonymousFunction2dbd015014700	kozelafrikahoz.hu/static/_js/body.min.js	/^            n.overflow && (d.overflow = "hidden", v.shrinkWrapBlocks() || c.always(function() {$/;"	f
+AnonymousFunction2dbd015014800	kozelafrikahoz.hu/static/_js/body.min.js	/^                for (i in h ? "hidden" in h && (p = h.hidden) : h = C._data(t, "fxshow", {}), o /;"	f	function:AnonymousFunction2dbd015014300
+AnonymousFunction2dbd015014900	kozelafrikahoz.hu/static/_js/body.min.js	/^                    }), c.done(function() {$/;"	f	function:AnonymousFunction2dbd015014300
+AnonymousFunction2dbd015014a00	kozelafrikahoz.hu/static/_js/body.min.js	/^            "*": [function(e, t) {$/;"	f
+AnonymousFunction2dbd015014b00	kozelafrikahoz.hu/static/_js/body.min.js	/^        return setTimeout(function() {$/;"	f	function:lt
+AnonymousFunction2dbd015014c00	kozelafrikahoz.hu/static/_js/body.min.js	/^            s = C.Deferred().always(function() {$/;"	f	function:ft
+AnonymousFunction2dbd015014d00	kozelafrikahoz.hu/static/_js/body.min.js	/^                createTween: function(e, t) {$/;"	f
+AnonymousFunction2dbd015014e00	kozelafrikahoz.hu/static/_js/body.min.js	/^                stop: function(e) {$/;"	f
+AnonymousFunction2dbd015014f00	kozelafrikahoz.hu/static/_js/body.min.js	/^        for (! function(e, t) {$/;"	f
+AnonymousFunction2dbd01501500	kozelafrikahoz.hu/static/_js/body.min.js	/^        isEmptyObject: function(e) {$/;"	f
+AnonymousFunction2dbd015015000	kozelafrikahoz.hu/static/_js/body.min.js	/^        tweener: function(e, t) {$/;"	f
+AnonymousFunction2dbd015015100	kozelafrikahoz.hu/static/_js/body.min.js	/^        prefilter: function(e, t) {$/;"	f
+AnonymousFunction2dbd015015200	kozelafrikahoz.hu/static/_js/body.min.js	/^    }), C.speed = function(e, t, n) {$/;"	f
+AnonymousFunction2dbd015015300	kozelafrikahoz.hu/static/_js/body.min.js	/^        fadeTo: function(e, t, n, i) {$/;"	f
+AnonymousFunction2dbd015015400	kozelafrikahoz.hu/static/_js/body.min.js	/^        animate: function(t, e, n, i) {$/;"	f
+AnonymousFunction2dbd015015500	kozelafrikahoz.hu/static/_js/body.min.js	/^        stop: function(r, e, o) {$/;"	f
+AnonymousFunction2dbd015015600	kozelafrikahoz.hu/static/_js/body.min.js	/^            return "string" != typeof r && (o = e, e = r, r = void 0), e && !1 !== r && this.que/;"	f	function:AnonymousFunction2dbd015015500
+AnonymousFunction2dbd015015700	kozelafrikahoz.hu/static/_js/body.min.js	/^        finish: function(a) {$/;"	f
+AnonymousFunction2dbd015015800	kozelafrikahoz.hu/static/_js/body.min.js	/^            return !1 !== a && (a = a || "fx"), this.each(function() {$/;"	f	function:AnonymousFunction2dbd015015700
+AnonymousFunction2dbd015015900	kozelafrikahoz.hu/static/_js/body.min.js	/^    }), C.each(["toggle", "show", "hide"], function(e, i) {$/;"	f
+AnonymousFunction2dbd015015a00	kozelafrikahoz.hu/static/_js/body.min.js	/^    }, function(e, i) {$/;"	f
+AnonymousFunction2dbd015015b00	kozelafrikahoz.hu/static/_js/body.min.js	/^    }), C.timers = [], C.fx.tick = function() {$/;"	f
+AnonymousFunction2dbd015015c00	kozelafrikahoz.hu/static/_js/body.min.js	/^    }, C.fx.timer = function(e) {$/;"	f
+AnonymousFunction2dbd015015d00	kozelafrikahoz.hu/static/_js/body.min.js	/^    }, C.fx.interval = 13, C.fx.start = function() {$/;"	f
+AnonymousFunction2dbd015015e00	kozelafrikahoz.hu/static/_js/body.min.js	/^    }, C.fx.stop = function() {$/;"	f
+AnonymousFunction2dbd015015f00	kozelafrikahoz.hu/static/_js/body.min.js	/^    }, C.fn.delay = function(i, e) {$/;"	f
+AnonymousFunction2dbd01501600	kozelafrikahoz.hu/static/_js/body.min.js	/^        isPlainObject: function(e) {$/;"	f
+AnonymousFunction2dbd015016000	kozelafrikahoz.hu/static/_js/body.min.js	/^        return i = C.fx && C.fx.speeds[i] || i, e = e || "fx", this.queue(e, function(e, t) {$/;"	f	function:AnonymousFunction2dbd015015f00
+AnonymousFunction2dbd015016100	kozelafrikahoz.hu/static/_js/body.min.js	/^        val: function(n) {$/;"	f
+AnonymousFunction2dbd015016200	kozelafrikahoz.hu/static/_js/body.min.js	/^            return arguments.length ? (r = C.isFunction(n), this.each(function(e) {$/;"	f
+AnonymousFunction2dbd015016300	kozelafrikahoz.hu/static/_js/body.min.js	/^                1 === this.nodeType && (null == (t = r ? n.call(this, e, C(this).val()) : n) ? t/;"	f	function:AnonymousFunction2dbd015016200
+AnonymousFunction2dbd015016400	kozelafrikahoz.hu/static/_js/body.min.js	/^                get: function(e) {$/;"	f
+AnonymousFunction2dbd015016500	kozelafrikahoz.hu/static/_js/body.min.js	/^                get: function(e) {$/;"	f
+AnonymousFunction2dbd015016600	kozelafrikahoz.hu/static/_js/body.min.js	/^                set: function(e, t) {$/;"	f
+AnonymousFunction2dbd015016700	kozelafrikahoz.hu/static/_js/body.min.js	/^    }), C.each(["radio", "checkbox"], function() {$/;"	f
+AnonymousFunction2dbd015016800	kozelafrikahoz.hu/static/_js/body.min.js	/^        }, v.checkOn || (C.valHooks[this].get = function(e) {$/;"	f
+AnonymousFunction2dbd015016900	kozelafrikahoz.hu/static/_js/body.min.js	/^        attr: function(e, t) {$/;"	f
+AnonymousFunction2dbd015016a00	kozelafrikahoz.hu/static/_js/body.min.js	/^        removeAttr: function(e) {$/;"	f
+AnonymousFunction2dbd015016b00	kozelafrikahoz.hu/static/_js/body.min.js	/^            return this.each(function() {$/;"	f	function:AnonymousFunction2dbd015016a00
+AnonymousFunction2dbd015016c00	kozelafrikahoz.hu/static/_js/body.min.js	/^        attr: function(e, t, n) {$/;"	f
+AnonymousFunction2dbd015016d00	kozelafrikahoz.hu/static/_js/body.min.js	/^        removeAttr: function(e, t) {$/;"	f
+AnonymousFunction2dbd015016e00	kozelafrikahoz.hu/static/_js/body.min.js	/^                set: function(e, t) {$/;"	f
+AnonymousFunction2dbd015016f00	kozelafrikahoz.hu/static/_js/body.min.js	/^        set: function(e, t, n) {$/;"	f
+AnonymousFunction2dbd01501700	kozelafrikahoz.hu/static/_js/body.min.js	/^        type: function(e) {$/;"	f
+AnonymousFunction2dbd015017000	kozelafrikahoz.hu/static/_js/body.min.js	/^    }, C.each(C.expr.match.bool.source.match(\/\\w+\/g), function(e, t) {$/;"	f
+AnonymousFunction2dbd015017100	kozelafrikahoz.hu/static/_js/body.min.js	/^        set: function(e, t, n) {$/;"	f
+AnonymousFunction2dbd015017200	kozelafrikahoz.hu/static/_js/body.min.js	/^        set: function(e, t, n) {$/;"	f
+AnonymousFunction2dbd015017300	kozelafrikahoz.hu/static/_js/body.min.js	/^    }, mt.id = mt.name = mt.coords = function(e, t, n) {$/;"	f
+AnonymousFunction2dbd015017400	kozelafrikahoz.hu/static/_js/body.min.js	/^        get: function(e, t) {$/;"	f
+AnonymousFunction2dbd015017500	kozelafrikahoz.hu/static/_js/body.min.js	/^        set: function(e, t, n) {$/;"	f
+AnonymousFunction2dbd015017600	kozelafrikahoz.hu/static/_js/body.min.js	/^    }, C.each(["width", "height"], function(e, n) {$/;"	f
+AnonymousFunction2dbd015017700	kozelafrikahoz.hu/static/_js/body.min.js	/^        get: function(e) {$/;"	f
+AnonymousFunction2dbd015017800	kozelafrikahoz.hu/static/_js/body.min.js	/^        set: function(e, t) {$/;"	f
+AnonymousFunction2dbd015017900	kozelafrikahoz.hu/static/_js/body.min.js	/^        prop: function(e, t) {$/;"	f
+AnonymousFunction2dbd015017a00	kozelafrikahoz.hu/static/_js/body.min.js	/^        removeProp: function(e) {$/;"	f
+AnonymousFunction2dbd015017b00	kozelafrikahoz.hu/static/_js/body.min.js	/^            return e = C.propFix[e] || e, this.each(function() {$/;"	f	function:AnonymousFunction2dbd015017a00
+AnonymousFunction2dbd015017c00	kozelafrikahoz.hu/static/_js/body.min.js	/^        prop: function(e, t, n) {$/;"	f
+AnonymousFunction2dbd015017d00	kozelafrikahoz.hu/static/_js/body.min.js	/^                get: function(e) {$/;"	f
+AnonymousFunction2dbd015017e00	kozelafrikahoz.hu/static/_js/body.min.js	/^    }), v.hrefNormalized || C.each(["href", "src"], function(e, t) {$/;"	f
+AnonymousFunction2dbd015017f00	kozelafrikahoz.hu/static/_js/body.min.js	/^        get: function(e) {$/;"	f
+AnonymousFunction2dbd01501800	kozelafrikahoz.hu/static/_js/body.min.js	/^        globalEval: function(e) {$/;"	f
+AnonymousFunction2dbd015018000	kozelafrikahoz.hu/static/_js/body.min.js	/^    }), C.each(["tabIndex", "readOnly", "maxLength", "cellSpacing", "cellPadding", "rowSpan", "c/;"	f
+AnonymousFunction2dbd015018100	kozelafrikahoz.hu/static/_js/body.min.js	/^        addClass: function(t) {$/;"	f
+AnonymousFunction2dbd015018200	kozelafrikahoz.hu/static/_js/body.min.js	/^            if (C.isFunction(t)) return this.each(function(e) {$/;"	f	function:AnonymousFunction2dbd015018100
+AnonymousFunction2dbd015018300	kozelafrikahoz.hu/static/_js/body.min.js	/^        removeClass: function(t) {$/;"	f
+AnonymousFunction2dbd015018400	kozelafrikahoz.hu/static/_js/body.min.js	/^            if (C.isFunction(t)) return this.each(function(e) {$/;"	f	function:AnonymousFunction2dbd015018300
+AnonymousFunction2dbd015018500	kozelafrikahoz.hu/static/_js/body.min.js	/^        toggleClass: function(r, t) {$/;"	f
+AnonymousFunction2dbd015018600	kozelafrikahoz.hu/static/_js/body.min.js	/^            return "boolean" == typeof t && "string" === o ? t ? this.addClass(r) : this.removeC/;"	f	function:AnonymousFunction2dbd015018500
+AnonymousFunction2dbd015018700	kozelafrikahoz.hu/static/_js/body.min.js	/^            }) : this.each(function() {$/;"	f	function:AnonymousFunction2dbd015018500
+AnonymousFunction2dbd015018800	kozelafrikahoz.hu/static/_js/body.min.js	/^        hasClass: function(e) {$/;"	f
+AnonymousFunction2dbd015018900	kozelafrikahoz.hu/static/_js/body.min.js	/^    }), C.each("blur focus focusin focusout load resize scroll unload click dblclick mousedown m/;"	f
+AnonymousFunction2dbd015018a00	kozelafrikahoz.hu/static/_js/body.min.js	/^        hover: function(e, t) {$/;"	f
+AnonymousFunction2dbd015018b00	kozelafrikahoz.hu/static/_js/body.min.js	/^        bind: function(e, t, n) {$/;"	f
+AnonymousFunction2dbd015018c00	kozelafrikahoz.hu/static/_js/body.min.js	/^        unbind: function(e, t) {$/;"	f
+AnonymousFunction2dbd015018d00	kozelafrikahoz.hu/static/_js/body.min.js	/^        delegate: function(e, t, n, i) {$/;"	f
+AnonymousFunction2dbd015018e00	kozelafrikahoz.hu/static/_js/body.min.js	/^        undelegate: function(e, t, n) {$/;"	f
+AnonymousFunction2dbd015018f00	kozelafrikahoz.hu/static/_js/body.min.js	/^    C.parseJSON = function(e) {$/;"	f
+AnonymousFunction2dbd01501900	kozelafrikahoz.hu/static/_js/body.min.js	/^            e && C.trim(e) && (h.execScript || function(e) {$/;"	f
+AnonymousFunction2dbd015019000	kozelafrikahoz.hu/static/_js/body.min.js	/^        return t && !C.trim(t.replace(Nt, function(e, t, n, i) {$/;"	f
+AnonymousFunction2dbd015019100	kozelafrikahoz.hu/static/_js/body.min.js	/^    }, C.parseXML = function(e) {$/;"	f
+AnonymousFunction2dbd015019200	kozelafrikahoz.hu/static/_js/body.min.js	/^        return function(e, t) {$/;"	f	function:Ft
+AnonymousFunction2dbd015019300	kozelafrikahoz.hu/static/_js/body.min.js	/^            return s[e] = !0, C.each(t[e] || [], function(e, t) {$/;"	f
+AnonymousFunction2dbd015019400	kozelafrikahoz.hu/static/_js/body.min.js	/^        ajaxSetup: function(e, t) {$/;"	f
+AnonymousFunction2dbd015019500	kozelafrikahoz.hu/static/_js/body.min.js	/^        ajax: function(e, t) {$/;"	f
+AnonymousFunction2dbd015019600	kozelafrikahoz.hu/static/_js/body.min.js	/^                T.readyState = 1, p && v.trigger("ajaxSend", [T, m]), m.async && 0 < m.timeout &/;"	f
+AnonymousFunction2dbd015019700	kozelafrikahoz.hu/static/_js/body.min.js	/^                2 !== w && (w = 2, d && clearTimeout(d), h = void 0, f = i || "", T.readyState =/;"	f	function:l
+AnonymousFunction2dbd015019800	kozelafrikahoz.hu/static/_js/body.min.js	/^                }(m, T, n)), s = function(e, t, n, i) {$/;"	f	function:l
+AnonymousFunction2dbd015019900	kozelafrikahoz.hu/static/_js/body.min.js	/^        getJSON: function(e, t, n) {$/;"	f
+AnonymousFunction2dbd015019a00	kozelafrikahoz.hu/static/_js/body.min.js	/^        getScript: function(e, t) {$/;"	f
+AnonymousFunction2dbd015019b00	kozelafrikahoz.hu/static/_js/body.min.js	/^    }), C.each(["get", "post"], function(e, r) {$/;"	f
+AnonymousFunction2dbd015019c00	kozelafrikahoz.hu/static/_js/body.min.js	/^    }), C.each(["ajaxStart", "ajaxStop", "ajaxComplete", "ajaxError", "ajaxSuccess", "ajaxSend"]/;"	f
+AnonymousFunction2dbd015019d00	kozelafrikahoz.hu/static/_js/body.min.js	/^    }), C._evalUrl = function(e) {$/;"	f
+AnonymousFunction2dbd015019e00	kozelafrikahoz.hu/static/_js/body.min.js	/^        wrapAll: function(t) {$/;"	f
+AnonymousFunction2dbd015019f00	kozelafrikahoz.hu/static/_js/body.min.js	/^            if (C.isFunction(t)) return this.each(function(e) {$/;"	f	function:AnonymousFunction2dbd015019e00
+AnonymousFunction2dbd01501a00	kozelafrikahoz.hu/static/_js/body.min.js	/^        camelCase: function(e) {$/;"	f
+AnonymousFunction2dbd01501a000	kozelafrikahoz.hu/static/_js/body.min.js	/^                this[0].parentNode && e.insertBefore(this[0]), e.map(function() {$/;"	f	function:e
+AnonymousFunction2dbd01501a100	kozelafrikahoz.hu/static/_js/body.min.js	/^        wrapInner: function(n) {$/;"	f
+AnonymousFunction2dbd01501a200	kozelafrikahoz.hu/static/_js/body.min.js	/^            return C.isFunction(n) ? this.each(function(e) {$/;"	f
+AnonymousFunction2dbd01501a300	kozelafrikahoz.hu/static/_js/body.min.js	/^            }) : this.each(function() {$/;"	f
+AnonymousFunction2dbd01501a400	kozelafrikahoz.hu/static/_js/body.min.js	/^        wrap: function(t) {$/;"	f
+AnonymousFunction2dbd01501a500	kozelafrikahoz.hu/static/_js/body.min.js	/^            return this.each(function(e) {$/;"	f	function:AnonymousFunction2dbd01501a400
+AnonymousFunction2dbd01501a600	kozelafrikahoz.hu/static/_js/body.min.js	/^        unwrap: function() {$/;"	f
+AnonymousFunction2dbd01501a700	kozelafrikahoz.hu/static/_js/body.min.js	/^            return this.parent().each(function() {$/;"	f
+AnonymousFunction2dbd01501a800	kozelafrikahoz.hu/static/_js/body.min.js	/^    }), C.expr.filters.hidden = function(e) {$/;"	f
+AnonymousFunction2dbd01501a900	kozelafrikahoz.hu/static/_js/body.min.js	/^    }, C.expr.filters.visible = function(e) {$/;"	f
+AnonymousFunction2dbd01501aa00	kozelafrikahoz.hu/static/_js/body.min.js	/^        if (C.isArray(e)) C.each(e, function(e, t) {$/;"	f	function:It
+AnonymousFunction2dbd01501ab00	kozelafrikahoz.hu/static/_js/body.min.js	/^    C.param = function(e, t) {$/;"	f
+AnonymousFunction2dbd01501ac00	kozelafrikahoz.hu/static/_js/body.min.js	/^        if (void 0 === t && (t = C.ajaxSettings && C.ajaxSettings.traditional), C.isArray(e) || /;"	f
+AnonymousFunction2dbd01501ad00	kozelafrikahoz.hu/static/_js/body.min.js	/^        serialize: function() {$/;"	f
+AnonymousFunction2dbd01501ae00	kozelafrikahoz.hu/static/_js/body.min.js	/^        serializeArray: function() {$/;"	f
+AnonymousFunction2dbd01501af00	kozelafrikahoz.hu/static/_js/body.min.js	/^            return this.map(function() {$/;"	f	function:AnonymousFunction2dbd01501ae00
+AnonymousFunction2dbd01501b00	kozelafrikahoz.hu/static/_js/body.min.js	/^        nodeName: function(e, t) {$/;"	f
+AnonymousFunction2dbd01501b000	kozelafrikahoz.hu/static/_js/body.min.js	/^            }).filter(function() {$/;"	f
+AnonymousFunction2dbd01501b100	kozelafrikahoz.hu/static/_js/body.min.js	/^            }).map(function(e, t) {$/;"	f
+AnonymousFunction2dbd01501b200	kozelafrikahoz.hu/static/_js/body.min.js	/^                return null == n ? null : C.isArray(n) ? C.map(n, function(e) {$/;"	f	function:AnonymousFunction2dbd01501b100
+AnonymousFunction2dbd01501b300	kozelafrikahoz.hu/static/_js/body.min.js	/^    }), C.ajaxSettings.xhr = void 0 !== h.ActiveXObject ? function() {$/;"	f
+AnonymousFunction2dbd01501b400	kozelafrikahoz.hu/static/_js/body.min.js	/^    h.ActiveXObject && C(h).on("unload", function() {$/;"	f
+AnonymousFunction2dbd01501b500	kozelafrikahoz.hu/static/_js/body.min.js	/^    }), v.cors = !!Vt && "withCredentials" in Vt, (Vt = v.ajax = !!Vt) && C.ajaxTransport(functi/;"	f
+AnonymousFunction2dbd01501b600	kozelafrikahoz.hu/static/_js/body.min.js	/^            "text script": function(e) {$/;"	f
+AnonymousFunction2dbd01501b700	kozelafrikahoz.hu/static/_js/body.min.js	/^    }), C.ajaxPrefilter("script", function(e) {$/;"	f
+AnonymousFunction2dbd01501b800	kozelafrikahoz.hu/static/_js/body.min.js	/^    }), C.ajaxTransport("script", function(t) {$/;"	f
+AnonymousFunction2dbd01501b900	kozelafrikahoz.hu/static/_js/body.min.js	/^        jsonpCallback: function() {$/;"	f
+AnonymousFunction2dbd01501ba00	kozelafrikahoz.hu/static/_js/body.min.js	/^    }), C.ajaxPrefilter("json jsonp", function(e, t, n) {$/;"	f
+AnonymousFunction2dbd01501bb00	kozelafrikahoz.hu/static/_js/body.min.js	/^        }, n.always(function() {$/;"	f	function:AnonymousFunction2dbd01501ba00
+AnonymousFunction2dbd01501bc00	kozelafrikahoz.hu/static/_js/body.min.js	/^    }), C.parseHTML = function(e, t, n) {$/;"	f
+AnonymousFunction2dbd01501bd00	kozelafrikahoz.hu/static/_js/body.min.js	/^    C.fn.load = function(e, t, n) {$/;"	f
+AnonymousFunction2dbd01501be00	kozelafrikahoz.hu/static/_js/body.min.js	/^        }).done(function(e) {$/;"	f
+AnonymousFunction2dbd01501bf00	kozelafrikahoz.hu/static/_js/body.min.js	/^        }).complete(n && function(e, t) {$/;"	f
+AnonymousFunction2dbd01501c00	kozelafrikahoz.hu/static/_js/body.min.js	/^        each: function(e, t, n) {$/;"	f
+AnonymousFunction2dbd01501c000	kozelafrikahoz.hu/static/_js/body.min.js	/^    }, C.expr.filters.animated = function(t) {$/;"	f
+AnonymousFunction2dbd01501c100	kozelafrikahoz.hu/static/_js/body.min.js	/^        return C.grep(C.timers, function(e) {$/;"	f
+AnonymousFunction2dbd01501c200	kozelafrikahoz.hu/static/_js/body.min.js	/^        setOffset: function(e, t, n) {$/;"	f
+AnonymousFunction2dbd01501c300	kozelafrikahoz.hu/static/_js/body.min.js	/^        offset: function(t) {$/;"	f
+AnonymousFunction2dbd01501c400	kozelafrikahoz.hu/static/_js/body.min.js	/^            if (arguments.length) return void 0 === t ? this : this.each(function(e) {$/;"	f	function:AnonymousFunction2dbd01501c300
+AnonymousFunction2dbd01501c500	kozelafrikahoz.hu/static/_js/body.min.js	/^        position: function() {$/;"	f
+AnonymousFunction2dbd01501c600	kozelafrikahoz.hu/static/_js/body.min.js	/^        offsetParent: function() {$/;"	f
+AnonymousFunction2dbd01501c700	kozelafrikahoz.hu/static/_js/body.min.js	/^            return this.map(function() {$/;"	f	function:AnonymousFunction2dbd01501c600
+AnonymousFunction2dbd01501c800	kozelafrikahoz.hu/static/_js/body.min.js	/^    }, function(t, r) {$/;"	f
+AnonymousFunction2dbd01501c900	kozelafrikahoz.hu/static/_js/body.min.js	/^            return X(this, function(e, t, n) {$/;"	f	function:C.fn
+AnonymousFunction2dbd01501ca00	kozelafrikahoz.hu/static/_js/body.min.js	/^    }), C.each(["top", "left"], function(e, n) {$/;"	f
+AnonymousFunction2dbd01501cb00	kozelafrikahoz.hu/static/_js/body.min.js	/^        C.cssHooks[n] = Me(v.pixelPosition, function(e, t) {$/;"	f
+AnonymousFunction2dbd01501cc00	kozelafrikahoz.hu/static/_js/body.min.js	/^    }, function(o, a) {$/;"	f
+AnonymousFunction2dbd01501cd00	kozelafrikahoz.hu/static/_js/body.min.js	/^        }, function(i, e) {$/;"	f
+AnonymousFunction2dbd01501ce00	kozelafrikahoz.hu/static/_js/body.min.js	/^                return X(this, function(e, t, n) {$/;"	f	function:C.fn
+AnonymousFunction2dbd01501cf00	kozelafrikahoz.hu/static/_js/body.min.js	/^    }), C.fn.size = function() {$/;"	f
+AnonymousFunction2dbd01501d00	kozelafrikahoz.hu/static/_js/body.min.js	/^        trim: function(e) {$/;"	f
+AnonymousFunction2dbd01501d000	kozelafrikahoz.hu/static/_js/body.min.js	/^    }, C.fn.andSelf = C.fn.addBack, "function" == typeof define && define.amd && define("jquery"/;"	f
+AnonymousFunction2dbd01501d100	kozelafrikahoz.hu/static/_js/body.min.js	/^    return C.noConflict = function(e) {$/;"	f
+AnonymousFunction2dbd01501d200	kozelafrikahoz.hu/static/_js/body.min.js	/^        for (d(p).scroll(d.proxy(function() {$/;"	f	function:t.init
+AnonymousFunction2dbd01501d300	kozelafrikahoz.hu/static/_js/body.min.js	/^            }, this)), e.click(function() {$/;"	f	function:t.init
+AnonymousFunction2dbd01501d400	kozelafrikahoz.hu/static/_js/body.min.js	/^        d(p).scroll(d.proxy(function() {$/;"	f
+AnonymousFunction2dbd01501d500	kozelafrikahoz.hu/static/_js/body.min.js	/^        return this.each(function() {$/;"	f	function:d.fn.navKit
+AnonymousFunction2dbd01501d600	kozelafrikahoz.hu/static/_js/body.min.js	/^            n.on("click", function() {$/;"	f
+AnonymousFunction2dbd01501d700	kozelafrikahoz.hu/static/_js/body.min.js	/^                    t.each(function() {$/;"	f
+AnonymousFunction2dbd01501d800	kozelafrikahoz.hu/static/_js/body.min.js	/^            return this.each(function() {$/;"	f	function:i.fn.mixFilter
+AnonymousFunction2dbd01501e00	kozelafrikahoz.hu/static/_js/body.min.js	/^        makeArray: function(e, t) {$/;"	f
+AnonymousFunction2dbd01501f00	kozelafrikahoz.hu/static/_js/body.min.js	/^        inArray: function(e, t, n) {$/;"	f
+AnonymousFunction2dbd01502000	kozelafrikahoz.hu/static/_js/body.min.js	/^        merge: function(e, t) {$/;"	f
+AnonymousFunction2dbd01502100	kozelafrikahoz.hu/static/_js/body.min.js	/^        grep: function(e, t, n) {$/;"	f
+AnonymousFunction2dbd01502200	kozelafrikahoz.hu/static/_js/body.min.js	/^        map: function(e, t, n) {$/;"	f
+AnonymousFunction2dbd01502300	kozelafrikahoz.hu/static/_js/body.min.js	/^        proxy: function(e, t) {$/;"	f
+AnonymousFunction2dbd01502400	kozelafrikahoz.hu/static/_js/body.min.js	/^            if ("string" == typeof t && (r = e[t], t = e, e = r), C.isFunction(e)) return n = c./;"	f	function:AnonymousFunction2dbd01502300
+AnonymousFunction2dbd01502500	kozelafrikahoz.hu/static/_js/body.min.js	/^        now: function() {$/;"	f
+AnonymousFunction2dbd01502600	kozelafrikahoz.hu/static/_js/body.min.js	/^    }), C.each("Boolean Number String Function Array Date RegExp Object Error".split(" "), funct/;"	f
+AnonymousFunction2dbd01502700	kozelafrikahoz.hu/static/_js/body.min.js	/^    var p = function(n) {$/;"	f
+AnonymousFunction2dbd01502800	kozelafrikahoz.hu/static/_js/body.min.js	/^            M = t.indexOf || function(e) {$/;"	f
+AnonymousFunction2dbd01502900	kozelafrikahoz.hu/static/_js/body.min.js	/^            ne = function(e, t, n) {$/;"	f
+AnonymousFunction2dbd01502a00	kozelafrikahoz.hu/static/_js/body.min.js	/^                apply: t.length ? function(e, t) {$/;"	f
+AnonymousFunction2dbd01502b00	kozelafrikahoz.hu/static/_js/body.min.js	/^                } : function(e, t) {$/;"	f
+AnonymousFunction2dbd01502c00	kozelafrikahoz.hu/static/_js/body.min.js	/^            return function(e) {$/;"	f	function:ue
+AnonymousFunction2dbd01502d00	kozelafrikahoz.hu/static/_js/body.min.js	/^            return function(e) {$/;"	f	function:ce
+AnonymousFunction2dbd01502e00	kozelafrikahoz.hu/static/_js/body.min.js	/^            return oe(function(o) {$/;"	f	function:fe
+AnonymousFunction2dbd01502f00	kozelafrikahoz.hu/static/_js/body.min.js	/^                return o = +o, oe(function(e, t) {$/;"	f	function:fe.AnonymousFunction2dbd01502e00
+AnonymousFunction2dbd01503000	kozelafrikahoz.hu/static/_js/body.min.js	/^        for (e in h = ie.support = {}, i = ie.isXML = function(e) {$/;"	f
+AnonymousFunction2dbd01503100	kozelafrikahoz.hu/static/_js/body.min.js	/^            }, v = ie.setDocument = function(e) {$/;"	f
+AnonymousFunction2dbd01503200	kozelafrikahoz.hu/static/_js/body.min.js	/^                return l !== T && 9 === l.nodeType && l.documentElement ? (r = (T = l).documentE/;"	f	function:AnonymousFunction2dbd01503100
+AnonymousFunction2dbd01503300	kozelafrikahoz.hu/static/_js/body.min.js	/^                }, !1) : n.attachEvent && n.attachEvent("onunload", function() {$/;"	f	function:AnonymousFunction2dbd01503100
+AnonymousFunction2dbd01503400	kozelafrikahoz.hu/static/_js/body.min.js	/^                })), h.attributes = ae(function(e) {$/;"	f	function:AnonymousFunction2dbd01503100
+AnonymousFunction2dbd01503500	kozelafrikahoz.hu/static/_js/body.min.js	/^                }), h.getElementsByTagName = ae(function(e) {$/;"	f	function:AnonymousFunction2dbd01503100
+AnonymousFunction2dbd01503600	kozelafrikahoz.hu/static/_js/body.min.js	/^                }), h.getElementsByClassName = G.test(l.getElementsByClassName) && ae(function(e/;"	f	function:AnonymousFunction2dbd01503100
+AnonymousFunction2dbd01503700	kozelafrikahoz.hu/static/_js/body.min.js	/^                }), h.getById = ae(function(e) {$/;"	f	function:AnonymousFunction2dbd01503100
+AnonymousFunction2dbd01503800	kozelafrikahoz.hu/static/_js/body.min.js	/^                }), h.getById ? (b.find.ID = function(e, t) {$/;"	f	function:AnonymousFunction2dbd01503100
+AnonymousFunction2dbd01503900	kozelafrikahoz.hu/static/_js/body.min.js	/^                }, b.filter.ID = function(e) {$/;"	f	function:AnonymousFunction2dbd01503100
+AnonymousFunction2dbd01503a00	kozelafrikahoz.hu/static/_js/body.min.js	/^                    return function(e) {$/;"	f	function:AnonymousFunction2dbd01503100.AnonymousFunction2dbd01503900
+AnonymousFunction2dbd01503b00	kozelafrikahoz.hu/static/_js/body.min.js	/^                }) : (delete b.find.ID, b.filter.ID = function(e) {$/;"	f	function:AnonymousFunction2dbd01503100
+AnonymousFunction2dbd01503c00	kozelafrikahoz.hu/static/_js/body.min.js	/^                    return function(e) {$/;"	f	function:AnonymousFunction2dbd01503100.AnonymousFunction2dbd01503b00
+AnonymousFunction2dbd01503d00	kozelafrikahoz.hu/static/_js/body.min.js	/^                }), b.find.TAG = h.getElementsByTagName ? function(e, t) {$/;"	f	function:AnonymousFunction2dbd01503100
+AnonymousFunction2dbd01503e00	kozelafrikahoz.hu/static/_js/body.min.js	/^                } : function(e, t) {$/;"	f	function:AnonymousFunction2dbd01503100
+AnonymousFunction2dbd01503f00	kozelafrikahoz.hu/static/_js/body.min.js	/^                }, b.find.CLASS = h.getElementsByClassName && function(e, t) {$/;"	f	function:AnonymousFunction2dbd01503100
+AnonymousFunction2dbd01504000	kozelafrikahoz.hu/static/_js/body.min.js	/^                }, a = [], x = [], (h.qsa = G.test(l.querySelectorAll)) && (ae(function(e) {$/;"	f	function:AnonymousFunction2dbd01503100
+AnonymousFunction2dbd01504100	kozelafrikahoz.hu/static/_js/body.min.js	/^                }), ae(function(e) {$/;"	f	function:AnonymousFunction2dbd01503100
+AnonymousFunction2dbd01504200	kozelafrikahoz.hu/static/_js/body.min.js	/^                })), (h.matchesSelector = G.test(s = r.matches || r.webkitMatchesSelector || r.m/;"	f	function:AnonymousFunction2dbd01503100
+AnonymousFunction2dbd01504300	kozelafrikahoz.hu/static/_js/body.min.js	/^                }), x = x.length && new RegExp(x.join("|")), a = a.length && new RegExp(a.join("/;"	f	function:AnonymousFunction2dbd01503100
+AnonymousFunction2dbd01504400	kozelafrikahoz.hu/static/_js/body.min.js	/^                } : function(e, t) {$/;"	f	function:AnonymousFunction2dbd01503100
+AnonymousFunction2dbd01504500	kozelafrikahoz.hu/static/_js/body.min.js	/^                }, j = t ? function(e, t) {$/;"	f	function:AnonymousFunction2dbd01503100
+AnonymousFunction2dbd01504600	kozelafrikahoz.hu/static/_js/body.min.js	/^                } : function(e, t) {$/;"	f	function:AnonymousFunction2dbd01503100
+AnonymousFunction2dbd01504700	kozelafrikahoz.hu/static/_js/body.min.js	/^            }, ie.matches = function(e, t) {$/;"	f
+AnonymousFunction2dbd01504800	kozelafrikahoz.hu/static/_js/body.min.js	/^            }, ie.matchesSelector = function(e, t) {$/;"	f
+AnonymousFunction2dbd01504900	kozelafrikahoz.hu/static/_js/body.min.js	/^            }, ie.contains = function(e, t) {$/;"	f
+AnonymousFunction2dbd01504a00	kozelafrikahoz.hu/static/_js/body.min.js	/^            }, ie.attr = function(e, t) {$/;"	f
+AnonymousFunction2dbd01504b00	kozelafrikahoz.hu/static/_js/body.min.js	/^            }, ie.error = function(e) {$/;"	f
+AnonymousFunction2dbd01504c00	kozelafrikahoz.hu/static/_js/body.min.js	/^            }, ie.uniqueSort = function(e) {$/;"	f
+AnonymousFunction2dbd01504d00	kozelafrikahoz.hu/static/_js/body.min.js	/^            }, o = ie.getText = function(e) {$/;"	f
+AnonymousFunction2dbd01504e00	kozelafrikahoz.hu/static/_js/body.min.js	/^                    ATTR: function(e) {$/;"	f
+AnonymousFunction2dbd01504f00	kozelafrikahoz.hu/static/_js/body.min.js	/^                    CHILD: function(e) {$/;"	f
+AnonymousFunction2dbd01505000	kozelafrikahoz.hu/static/_js/body.min.js	/^                    PSEUDO: function(e) {$/;"	f
+AnonymousFunction2dbd01505100	kozelafrikahoz.hu/static/_js/body.min.js	/^                    TAG: function(e) {$/;"	f
+AnonymousFunction2dbd01505200	kozelafrikahoz.hu/static/_js/body.min.js	/^                    CLASS: function(e) {$/;"	f
+AnonymousFunction2dbd01505300	kozelafrikahoz.hu/static/_js/body.min.js	/^                        return t || (t = new RegExp("(^|" + O + ")" + e + "(" + O + "|$)")) && l/;"	f	function:AnonymousFunction2dbd01505200
+AnonymousFunction2dbd01505400	kozelafrikahoz.hu/static/_js/body.min.js	/^                    ATTR: function(n, i, r) {$/;"	f
+AnonymousFunction2dbd01505500	kozelafrikahoz.hu/static/_js/body.min.js	/^                        return function(e) {$/;"	f	function:AnonymousFunction2dbd01505400
+AnonymousFunction2dbd01505600	kozelafrikahoz.hu/static/_js/body.min.js	/^                    CHILD: function(p, e, t, h, m) {$/;"	f
+AnonymousFunction2dbd01505700	kozelafrikahoz.hu/static/_js/body.min.js	/^                    PSEUDO: function(e, o) {$/;"	f
+AnonymousFunction2dbd01505800	kozelafrikahoz.hu/static/_js/body.min.js	/^                        return a[N] ? a(o) : 1 < a.length ? (t = [e, e, "", o], b.setFilters.has/;"	f
+AnonymousFunction2dbd01505900	kozelafrikahoz.hu/static/_js/body.min.js	/^                        }) : function(e) {$/;"	f
+AnonymousFunction2dbd01505a00	kozelafrikahoz.hu/static/_js/body.min.js	/^                    not: oe(function(e) {$/;"	f
+AnonymousFunction2dbd01505b00	kozelafrikahoz.hu/static/_js/body.min.js	/^                        return s[N] ? oe(function(e, t, n, i) {$/;"	f	function:AnonymousFunction2dbd01505a00
+AnonymousFunction2dbd01505c00	kozelafrikahoz.hu/static/_js/body.min.js	/^                    has: oe(function(t) {$/;"	f
+AnonymousFunction2dbd01505d00	kozelafrikahoz.hu/static/_js/body.min.js	/^                        return function(e) {$/;"	f	function:AnonymousFunction2dbd01505c00
+AnonymousFunction2dbd01505e00	kozelafrikahoz.hu/static/_js/body.min.js	/^                    contains: oe(function(t) {$/;"	f
+AnonymousFunction2dbd01505f00	kozelafrikahoz.hu/static/_js/body.min.js	/^                        return function(e) {$/;"	f	function:AnonymousFunction2dbd01505e00
+AnonymousFunction2dbd01506000	kozelafrikahoz.hu/static/_js/body.min.js	/^                    lang: oe(function(n) {$/;"	f
+AnonymousFunction2dbd01506100	kozelafrikahoz.hu/static/_js/body.min.js	/^                    target: function(e) {$/;"	f
+AnonymousFunction2dbd01506200	kozelafrikahoz.hu/static/_js/body.min.js	/^                    root: function(e) {$/;"	f
+AnonymousFunction2dbd01506300	kozelafrikahoz.hu/static/_js/body.min.js	/^                    focus: function(e) {$/;"	f
+AnonymousFunction2dbd01506400	kozelafrikahoz.hu/static/_js/body.min.js	/^                    enabled: function(e) {$/;"	f
+AnonymousFunction2dbd01506500	kozelafrikahoz.hu/static/_js/body.min.js	/^                    disabled: function(e) {$/;"	f
+AnonymousFunction2dbd01506600	kozelafrikahoz.hu/static/_js/body.min.js	/^                    checked: function(e) {$/;"	f
+AnonymousFunction2dbd01506700	kozelafrikahoz.hu/static/_js/body.min.js	/^                    selected: function(e) {$/;"	f
+AnonymousFunction2dbd01506800	kozelafrikahoz.hu/static/_js/body.min.js	/^                    empty: function(e) {$/;"	f
+AnonymousFunction2dbd01506900	kozelafrikahoz.hu/static/_js/body.min.js	/^                    parent: function(e) {$/;"	f
+AnonymousFunction2dbd01506a00	kozelafrikahoz.hu/static/_js/body.min.js	/^                    header: function(e) {$/;"	f
+AnonymousFunction2dbd01506b00	kozelafrikahoz.hu/static/_js/body.min.js	/^                    input: function(e) {$/;"	f
+AnonymousFunction2dbd01506c00	kozelafrikahoz.hu/static/_js/body.min.js	/^                    button: function(e) {$/;"	f
+AnonymousFunction2dbd01506d00	kozelafrikahoz.hu/static/_js/body.min.js	/^                    text: function(e) {$/;"	f
+AnonymousFunction2dbd01506e00	kozelafrikahoz.hu/static/_js/body.min.js	/^                    first: fe(function() {$/;"	f
+AnonymousFunction2dbd01506f00	kozelafrikahoz.hu/static/_js/body.min.js	/^                    last: fe(function(e, t) {$/;"	f
+AnonymousFunction2dbd01507000	kozelafrikahoz.hu/static/_js/body.min.js	/^                    eq: fe(function(e, t, n) {$/;"	f
+AnonymousFunction2dbd01507100	kozelafrikahoz.hu/static/_js/body.min.js	/^                    even: fe(function(e, t) {$/;"	f
+AnonymousFunction2dbd01507200	kozelafrikahoz.hu/static/_js/body.min.js	/^                    odd: fe(function(e, t) {$/;"	f
+AnonymousFunction2dbd01507300	kozelafrikahoz.hu/static/_js/body.min.js	/^                    lt: fe(function(e, t, n) {$/;"	f
+AnonymousFunction2dbd01507400	kozelafrikahoz.hu/static/_js/body.min.js	/^                    gt: fe(function(e, t, n) {$/;"	f
+AnonymousFunction2dbd01507500	kozelafrikahoz.hu/static/_js/body.min.js	/^            return g && !g[N] && (g = ye(g)), v && !v[N] && (v = ye(v, e)), oe(function(e, t, n,/;"	f	function:ye
+AnonymousFunction2dbd01507600	kozelafrikahoz.hu/static/_js/body.min.js	/^            for (var i, t, n, r = e.length, o = b.relative[e[0].type], a = o || b.relative[" "],/;"	f	function:xe
+AnonymousFunction2dbd01507700	kozelafrikahoz.hu/static/_js/body.min.js	/^                }, a, !0), u = me(function(e) {$/;"	f	function:xe
+AnonymousFunction2dbd01507800	kozelafrikahoz.hu/static/_js/body.min.js	/^                }, a, !0), c = [function(e, t, n) {$/;"	f	function:xe
+AnonymousFunction2dbd01507900	kozelafrikahoz.hu/static/_js/body.min.js	/^        return pe.prototype = b.filters = b.pseudos, b.setFilters = new pe, m = ie.tokenize = fu/;"	f
+AnonymousFunction2dbd01507a00	kozelafrikahoz.hu/static/_js/body.min.js	/^        }, f = ie.compile = function(e, t) {$/;"	f
+AnonymousFunction2dbd01507b00	kozelafrikahoz.hu/static/_js/body.min.js	/^                (a = S(e, (g = o, y = 0 < (v = r).length, x = 0 < g.length, i = function(e, t, n/;"	f	function:AnonymousFunction2dbd01507a00
+AnonymousFunction2dbd01507c00	kozelafrikahoz.hu/static/_js/body.min.js	/^        }, g = ie.select = function(e, t, n, i) {$/;"	f
+AnonymousFunction2dbd01507d00	kozelafrikahoz.hu/static/_js/body.min.js	/^        }, h.sortStable = N.split("").sort(j).join("") === N, h.detectDuplicates = !!c, v(), h.s/;"	f
+AnonymousFunction2dbd01507e00	kozelafrikahoz.hu/static/_js/body.min.js	/^        }), ae(function(e) {$/;"	f
+AnonymousFunction2dbd01507f00	kozelafrikahoz.hu/static/_js/body.min.js	/^        }) || se("type|href|height|width", function(e, t, n) {$/;"	f
+AnonymousFunction2dbd01508000	kozelafrikahoz.hu/static/_js/body.min.js	/^        }), h.attributes && ae(function(e) {$/;"	f
+AnonymousFunction2dbd01508100	kozelafrikahoz.hu/static/_js/body.min.js	/^        }) || se("value", function(e, t, n) {$/;"	f
+AnonymousFunction2dbd01508200	kozelafrikahoz.hu/static/_js/body.min.js	/^        }), ae(function(e) {$/;"	f
+AnonymousFunction2dbd01508300	kozelafrikahoz.hu/static/_js/body.min.js	/^        }) || se(F, function(e, t, n) {$/;"	f
+AnonymousFunction2dbd01508400	kozelafrikahoz.hu/static/_js/body.min.js	/^        if (C.isFunction(n)) return C.grep(e, function(e, t) {$/;"	f	function:w
+AnonymousFunction2dbd01508500	kozelafrikahoz.hu/static/_js/body.min.js	/^        if (n.nodeType) return C.grep(e, function(e) {$/;"	f	function:w
+AnonymousFunction2dbd01508600	kozelafrikahoz.hu/static/_js/body.min.js	/^        return C.grep(e, function(e) {$/;"	f
+AnonymousFunction2dbd01508700	kozelafrikahoz.hu/static/_js/body.min.js	/^    C.filter = function(e, t, n) {$/;"	f
+AnonymousFunction2dbd01508800	kozelafrikahoz.hu/static/_js/body.min.js	/^        return n && (e = ":not(" + e + ")"), 1 === t.length && 1 === i.nodeType ? C.find.matches/;"	f	function:AnonymousFunction2dbd01508700
+AnonymousFunction2dbd01508900	kozelafrikahoz.hu/static/_js/body.min.js	/^        find: function(e) {$/;"	f
+AnonymousFunction2dbd01508a00	kozelafrikahoz.hu/static/_js/body.min.js	/^            if ("string" != typeof e) return this.pushStack(C(e).filter(function() {$/;"	f	function:AnonymousFunction2dbd01508900
+AnonymousFunction2dbd01508b00	kozelafrikahoz.hu/static/_js/body.min.js	/^        filter: function(e) {$/;"	f
+AnonymousFunction2dbd01508c00	kozelafrikahoz.hu/static/_js/body.min.js	/^        not: function(e) {$/;"	f
+AnonymousFunction2dbd01508d00	kozelafrikahoz.hu/static/_js/body.min.js	/^        is: function(e) {$/;"	f
+AnonymousFunction2dbd01508e00	kozelafrikahoz.hu/static/_js/body.min.js	/^    (C.fn.init = function(e, t) {$/;"	f
+AnonymousFunction2dbd01508f00	kozelafrikahoz.hu/static/_js/body.min.js	/^        dir: function(e, t, n) {$/;"	f
+AnonymousFunction2dbd01509000	kozelafrikahoz.hu/static/_js/body.min.js	/^        sibling: function(e, t) {$/;"	f
+AnonymousFunction2dbd01509100	kozelafrikahoz.hu/static/_js/body.min.js	/^        has: function(e) {$/;"	f
+AnonymousFunction2dbd01509200	kozelafrikahoz.hu/static/_js/body.min.js	/^            return this.filter(function() {$/;"	f	function:AnonymousFunction2dbd01509100
+AnonymousFunction2dbd01509300	kozelafrikahoz.hu/static/_js/body.min.js	/^        closest: function(e, t) {$/;"	f
+AnonymousFunction2dbd01509400	kozelafrikahoz.hu/static/_js/body.min.js	/^        index: function(e) {$/;"	f
+AnonymousFunction2dbd01509500	kozelafrikahoz.hu/static/_js/body.min.js	/^        add: function(e, t) {$/;"	f
+AnonymousFunction2dbd01509600	kozelafrikahoz.hu/static/_js/body.min.js	/^        addBack: function(e) {$/;"	f
+AnonymousFunction2dbd01509700	kozelafrikahoz.hu/static/_js/body.min.js	/^        parent: function(e) {$/;"	f
+AnonymousFunction2dbd01509800	kozelafrikahoz.hu/static/_js/body.min.js	/^        parents: function(e) {$/;"	f
+AnonymousFunction2dbd01509900	kozelafrikahoz.hu/static/_js/body.min.js	/^        parentsUntil: function(e, t, n) {$/;"	f
+AnonymousFunction2dbd01509a00	kozelafrikahoz.hu/static/_js/body.min.js	/^        next: function(e) {$/;"	f
+AnonymousFunction2dbd01509b00	kozelafrikahoz.hu/static/_js/body.min.js	/^        prev: function(e) {$/;"	f
+AnonymousFunction2dbd01509c00	kozelafrikahoz.hu/static/_js/body.min.js	/^        nextAll: function(e) {$/;"	f
+AnonymousFunction2dbd01509d00	kozelafrikahoz.hu/static/_js/body.min.js	/^        prevAll: function(e) {$/;"	f
+AnonymousFunction2dbd01509e00	kozelafrikahoz.hu/static/_js/body.min.js	/^        nextUntil: function(e, t, n) {$/;"	f
+AnonymousFunction2dbd01509f00	kozelafrikahoz.hu/static/_js/body.min.js	/^        prevUntil: function(e, t, n) {$/;"	f
+AnonymousFunction2dbd0150a000	kozelafrikahoz.hu/static/_js/body.min.js	/^        siblings: function(e) {$/;"	f
+AnonymousFunction2dbd0150a100	kozelafrikahoz.hu/static/_js/body.min.js	/^        children: function(e) {$/;"	f
+AnonymousFunction2dbd0150a200	kozelafrikahoz.hu/static/_js/body.min.js	/^        contents: function(e) {$/;"	f
+AnonymousFunction2dbd0150a300	kozelafrikahoz.hu/static/_js/body.min.js	/^    }, function(i, r) {$/;"	f
+AnonymousFunction2dbd0150a400	kozelafrikahoz.hu/static/_js/body.min.js	/^    C.Callbacks = function(r) {$/;"	f
+AnonymousFunction2dbd0150a500	kozelafrikahoz.hu/static/_js/body.min.js	/^        r = "string" == typeof r ? D[r] || (n = D[e = r] = {}, C.each(e.match(A) || [], function/;"	f	function:AnonymousFunction2dbd0150a400
+AnonymousFunction2dbd0150a600	kozelafrikahoz.hu/static/_js/body.min.js	/^                add: function() {$/;"	f
+AnonymousFunction2dbd0150a700	kozelafrikahoz.hu/static/_js/body.min.js	/^                            C.each(e, function(e, t) {$/;"	f
+AnonymousFunction2dbd0150a800	kozelafrikahoz.hu/static/_js/body.min.js	/^                remove: function() {$/;"	f
+AnonymousFunction2dbd0150a900	kozelafrikahoz.hu/static/_js/body.min.js	/^                    return u && C.each(arguments, function(e, t) {$/;"	f
+AnonymousFunction2dbd0150aa00	kozelafrikahoz.hu/static/_js/body.min.js	/^                has: function(e) {$/;"	f
+AnonymousFunction2dbd0150ab00	kozelafrikahoz.hu/static/_js/body.min.js	/^                empty: function() {$/;"	f
+AnonymousFunction2dbd0150ac00	kozelafrikahoz.hu/static/_js/body.min.js	/^                disable: function() {$/;"	f
+AnonymousFunction2dbd0150ad00	kozelafrikahoz.hu/static/_js/body.min.js	/^                disabled: function() {$/;"	f
+AnonymousFunction2dbd0150ae00	kozelafrikahoz.hu/static/_js/body.min.js	/^                lock: function() {$/;"	f
+AnonymousFunction2dbd0150af00	kozelafrikahoz.hu/static/_js/body.min.js	/^                locked: function() {$/;"	f
+AnonymousFunction2dbd0150b000	kozelafrikahoz.hu/static/_js/body.min.js	/^                fireWith: function(e, t) {$/;"	f
+AnonymousFunction2dbd0150b100	kozelafrikahoz.hu/static/_js/body.min.js	/^                fire: function() {$/;"	f
+AnonymousFunction2dbd0150b200	kozelafrikahoz.hu/static/_js/body.min.js	/^                fired: function() {$/;"	f
+AnonymousFunction2dbd0150b300	kozelafrikahoz.hu/static/_js/body.min.js	/^        Deferred: function(e) {$/;"	f
+AnonymousFunction2dbd0150b400	kozelafrikahoz.hu/static/_js/body.min.js	/^                        return C.Deferred(function(i) {$/;"	f
+AnonymousFunction2dbd0150b500	kozelafrikahoz.hu/static/_js/body.min.js	/^                            C.each(o, function(e, t) {$/;"	f
+AnonymousFunction2dbd0150b600	kozelafrikahoz.hu/static/_js/body.min.js	/^            return a.pipe = a.then, C.each(o, function(e, t) {$/;"	f
+AnonymousFunction2dbd0150b700	kozelafrikahoz.hu/static/_js/body.min.js	/^                a[t[1]] = n.add, i && n.add(function() {$/;"	f
+AnonymousFunction2dbd0150b800	kozelafrikahoz.hu/static/_js/body.min.js	/^        when: function(e) {$/;"	f
+AnonymousFunction2dbd0150b900	kozelafrikahoz.hu/static/_js/body.min.js	/^                    return function(e) {$/;"	f	function:AnonymousFunction2dbd0150b800.u
+AnonymousFunction2dbd0150ba00	kozelafrikahoz.hu/static/_js/body.min.js	/^    }), C.fn.ready = function(e) {$/;"	f
+AnonymousFunction2dbd0150bb00	kozelafrikahoz.hu/static/_js/body.min.js	/^        holdReady: function(e) {$/;"	f
+AnonymousFunction2dbd0150bc00	kozelafrikahoz.hu/static/_js/body.min.js	/^        ready: function(e) {$/;"	f
+AnonymousFunction2dbd0150bd00	kozelafrikahoz.hu/static/_js/body.min.js	/^    }), C.ready.promise = function(e) {$/;"	f
+AnonymousFunction2dbd0150be00	kozelafrikahoz.hu/static/_js/body.min.js	/^    v.ownLast = "0" !== _, v.inlineBlockNeedsLayout = !1, C(function() {$/;"	f
+AnonymousFunction2dbd0150bf00	kozelafrikahoz.hu/static/_js/body.min.js	/^        function() {$/;"	f
+AnonymousFunction2dbd0150c000	kozelafrikahoz.hu/static/_js/body.min.js	/^        }(), C.acceptData = function(e) {$/;"	f
+AnonymousFunction2dbd0150c100	kozelafrikahoz.hu/static/_js/body.min.js	/^        hasData: function(e) {$/;"	f
+AnonymousFunction2dbd0150c200	kozelafrikahoz.hu/static/_js/body.min.js	/^        data: function(e, t, n) {$/;"	f
+AnonymousFunction2dbd0150c300	kozelafrikahoz.hu/static/_js/body.min.js	/^        removeData: function(e, t) {$/;"	f
+AnonymousFunction2dbd0150c400	kozelafrikahoz.hu/static/_js/body.min.js	/^        _data: function(e, t, n) {$/;"	f
+AnonymousFunction2dbd0150c500	kozelafrikahoz.hu/static/_js/body.min.js	/^        _removeData: function(e, t) {$/;"	f
+AnonymousFunction2dbd0150c600	kozelafrikahoz.hu/static/_js/body.min.js	/^        data: function(e, t) {$/;"	f
+AnonymousFunction2dbd0150c700	kozelafrikahoz.hu/static/_js/body.min.js	/^            if (void 0 !== e) return "object" == typeof e ? this.each(function() {$/;"	f	function:AnonymousFunction2dbd0150c600
+AnonymousFunction2dbd0150c800	kozelafrikahoz.hu/static/_js/body.min.js	/^            }) : 1 < arguments.length ? this.each(function() {$/;"	f	function:AnonymousFunction2dbd0150c600
+AnonymousFunction2dbd0150c900	kozelafrikahoz.hu/static/_js/body.min.js	/^        removeData: function(e) {$/;"	f
+AnonymousFunction2dbd0150ca00	kozelafrikahoz.hu/static/_js/body.min.js	/^            return this.each(function() {$/;"	f	function:AnonymousFunction2dbd0150c900
+AnonymousFunction2dbd0150cb00	kozelafrikahoz.hu/static/_js/body.min.js	/^        queue: function(e, t, n) {$/;"	f
+AnonymousFunction2dbd0150cc00	kozelafrikahoz.hu/static/_js/body.min.js	/^        dequeue: function(e, t) {$/;"	f
+AnonymousFunction2dbd0150cd00	kozelafrikahoz.hu/static/_js/body.min.js	/^            "inprogress" === r && (r = n.shift(), i--), r && ("fx" === t && n.unshift("inprogres/;"	f	function:AnonymousFunction2dbd0150cc00
+AnonymousFunction2dbd0150ce00	kozelafrikahoz.hu/static/_js/body.min.js	/^        _queueHooks: function(e, t) {$/;"	f
+AnonymousFunction2dbd0150cf00	kozelafrikahoz.hu/static/_js/body.min.js	/^                empty: C.Callbacks("once memory").add(function() {$/;"	f
+AnonymousFunction2dbd0150d000	kozelafrikahoz.hu/static/_js/body.min.js	/^        queue: function(t, n) {$/;"	f
+AnonymousFunction2dbd0150d100	kozelafrikahoz.hu/static/_js/body.min.js	/^            return "string" != typeof t && (n = t, t = "fx", e--), arguments.length < e ? C.queu/;"	f
+AnonymousFunction2dbd0150d200	kozelafrikahoz.hu/static/_js/body.min.js	/^        dequeue: function(e) {$/;"	f
+AnonymousFunction2dbd0150d300	kozelafrikahoz.hu/static/_js/body.min.js	/^            return this.each(function() {$/;"	f	function:AnonymousFunction2dbd0150d200
+AnonymousFunction2dbd0150d400	kozelafrikahoz.hu/static/_js/body.min.js	/^        clearQueue: function(e) {$/;"	f
+AnonymousFunction2dbd0150d500	kozelafrikahoz.hu/static/_js/body.min.js	/^        promise: function(e, t) {$/;"	f
+AnonymousFunction2dbd0150d600	kozelafrikahoz.hu/static/_js/body.min.js	/^        I = function(e, t) {$/;"	f
+AnonymousFunction2dbd0150d700	kozelafrikahoz.hu/static/_js/body.min.js	/^        X = C.access = function(e, t, n, i, r, o, a) {$/;"	f
+AnonymousFunction2dbd0150d800	kozelafrikahoz.hu/static/_js/body.min.js	/^            else if (void 0 !== i && (r = !0, C.isFunction(i) || (a = !0), u && (t = a ? (t.call/;"	f	function:AnonymousFunction2dbd0150d700
+AnonymousFunction2dbd0150d900	kozelafrikahoz.hu/static/_js/body.min.js	/^    ! function() {$/;"	f
+AnonymousFunction2dbd0150da00	kozelafrikahoz.hu/static/_js/body.min.js	/^        if (t.innerHTML = "  <link\/><table><\/table><a href='\/a'>a<\/a><input type='checkbox'\//;"	f	function:AnonymousFunction2dbd0150d900
+AnonymousFunction2dbd0150db00	kozelafrikahoz.hu/static/_js/body.min.js	/^    function() {$/;"	f
+AnonymousFunction2dbd0150dc00	kozelafrikahoz.hu/static/_js/body.min.js	/^        add: function(e, t, n, i, r) {$/;"	f
+AnonymousFunction2dbd0150dd00	kozelafrikahoz.hu/static/_js/body.min.js	/^                for (n.handler && (n = (l = n).handler, r = l.selector), n.guid || (n.guid = C.g/;"	f	function:AnonymousFunction2dbd0150dc00
+AnonymousFunction2dbd0150de00	kozelafrikahoz.hu/static/_js/body.min.js	/^        remove: function(e, t, n, i, r) {$/;"	f
+AnonymousFunction2dbd0150df00	kozelafrikahoz.hu/static/_js/body.min.js	/^        trigger: function(e, t, n, i) {$/;"	f
+AnonymousFunction2dbd0150e000	kozelafrikahoz.hu/static/_js/body.min.js	/^        dispatch: function(e) {$/;"	f
+AnonymousFunction2dbd0150e100	kozelafrikahoz.hu/static/_js/body.min.js	/^        handlers: function(e, t) {$/;"	f
+AnonymousFunction2dbd0150e200	kozelafrikahoz.hu/static/_js/body.min.js	/^        fix: function(e) {$/;"	f
+AnonymousFunction2dbd0150e300	kozelafrikahoz.hu/static/_js/body.min.js	/^            filter: function(e, t) {$/;"	f
+AnonymousFunction2dbd0150e400	kozelafrikahoz.hu/static/_js/body.min.js	/^            filter: function(e, t) {$/;"	f
+AnonymousFunction2dbd0150e500	kozelafrikahoz.hu/static/_js/body.min.js	/^                trigger: function() {$/;"	f
+AnonymousFunction2dbd0150e600	kozelafrikahoz.hu/static/_js/body.min.js	/^                trigger: function() {$/;"	f
+AnonymousFunction2dbd0150e700	kozelafrikahoz.hu/static/_js/body.min.js	/^                trigger: function() {$/;"	f
+AnonymousFunction2dbd0150e800	kozelafrikahoz.hu/static/_js/body.min.js	/^                _default: function(e) {$/;"	f
+AnonymousFunction2dbd0150e900	kozelafrikahoz.hu/static/_js/body.min.js	/^                postDispatch: function(e) {$/;"	f
+AnonymousFunction2dbd0150ea00	kozelafrikahoz.hu/static/_js/body.min.js	/^        simulate: function(e, t, n, i) {$/;"	f
+AnonymousFunction2dbd0150eb00	kozelafrikahoz.hu/static/_js/body.min.js	/^    }, C.removeEvent = N.removeEventListener ? function(e, t, n) {$/;"	f
+AnonymousFunction2dbd0150ec00	kozelafrikahoz.hu/static/_js/body.min.js	/^    } : function(e, t, n) {$/;"	f
+AnonymousFunction2dbd0150ed00	kozelafrikahoz.hu/static/_js/body.min.js	/^    }, C.Event = function(e, t) {$/;"	f
+AnonymousFunction2dbd0150ee00	kozelafrikahoz.hu/static/_js/body.min.js	/^        preventDefault: function() {$/;"	c
+AnonymousFunction2dbd0150ef00	kozelafrikahoz.hu/static/_js/body.min.js	/^        stopPropagation: function() {$/;"	c
+AnonymousFunction2dbd0150f000	kozelafrikahoz.hu/static/_js/body.min.js	/^        stopImmediatePropagation: function() {$/;"	c
+AnonymousFunction2dbd0150f100	kozelafrikahoz.hu/static/_js/body.min.js	/^    }, function(e, r) {$/;"	f
+AnonymousFunction2dbd0150f200	kozelafrikahoz.hu/static/_js/body.min.js	/^        setup: function() {$/;"	f
+AnonymousFunction2dbd0150f300	kozelafrikahoz.hu/static/_js/body.min.js	/^            C.event.add(this, "click._submit keypress._submit", function(e) {$/;"	f
+AnonymousFunction2dbd0150f400	kozelafrikahoz.hu/static/_js/body.min.js	/^                n && !C._data(n, "submitBubbles") && (C.event.add(n, "submit._submit", function(/;"	f
+AnonymousFunction2dbd0150f500	kozelafrikahoz.hu/static/_js/body.min.js	/^        postDispatch: function(e) {$/;"	f
+AnonymousFunction2dbd0150f600	kozelafrikahoz.hu/static/_js/body.min.js	/^        teardown: function() {$/;"	f
+AnonymousFunction2dbd0150f700	kozelafrikahoz.hu/static/_js/body.min.js	/^        setup: function() {$/;"	f
+AnonymousFunction2dbd0150f800	kozelafrikahoz.hu/static/_js/body.min.js	/^            if (V.test(this.nodeName)) return "checkbox" !== this.type && "radio" !== this.type /;"	f	function:AnonymousFunction2dbd0150f700
+AnonymousFunction2dbd0150f900	kozelafrikahoz.hu/static/_js/body.min.js	/^            }), C.event.add(this, "click._change", function(e) {$/;"	c	class:AnonymousFunction2dbd0150f700
+AnonymousFunction2dbd0150fa00	kozelafrikahoz.hu/static/_js/body.min.js	/^            C.event.add(this, "beforeactivate._change", function(e) {$/;"	f
+AnonymousFunction2dbd0150fb00	kozelafrikahoz.hu/static/_js/body.min.js	/^                V.test(t.nodeName) && !C._data(t, "changeBubbles") && (C.event.add(t, "change._c/;"	f
+AnonymousFunction2dbd0150fc00	kozelafrikahoz.hu/static/_js/body.min.js	/^        handle: function(e) {$/;"	f
+AnonymousFunction2dbd0150fd00	kozelafrikahoz.hu/static/_js/body.min.js	/^        teardown: function() {$/;"	f
+AnonymousFunction2dbd0150fe00	kozelafrikahoz.hu/static/_js/body.min.js	/^    }, function(n, i) {$/;"	f
+AnonymousFunction2dbd0150ff00	kozelafrikahoz.hu/static/_js/body.min.js	/^        on: function(e, t, n, i, r) {$/;"	f
+Aramata BOIRÉ	kozelafrikahoz.hu/SaC/Mali/Cherifoula/aramataBoire.html	/^            <h2 class="children_data_page_title">Aramata BOIRÉ<\/h2>$/;"	i
+Aramata BOIRÉ	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Aramata BOIRÉ<\/h3>$/;"	j
+Assetare DOUMBIA	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Assetare DOUMBIA<\/h3>$/;"	j
+Assetou SANGARÉ	kozelafrikahoz.hu/SaC/Mali/Winners.html	/^                  <h3 class="child-name">Assetou SANGARÉ<\/h3>$/;"	j
+Assetou TRAORÉ	kozelafrikahoz.hu/SaC/Mali/Cherifoula/assetouTraore.html	/^            <h2 class="children_data_page_title">Assetou TRAORÉ<\/h2>$/;"	i
+Assetou TRAORÉ	kozelafrikahoz.hu/SaC/Mali/Cherifoula/salmaMaiga.html	/^            <h2 class="children_data_page_title">Assetou TRAORÉ<\/h2>$/;"	i
+Assetou TRAORÉ	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Assetou TRAORÉ<\/h3>$/;"	j
+Astan KOUMA	kozelafrikahoz.hu/SaC/Mali/Cherifoula/AstanKouma.html	/^            <h2 class="children_data_page_title">Astan KOUMA<\/h2>$/;"	i
+Astan KOUMA	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Astan KOUMA<\/h3>$/;"	j
+Awa Angelica Téra	kozelafrikahoz.hu/SaC/Mali/Cherifoula/awaAngelica.html	/^            <h2 class="children_data_page_title">Awa Angelica Téra<\/h2>$/;"	i
+Awa Angelica Téra	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Awa Angelica Téra<\/h3>$/;"	j
+Awa GUINDO	kozelafrikahoz.hu/SaC/Mali/Cherifoula/AwaGuindo.html	/^            <h2 class="children_data_page_title">Awa GUINDO<\/h2>$/;"	i
+Awa GUINDO	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Awa GUINDO<\/h3>$/;"	j
+Awa KANTE	kozelafrikahoz.hu/SaC/Mali/Cherifoula/AwaKante.html	/^            <h2 class="children_data_page_title">Awa KANTE<\/h2>$/;"	i
+Awa KANTE	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Awa KANTE<\/h3>$/;"	j
+B	kozelafrikahoz.hu/static/_js/body.min.js	/^    function B(e, t, n) {$/;"	f
+Bala MOUNKORO	kozelafrikahoz.hu/SaC/Mali/Winners.html	/^                  <h3 class="child-name">Bala MOUNKORO<\/h3>$/;"	j
+Bala MOUNKORO	kozelafrikahoz.hu/SaC/Mali/Winners/BalaMounkoro.html	/^            <h2 class="children_data_page_title">Bala MOUNKORO<\/h2>$/;"	i
+Bassanou KAMISSOKO	kozelafrikahoz.hu/SaC/Mali/Cherifoula/BassanouKamissoko.html	/^            <h2 class="children_data_page_title">Bassanou KAMISSOKO<\/h2>$/;"	i
+Bassanou KAMISSOKO	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Bassanou KAMISSOKO<\/h3>$/;"	j
+Bintou KONÉ	kozelafrikahoz.hu/SaC/Mali/Cherifoula/BintouKone.html	/^            <h2 class="children_data_page_title">Bintou KONÉ<\/h2>$/;"	i
+Bintou Kone	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Bintou Kone<\/h3>$/;"	j
+Bintou SOGOBA	kozelafrikahoz.hu/SaC/Mali/Cherifoula/bintouSogoba.html	/^            <h2 class="children_data_page_title">Bintou SOGOBA<\/h2>$/;"	i
+Bintou SOGOBA	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Bintou SOGOBA<\/h3>$/;"	j
+Blackwell & Greenwell MANJE	kozelafrikahoz.hu/SaC/Zambia/Prambs/GreenwellBlackwell.html	/^            <h2 class="children_data_page_title">Blackwell & Greenwell MANJE<\/h2>$/;"	i
+Blackwell MANJE	kozelafrikahoz.hu/SaC/zambia.html	/^                  <h3 class="child-name">Blackwell MANJE<\/h3>$/;"	j
+Blessed MWENIFUMBO	kozelafrikahoz.hu/SaC/Zambia/Prambs/BlessedMwenifumbo.html	/^            <h2 class="children_data_page_title">Blessed MWENIFUMBO<\/h2>$/;"	i
+Blessed MWENIFUMBO	kozelafrikahoz.hu/SaC/zambia.html	/^                  <h3 class="child-name">Blessed MWENIFUMBO<\/h3>$/;"	j
+Bt	kozelafrikahoz.hu/static/_js/body.min.js	/^    function Bt(e, t) {$/;"	f
+C	kozelafrikahoz.hu/static/_js/body.min.js	/^        C = function(e, t) {$/;"	f	function:AnonymousFunction2dbd01500100
+C	kozelafrikahoz.hu/static/_js/body.min.js	/^        C[r] = function(e, t, n, i) {$/;"	f	function:AnonymousFunction2dbd015019b00
+COVID 19 Hírek – Kijárási korlátozások Afrikában	kozelafrikahoz.hu/news/corona.html	/^            <h2 class="children_data_page_title">COVID 19 Hírek – Kijárási korlátozások A/;"	i
+COVID 19 HírekKijárási korlátozások Afrikában	kozelafrikahoz.hu/news.html	/^            <h3 class = "news_block_text_title">COVID 19 Hírek<p>Kijárási korlátozások Afri/;"	j
+Ce	kozelafrikahoz.hu/static/_js/body.min.js	/^    function Ce(e, t) {$/;"	f
+Chafiou Ibrahim DIARRA	kozelafrikahoz.hu/SaC/Mali/Cherifoula/ChafiouDiarra.html	/^            <h2 class="children_data_page_title">Chafiou Ibrahim DIARRA<\/h2>$/;"	i
+Chafiou Ibrahim DIARRA	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Chafiou Ibrahim DIARRA<\/h3>$/;"	j
+Chaka DOUMBIA	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Chaka DOUMBIA<\/h3>$/;"	j
+Cherifoula Iskola	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^            <h2 class="children__title">Cherifoula Iskola<\/h2>$/;"	i
+Chérifoula Iskola	kozelafrikahoz.hu/SaC/mali.html	/^                  <h3 class="child-name">Chérifoula Iskola<\/h3>$/;"	j
+Cindy BANDA	kozelafrikahoz.hu/SaC/Zambia/Prambs/CindyBanda.html	/^            <h2 class="children_data_page_title">Cindy BANDA<\/h2>$/;"	i
+Cindy BANDA	kozelafrikahoz.hu/SaC/zambia.html	/^            <h3 class="child-name">Cindy BANDA<\/h3>$/;"	j
+CurrentProjectSetting	kozelafrikahoz.hu/.vs/ProjectSettings.json	/^  "CurrentProjectSetting": null$/;"	z
+Daniel NGWILA	kozelafrikahoz.hu/SaC/Zambia/Prambs/DanielNgwila.html	/^            <h2 class="children_data_page_title">Daniel NGWILA<\/h2>$/;"	i
+Daniel NGWILA	kozelafrikahoz.hu/SaC/zambia.html	/^                  <h3 class="child-name">Daniel NGWILA<\/h3>$/;"	j
+Daouda TOGOLA	kozelafrikahoz.hu/SaC/Mali/Winners.html	/^                  <h3 class="child-name">Daouda TOGOLA<\/h3>$/;"	j
+Daouda TOGOLA	kozelafrikahoz.hu/SaC/Mali/Winners/DaoudaTogola.html	/^            <h2 class="children_data_page_title">Daouda TOGOLA<\/h2>$/;"	i
+Diamoussa Doumbia	kozelafrikahoz.hu/SaC/Mali/Cherifoula/diamoussaDoumbia.html	/^            <h2 class="children_data_page_title">Diamoussa Doumbia<\/h2>$/;"	i
+Diamoussa Doumbia	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Diamoussa Doumbia<\/h3>$/;"	j
+Django SISSOKO	kozelafrikahoz.hu/SaC/Mali/Cherifoula/DjangoSissoko.html	/^            <h2 class="children_data_page_title">Django SISSOKO<\/h2>$/;"	i
+Django SISSOKO	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Django SISSOKO<\/h3>$/;"	j
+Djigui Berke Traore	kozelafrikahoz.hu/SaC/Mali/Cherifoula/DjiguiTraore.html	/^            <h2 class="children_data_page_title">Djigui Berke Traore<\/h2>$/;"	i
+Djigui Berke Traore	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Djigui Berke Traore<\/h3>$/;"	j
+Djoma DOUMBIA	kozelafrikahoz.hu/SaC/Mali/Cherifoula/DjomaDoumbia.html	/^            <h2 class="children_data_page_title">Djoma DOUMBIA<\/h2>$/;"	i
+Djoma DOUMBIA	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Djoma DOUMBIA<\/h3>$/;"	j
+Djénéba DARA	kozelafrikahoz.hu/SaC/Mali/Winners.html	/^                  <h3 class="child-name">Djénéba DARA<\/h3>$/;"	j
+Djénéba DARA	kozelafrikahoz.hu/SaC/Mali/Winners/djenebaDara.html	/^          <h2 class="children_data_page_title">Djénéba DARA<\/h2>$/;"	i
+Djénéba Kamissoko	kozelafrikahoz.hu/SaC/Mali/Cherifoula/djenebaKamissoko.html	/^            <h2 class="children_data_page_title">Djénéba Kamissoko<\/h2>$/;"	i
+Djénéba Kamissoko	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Djénéba Kamissoko<\/h3>$/;"	j
+Djénéba Touré	kozelafrikahoz.hu/SaC/Mali/Cherifoula/DjenebaToure.html	/^            <h2 class="children_data_page_title">Djénéba Touré<\/h2>$/;"	i
+Djénéba Touré	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Djénéba Touré<\/h3>$/;"	j
+E-mail: annasuranyi@kozelafrikahoz.hu	kozelafrikahoz.hu/SaC/zambia.html	/^			<h3 class="details_donate_page"><b>E-mail: <\/b>annasuranyi@kozelafrikahoz.hu<\/h3>$/;"	j
+ELINDULT A ZAMBIAI GYERMEKTÁMOGATÁSI PROJEKTÜNK!	kozelafrikahoz.hu/news.html	/^			<h3 class = "news_block_text_title">ELINDULT A ZAMBIAI GYERMEKTÁMOGATÁSI PROJEKTÜNK!<\/h3>$/;"	j
+ELINDULT A ZAMBIAI GYERMEKTÁMOGATÁSI PROJEKTÜNK!	kozelafrikahoz.hu/news/ZambiaGyerekTamogatas.html	/^            <h2 class="children_data_page_title">ELINDULT A ZAMBIAI GYERMEKTÁMOGATÁSI PROJEKTÜ/;"	i
+ExpandedNodes	kozelafrikahoz.hu/.vs/VSWorkspaceState.json	/^  "ExpandedNodes": [$/;"	a
+Ez Afrika! – közösségi nap	kozelafrikahoz.hu/news.html	/^			<h3 class = "news_block_text_title">Ez Afrika! – közösségi nap<\/h3>$/;"	j
+Ez Afrika! – közösségi nap	kozelafrikahoz.hu/news/kozossegiNap.html	/^            <h2 class="children_data_page_title">Ez Afrika! – közösségi nap<\/h2>$/;"	i
+Fanta CAMARA	kozelafrikahoz.hu/SaC/Mali/Winners.html	/^                  <h3 class="child-name">Fanta CAMARA<\/h3>$/;"	j
+Fanta CAMARA	kozelafrikahoz.hu/SaC/Mali/Winners/Fanta_CAMARA.html	/^            <h2 class="children_data_page_title">Fanta CAMARA<\/h2>$/;"	i
+Fatoumata ARAMA	kozelafrikahoz.hu/SaC/Mali/Cherifoula/fatoumataArama.html	/^            <h2 class="children_data_page_title">Fatoumata ARAMA<\/h2>$/;"	i
+Fatoumata ARAMA	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Fatoumata ARAMA<\/h3>$/;"	j
+Fatoumata B COULIBALY	kozelafrikahoz.hu/SaC/Mali/Cherifoula/FatoumataCOULIBALY.html	/^            <h2 class="children_data_page_title">Fatoumata B COULIBALY<\/h2>$/;"	i
+Fatoumata B COULIBALY	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Fatoumata B COULIBALY<\/h3>$/;"	j
+Fatoumata DEM	kozelafrikahoz.hu/SaC/Mali/Cherifoula/FatoumataDem.html	/^            <h2 class="children_data_page_title">Fatoumata DEM<\/h2>$/;"	i
+Fatoumata GOITA	kozelafrikahoz.hu/SaC/Mali/Winners.html	/^                  <h3 class="child-name">Fatoumata GOITA<\/h3>$/;"	j
+Fatoumata GOITA	kozelafrikahoz.hu/SaC/Mali/Winners/FatoumataGoita.html	/^            <h2 class="children_data_page_title">Fatoumata GOITA<\/h2>$/;"	i
+Fatoumata KONÉ	kozelafrikahoz.hu/SaC/Mali/Cherifoula/FatoumataKone.html	/^            <h2 class="children_data_page_title">Fatoumata KONÉ<\/h2>$/;"	i
+Fatoumata KONÉ	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Fatoumata KONÉ<\/h3>$/;"	j
+Fatoumata SANGARÉ	kozelafrikahoz.hu/SaC/Mali/Cherifoula/FatoumataSangare.html	/^            <h2 class="children_data_page_title">Fatoumata SANGARÉ<\/h2>$/;"	i
+Fatoumata SANGARÉ	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Fatoumata SANGARÉ<\/h3>$/;"	j
+Fatoumata TOURÉ	kozelafrikahoz.hu/SaC/Mali/Winners.html	/^                  <h3 class="child-name">Fatoumata TOURÉ<\/h3>$/;"	j
+Fatoumata TOURÉ	kozelafrikahoz.hu/SaC/Mali/Winners/fatoumataToure.html	/^          <h2 class="children_data_page_title">Fatoumata TOURÉ<\/h2>$/;"	i
+Fatoumata TRAORE	kozelafrikahoz.hu/SaC/Mali/Winners.html	/^                  <h3 class="child-name">Fatoumata TRAORE<\/h3>$/;"	j
+Fatoumata TRAORÉ	kozelafrikahoz.hu/SaC/Mali/Winners/FatoumataTaore.html	/^            <h2 class="children_data_page_title">Fatoumata TRAORÉ<\/h2>$/;"	i
+Ft	kozelafrikahoz.hu/static/_js/body.min.js	/^    function Ft(o) {$/;"	f
+Főzés napenergiával	kozelafrikahoz.hu/up_comming.html	/^		<h2 class="learn_more_page_title2">Főzés napenergiával<\/h2>$/;"	i
+Gift CHIRWA	kozelafrikahoz.hu/SaC/Zambia/Prambs/GiftChirwa.html	/^            <h2 class="children_data_page_title">Gift CHIRWA<\/h2>$/;"	i
+Gift CHIRWA	kozelafrikahoz.hu/SaC/zambia.html	/^                  <h3 class="child-name">Gift CHIRWA<\/h3>$/;"	j
+Grace MUKELEBAI	kozelafrikahoz.hu/SaC/Zambia/Prambs/GraceMukelebai.html	/^            <h2 class="children_data_page_title">Grace MUKELEBAI<\/h2>$/;"	i
+Grace MUKELEBAI	kozelafrikahoz.hu/SaC/zambia.html	/^         <h3 class="child-name">Grace MUKELEBAI<\/h3>$/;"	j
+Greenwell MANJE	kozelafrikahoz.hu/SaC/zambia.html	/^                  <h3 class="child-name">Greenwell MANJE<\/h3>$/;"	j
+Gyerekeink	kozelafrikahoz.hu/SaC/zambia.html	/^            <h2 class="children__title">Gyerekeink<\/h2>$/;"	i
+Gyerektámogatási program	kozelafrikahoz.hu/SaC/zambia.html	/^		<h2 class="learn_more_page_title0">Gyerektámogatási program<\/h2>$/;"	i
+Győztesek Iskolája	kozelafrikahoz.hu/SaC/Mali/Winners.html	/^            <h2 class="children__title">Győztesek Iskolája<\/h2>$/;"	i
+Győztesek Iskolája	kozelafrikahoz.hu/SaC/mali.html	/^                  <h3 class="child-name">Győztesek Iskolája<\/h3>$/;"	j
+Győztesek Iskolája fejlődésében te is segíthetsz!	kozelafrikahoz.hu/BuildASchool.html	/^				<h3 class="learn_more_page_text"><b>Győztesek Iskolája fejlődésében te is segíthetsz!</;"	j
+Győztesek Iskolája, Mali	kozelafrikahoz.hu/up_comming.html	/^		<h3 class="learn_more_page_title1">Győztesek Iskolája, Mali<\/h3>$/;"	j
+H	kozelafrikahoz.hu/static/_js/body.min.js	/^    function H() {$/;"	f
+Ha külföldről utalna, kérjük adjon 3 EUR tranzakciós díjat az összeghez, mert a bank ezt levonja tőlünk beérkezéskor.	kozelafrikahoz.hu/SaC/mali.html	/^			<h3 class="details_donate_page_last">Ha külföldről utalna, kérjük adjon 3 EUR tranzakció/;"	j
+Ha külföldről utalna, kérjük adjon 3 EUR tranzakciós díjat az összeghez, mert a bank ezt levonja tőlünk beérkezéskor.	kozelafrikahoz.hu/SaC/zambia.html	/^			<h3 class="details_donate_page_last">Ha külföldről utalna, kérjük adjon 3 EUR tranzakció/;"	j
+Ha külföldről utalna, kérjük adjon 3 EUR tranzakciós díjat az összeghez, mert a bank ezt levonja tőlünk beérkezéskor.	kozelafrikahoz.hu/donate.html	/^					<h3 class="details_donate_page_last">Ha külföldről utalna, kérjük adjon 3 EUR tranzakc/;"	j
+Ha szeretne jelentkezni támogatónak, kérjük küldjön egy email-t az info@kozelafrikahoz.hu címre	kozelafrikahoz.hu/SaC/mali.html	/^			<h3 class="details_donate_page">Ha szeretne jelentkezni támogatónak, kérjük küldjön egy/;"	j
+Ha szeretne jelentkezni támogatónak, kérjük küldjön egy email-t az info@kozelafrikahoz.hu címre	kozelafrikahoz.hu/SaC/zambia.html	/^			<h3 class="details_donate_page">Ha szeretne jelentkezni támogatónak, kérjük küldjön egy/;"	j
+Ha szeretne jelentkezni támogatónak, kérjük küldjön egy email-t az info@kozelafrikahoz.hu címre	kozelafrikahoz.hu/donate.html	/^          <h3 class="details_donate_page">Ha szeretne jelentkezni támogatónak, kérjük küldj/;"	j
+Ha tetszik, amit csinálunk és szeretnél te is mosolyt varázsolni egy afrikai gyermek arcára, akkor támogass minket! Bármekkora összegnek is örülünk!	kozelafrikahoz.hu/donate.html	/^					<h3 class="details_donate_page">Ha tetszik, amit csinálunk és szeretnél te is mosolyt va/;"	j
+Halwiindi MOOYA	kozelafrikahoz.hu/SaC/Zambia/Prambs/HalwiindiMooya.html	/^            <h2 class="children_data_page_title">Halwiindi MOOYA<\/h2>$/;"	i
+Halwiindi MOOYA	kozelafrikahoz.hu/SaC/zambia.html	/^            <h3 class="child-name">Halwiindi MOOYA<\/h3>$/;"	j
+Hawa DIARRA	kozelafrikahoz.hu/SaC/Mali/Cherifoula/HawaDiarra.html	/^            <h2 class="children_data_page_title">Hawa DIARRA<\/h2>$/;"	i
+Hawa DIARRA	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Hawa DIARRA<\/h3>$/;"	j
+Hírek	kozelafrikahoz.hu/news.html	/^		<h1 class = "news_page_title">Hírek<\/h1>$/;"	h
+IBAN HU61 1620 0010 1009 7432 0000 0000	kozelafrikahoz.hu/SaC/mali.html	/^	        <h3 class="details_donate_page"><b>IBAN HU61<\/b> 1620 0010 1009 7432 0000 0000<\/h3>$/;"	j
+IBAN HU61 1620 0010 1009 7432 0000 0000	kozelafrikahoz.hu/SaC/zambia.html	/^	        <h3 class="details_donate_page"><b>IBAN HU61<\/b> 1620 0010 1009 7432 0000 0000<\/h3>$/;"	j
+IBAN HU61 1620 0010 1009 7432 0000 0000	kozelafrikahoz.hu/donate.html	/^					<h3 class="details_donate_page"><b>IBAN HU61<\/b> 1620 0010 1009 7432 0000 0000<\/h3>$/;"	j
+Ibrahim Soumaoro	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Ibrahim Soumaoro<\/h3>$/;"	j
+Ibrahim TIEMA	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Ibrahim TIEMA<\/h3>$/;"	j
+Ie	kozelafrikahoz.hu/static/_js/body.min.js	/^    function Ie(e, t) {$/;"	f
+Iskolaépítés	kozelafrikahoz.hu/up_comming.html	/^		<h2 class="learn_more_page_title2">Iskolaépítés<\/h2>$/;"	i
+Iskolák:	kozelafrikahoz.hu/SaC/mali.html	/^            <h2 class="children__title">Iskolák:<\/h2>$/;"	i
+Issa BELEM	kozelafrikahoz.hu/SaC/Mali/Cherifoula/issaBelem.html	/^            <h2 class="children_data_page_title">Issa BELEM<\/h2>$/;"	i
+Issa BELEM	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Issa BELEM<\/h3>$/;"	j
+Issa NANTOUMÉ	kozelafrikahoz.hu/SaC/Mali/Winners.html	/^                  <h3 class="child-name">Issa NANTOUMÉ<\/h3>$/;"	j
+Issa NANTOUMÉ	kozelafrikahoz.hu/SaC/Mali/Winners/IssaNantoume.html	/^            <h2 class="children_data_page_title">Issa NANTOUMÉ<\/h2>$/;"	i
+It	kozelafrikahoz.hu/static/_js/body.min.js	/^    function It(n, e, i, r) {$/;"	f
+Jane MWANZA	kozelafrikahoz.hu/SaC/Zambia/Prambs/JaneMwanza.html	/^            <h2 class="children_data_page_title">Jane MWANZA<\/h2>$/;"	i
+Jane MWANZA	kozelafrikahoz.hu/SaC/zambia.html	/^                  <h3 class="child-name">Jane MWANZA<\/h3>$/;"	j
+Je	kozelafrikahoz.hu/static/_js/body.min.js	/^    function Je(e, t, n) {$/;"	f
+Jelenlegi Programaink	kozelafrikahoz.hu/BuildASchool.html	/^		<h3 class="learn_more_page_title">Jelenlegi Programaink<\/h3>$/;"	j
+Jt	kozelafrikahoz.hu/static/_js/body.min.js	/^    function Jt() {$/;"	f
+K	kozelafrikahoz.hu/static/_js/body.min.js	/^    function K() {$/;"	f
+KIK VAGYUNK?	kozelafrikahoz.hu/index.html	/^		<h2 class="portfolio__title">KIK VAGYUNK?<\/h2>$/;"	i
+Kadiatou SAMAKÉ	kozelafrikahoz.hu/SaC/Mali/Cherifoula/KadiatouSamake.html	/^            <h2 class="children_data_page_title">Kadiatou SAMAKÉ<\/h2>$/;"	i
+Kadiatou SAMAKÉ	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Kadiatou SAMAKÉ<\/h3>$/;"	j
+Kadiatou TRAORÉ	kozelafrikahoz.hu/SaC/Mali/Cherifoula/KadiatouTraore.html	/^            <h2 class="children_data_page_title">Kadiatou TRAORÉ<\/h2>$/;"	i
+Kadiatou TRAORÉ	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Kadiatou TRAORÉ<\/h3>$/;"	j
+Kadiatou Tieblé DIARRA	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Kadiatou Tieblé DIARRA<\/h3>$/;"	j
+Kadidia TAGADIDOU	kozelafrikahoz.hu/SaC/Mali/Winners.html	/^                  <h3 class="child-name">Kadidia TAGADIDOU<\/h3>$/;"	j
+Kadidia TAGADIDOU	kozelafrikahoz.hu/SaC/Mali/Winners/Kadidia_TAGADIDOU.html	/^            <h2 class="children_data_page_title">Kadidia TAGADIDOU<\/h2>$/;"	i
+Kanimba DIAKITE	kozelafrikahoz.hu/SaC/Mali/Cherifoula/KanimbaDiakita.html	/^            <h2 class="children_data_page_title">Kanimba DIAKITE<\/h2>$/;"	i
+Kanimba DIAKITE	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Kanimba DIAKITE<\/h3>$/;"	j
+Kapcsolat	kozelafrikahoz.hu/index.html	/^            <h2 class="contact__title">Kapcsolat<\/h2>$/;"	i
+Kell egy grund!	kozelafrikahoz.hu/utatAlabdanak.html	/^      <h2 class="UtatAlabdanak_title">Kell egy grund!<\/h2>$/;"	i
+KÜLDETÉSÜNK	kozelafrikahoz.hu/index.html	/^			<h2 class="portfolio__title">KÜLDETÉSÜNK<\/h2>$/;"	i
+KÜLDJETEK suliba EGYÜTT egy GYERMEKET! – karácsonyi kampány	kozelafrikahoz.hu/news/karacsonyiKampany.html	/^            <h2 class="children_data_page_title">KÜLDJETEK suliba EGYÜTT egy GYERMEKET! – ka/;"	i
+KÜLDJETEK suliba EGYÜTT egy GYERMEKET!karácsonyi kampány	kozelafrikahoz.hu/news.html	/^    <h3 class = "news_block_text_title">KÜLDJETEK suliba EGYÜTT egy GYERMEKET!<p>karácsonyi k/;"	j
+Kézmosás Projekt	kozelafrikahoz.hu/HandWashProject.html	/^		<h2 class="learn_more_page_title">Kézmosás Projekt<\/h2>$/;"	i
+Könyvadomány és tanárképzés	kozelafrikahoz.hu/up_comming.html	/^		<h2 class="learn_more_page_title2">Könyvadomány és tanárképzés <\/h2>$/;"	i
+Köszönjük a Hungary helps alapitánynak	kozelafrikahoz.hu/utatAlabdanak.html	/^      <h3 class="UtatAlabdanak_title">Köszönjük a Hungary  helps alapitánynak<\/h3>$/;"	j
+Köszönjük!	kozelafrikahoz.hu/utatAlabdanak.html	/^      <h3 class="UtatAlabdanak_title">Köszönjük!<\/h3>$/;"	j
+Közel Afrikához Alapitvány, Magnet Bank: 16200010-10097432	kozelafrikahoz.hu/SaC/mali.html	/^      <h3 class="details_donate_page"><b>Közel Afrikához Alapitvány, Magnet Bank: <\/b>162000/;"	j
+Közel Afrikához Alapitvány, Magnet Bank: 16200010-10097432	kozelafrikahoz.hu/SaC/zambia.html	/^      <h3 class="details_donate_page"><b>Közel Afrikához Alapitvány, Magnet Bank: <\/b>162000/;"	j
+Közel Afrikához Alapitvány, Magnet Bank: 16200010-10097432	kozelafrikahoz.hu/donate.html	/^	         		<h3 class="details_donate_page"><b>Közel Afrikához Alapitvány, Magnet Bank: <\/b>/;"	j
+Közel Afrikához Ösztöndíj	kozelafrikahoz.hu/scholarship.html	/^		<h1 class="learn_more_page_title0">Közel Afrikához Ösztöndíj<\/h1>$/;"	h
+Közlemény: a gyermek vagy a projekt neve.	kozelafrikahoz.hu/SaC/mali.html	/^	        <h3 class="details_donate_page"><b>Közlemény: <\/b>a gyermek vagy a projekt neve.<\/h/;"	j
+Közlemény: a gyermek vagy a projekt neve.	kozelafrikahoz.hu/SaC/zambia.html	/^	        <h3 class="details_donate_page"><b>Közlemény: <\/b>a gyermek vagy a projekt neve.<\/h/;"	j
+Közlemény: a gyermek vagy a projekt neve.	kozelafrikahoz.hu/donate.html	/^					<h3 class="details_donate_page"><b>Közlemény: <\/b>a gyermek vagy a projekt neve.<\/h3>$/;"	j
+Le	kozelafrikahoz.hu/static/_js/body.min.js	/^    function Le(e) {$/;"	f
+Let’s Speak in English!	kozelafrikahoz.hu/up_comming.html	/^		<h2 class="learn_more_page_title2">Let’s Speak in English!<\/h2>$/;"	i
+Lány klub/Női klub	kozelafrikahoz.hu/up_comming.html	/^		<h2 class="learn_more_page_title2">Lány klub\/Női klub<\/h2>$/;"	i
+MIT CSINÁLUNK?	kozelafrikahoz.hu/index.html	/^			<h2 class="portfolio__title">MIT CSINÁLUNK?<\/h2>$/;"	i
+Mamadou Kaya Kanté	kozelafrikahoz.hu/SaC/Mali/Cherifoula/mamadouKaya.html	/^            <h2 class="children_data_page_title">Mamadou Kaya Kanté<\/h2>$/;"	i
+Mamadou Kaya Kanté	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                 <h3 class="child-name">Mamadou Kaya Kanté<\/h3>$/;"	j
+Me	kozelafrikahoz.hu/static/_js/body.min.js	/^    function Me(t, n) {$/;"	f
+Mercy MWANZA	kozelafrikahoz.hu/SaC/Zambia/Prambs/MercyMwanza.html	/^            <h2 class="children_data_page_title">Mercy MWANZA<\/h2>$/;"	i
+Mercy MWANZA	kozelafrikahoz.hu/SaC/zambia.html	/^                  <h3 class="child-name">Mercy MWANZA<\/h3>$/;"	j
+Michael KAYOKA	kozelafrikahoz.hu/SaC/Zambia/Prambs/MichaelKayoka.html	/^            <h2 class="children_data_page_title">Michael KAYOKA<\/h2>$/;"	i
+Michael KAYOKA	kozelafrikahoz.hu/SaC/zambia.html	/^         <h3 class="child-name">Michael KAYOKA<\/h3>$/;"	j
+Miért jó egy egyetemistát támogatni?	kozelafrikahoz.hu/scholarship.html	/^		<h3 class="learn_more_page_title1">Miért jó egy egyetemistát támogatni?<\/h3>$/;"	j
+Mwiya TAULO	kozelafrikahoz.hu/SaC/Zambia/Prambs/MwiyaTaulo.html	/^            <h2 class="children_data_page_title">Mwiya TAULO<\/h2>$/;"	i
+Mwiya TAULO	kozelafrikahoz.hu/SaC/zambia.html	/^                  <h3 class="child-name">Mwiya TAULO<\/h3>$/;"	j
+N	kozelafrikahoz.hu/SaC/Mali/Cherifoula/KadiatouDiarra.html	/^            <h2 class="children_data_page_title">N<\/h2>$/;"	i
+Nathan SIADIPI	kozelafrikahoz.hu/SaC/Zambia/Prambs/NathanSiadipi.html	/^            <h2 class="children_data_page_title">Nathan SIADIPI<\/h2>$/;"	i
+Nathan SIADIPI	kozelafrikahoz.hu/SaC/zambia.html	/^         <h3 class="child-name">Nathan SIADIPI<\/h3>$/;"	j
+Ne	kozelafrikahoz.hu/static/_js/body.min.js	/^    function Ne(e, t) {$/;"	f
+Néné DIALLO	kozelafrikahoz.hu/SaC/Mali/Winners.html	/^                  <h3 class="child-name">Néné DIALLO<\/h3>$/;"	j
+Néné DIALLO	kozelafrikahoz.hu/SaC/Mali/Winners/NeneDiallo.html	/^            <h2 class="children_data_page_title">Néné DIALLO<\/h2>$/;"	i
+Oscar MUBANGA	kozelafrikahoz.hu/SaC/Zambia/Prambs/OscarMubanga.html	/^            <h2 class="children_data_page_title">Oscar MUBANGA<\/h2>$/;"	i
+Oscar MUBANGA	kozelafrikahoz.hu/SaC/zambia.html	/^            <h3 class="child-name">Oscar MUBANGA<\/h3>$/;"	j
+Ot	kozelafrikahoz.hu/static/_js/body.min.js	/^    function Ot(t, r, o, a) {$/;"	f
+Ousmane SAMAKÉ	kozelafrikahoz.hu/SaC/Mali/Winners.html	/^                  <h3 class="child-name">Ousmane SAMAKÉ<\/h3>$/;"	j
+Ousmane SAMAKÉ	kozelafrikahoz.hu/SaC/Mali/Winners/ousmaneSamanke.html	/^          <h2 class="children_data_page_title">Ousmane SAMAKÉ<\/h2>$/;"	i
+P	kozelafrikahoz.hu/static/_js/body.min.js	/^    function P(e) {$/;"	f
+PROGRAMJAINK	kozelafrikahoz.hu/index.html	/^           <h2 class="programs_title">PROGRAMJAINK<\/h2>$/;"	i
+Pascal COULIBALY	kozelafrikahoz.hu/SaC/Mali/Winners.html	/^                  <h3 class="child-name">Pascal COULIBALY<\/h3>$/;"	j
+Pascal COULIBALY	kozelafrikahoz.hu/SaC/Mali/Winners/pascalCoulibaly.html	/^            <h2 class="children_data_page_title">Pascal COULIBALY<\/h2>$/;"	i
+Pauline MOYO	kozelafrikahoz.hu/SaC/Zambia/Prambs/PaulineMoyo.html	/^            <h2 class="children_data_page_title">Pauline MOYO<\/h2>$/;"	i
+Pauline MOYO	kozelafrikahoz.hu/SaC/zambia.html	/^                  <h3 class="child-name">Pauline MOYO<\/h3>$/;"	j
+Prambs Academy Kafue – Zambia	kozelafrikahoz.hu/SaC/zambia.html	/^		<h3 class="learn_more_page_title1">Prambs Academy Kafue – Zambia<\/h3>$/;"	j
+Prambs Academy, Zambia	kozelafrikahoz.hu/up_comming.html	/^		<h3 class="learn_more_page_title1">Prambs Academy, Zambia<\/h3>$/;"	j
+PreviewInSolutionExplorer	kozelafrikahoz.hu/.vs/VSWorkspaceState.json	/^  "PreviewInSolutionExplorer": false$/;"	b
+Programleírás	kozelafrikahoz.hu/scholarship.html	/^		<h3 class="learn_more_page_title1">Programleírás<\/h3>$/;"	j
+R	kozelafrikahoz.hu/static/_js/body.min.js	/^    function R(e, t, n, i) {$/;"	f
+Rendhagyó angol tanfolyam gimnazistáknak	kozelafrikahoz.hu/up_comming.html	/^		<h3 class="learn_more_page_title1">Rendhagyó angol tanfolyam gimnazistáknak<\/h3>$/;"	j
+Rokia KONATÉ	kozelafrikahoz.hu/SaC/Mali/Cherifoula/RokiaKonate.html	/^            <h2 class="children_data_page_title">Rokia KONATÉ<\/h2>$/;"	i
+Rokia KONATÉ	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Rokia KONATÉ<\/h3>$/;"	j
+Salimata COULIBALY	kozelafrikahoz.hu/SaC/Mali/Winners.html	/^                  <h3 class="child-name">Salimata COULIBALY<\/h3>$/;"	j
+Salimata COULIBALY	kozelafrikahoz.hu/SaC/Mali/Winners/Salamata_COULIBALY.html	/^            <h2 class="children_data_page_title">Salimata COULIBALY<\/h2>$/;"	i
+Sanata KANAKOMO	kozelafrikahoz.hu/SaC/Mali/Cherifoula/SanataKanakomo.html	/^            <h2 class="children_data_page_title">Sanata KANAKOMO<\/h2>$/;"	i
+Sanata KANAKOMO	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Sanata KANAKOMO<\/h3>$/;"	j
+Segítsünk, hogy otthon boldogulhasson!	kozelafrikahoz.hu/scholarship.html	/^		<h3 class="learn_more_page_title1">Segítsünk, hogy otthon boldogulhasson!<\/h3>$/;"	j
+Sidi Abdoulaye TRAORÉ	kozelafrikahoz.hu/SaC/Mali/Cherifoula/sidiAbdoulaye.html	/^            <h2 class="children_data_page_title">Sidi Abdoulaye TRAORÉ<\/h2>$/;"	i
+Sidi Abdoulaye TRAORÉ	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Sidi Abdoulaye TRAORÉ<\/h3>$/;"	j
+Siryki TRAORÉ	kozelafrikahoz.hu/SaC/Mali/Cherifoula/SirykiTraore.html	/^            <h2 class="children_data_page_title">Siryki TRAORÉ<\/h2>$/;"	i
+Siryki TRAORÉ	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Siryki TRAORÉ<\/h3>$/;"	j
+Soba COULIBALY	kozelafrikahoz.hu/SaC/Mali/Winners.html	/^                  <h3 class="child-name">Soba COULIBALY<\/h3>$/;"	j
+Soba COULIBALY	kozelafrikahoz.hu/SaC/Mali/Winners/SobaCoulibali.html	/^            <h2 class="children_data_page_title">Soba COULIBALY<\/h2>$/;"	i
+T	kozelafrikahoz.hu/static/_js/body.min.js	/^                T = {$/;"	c	class:AnonymousFunction2dbd015019500
+TEVÉKENYSÉGÜNK	kozelafrikahoz.hu/index.html	/^			<h2 class="portfolio__title">TEVÉKENYSÉGÜNK<\/h2>$/;"	i
+Te	kozelafrikahoz.hu/static/_js/body.min.js	/^    function Te(e, t) {$/;"	f
+Technológiai segítségnyújtás, tudásátadás	kozelafrikahoz.hu/up_comming.html	/^		<h3 class="learn_more_page_title1">Technológiai segítségnyújtás, tudásátadás<\/h3>$/;"	j
+Tervezett programjaink	kozelafrikahoz.hu/up_comming.html	/^		<h1 class="learn_more_page_title">Tervezett programjaink<\/h1>$/;"	h
+Tiambaly DJIGA	kozelafrikahoz.hu/SaC/Mali/Winners.html	/^                  <h3 class="child-name">Tiambaly DJIGA<\/h3>$/;"	j
+Tiambaly DJIGA	kozelafrikahoz.hu/SaC/Mali/Winners/Tiambaly_DJIGA.html	/^            <h2 class="children_data_page_title">Tiambaly DJIGA<\/h2>$/;"	i
+Tidian Cheick SISSOKO	kozelafrikahoz.hu/SaC/Mali/Cherifoula/TidianSissoko.html	/^            <h2 class="children_data_page_title">Tidian Cheick SISSOKO<\/h2>$/;"	i
+Tidian Cheick SISSOKO	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Tidian Cheick SISSOKO<\/h3>$/;"	j
+Támogass egy gyermeket!	kozelafrikahoz.hu/SaC/mali.html	/^		<h2 class="learn_more_page_title">Támogass egy gyermeket!<\/h2>$/;"	i
+Támogass minket:	kozelafrikahoz.hu/donate.html	/^					<h3 class="learn_more_page_title">Támogass minket:<\/h3>$/;"	j
+USA-Mali kapcsolatok	kozelafrikahoz.hu/up_comming.html	/^		<h3 class="learn_more_page_title1">USA-Mali kapcsolatok<\/h3>$/;"	j
+Ue	kozelafrikahoz.hu/static/_js/body.min.js	/^    function Ue(e, t, n) {$/;"	f
+Utat a labdának!	kozelafrikahoz.hu/utatAlabdanak.html	/^      <h1 class="learn_more_page_title">Utat a labdának!<\/h1>$/;"	h
+Utat a labdának!Építsünk sportpályát és emeljük ki az iskolát a mocsárból!	kozelafrikahoz.hu/news.html	/^    <h3 class = "news_block_text_title">Utat a labdának!<p>Építsünk sportpályát és emeljü/;"	j
+Utazás Bamakóba 2019	kozelafrikahoz.hu/news.html	/^			<h3 class = "news_block_text_title">Utazás Bamakóba 2019<\/h3>$/;"	j
+VISSZA AZ ISKOLÁBA!	kozelafrikahoz.hu/news.html	/^			<h3 class = "news_block_text_title">VISSZA AZ ISKOLÁBA!<\/h3>$/;"	j
+VISSZA AZ ISKOLÁBA!	kozelafrikahoz.hu/news/VisszaIskolaba.html	/^            <h2 class="children_data_page_title">VISSZA AZ ISKOLÁBA!<\/h2>$/;"	i
+Ve	kozelafrikahoz.hu/static/_js/body.min.js	/^    function Ve(e, t, n, i, r) {$/;"	f
+W	kozelafrikahoz.hu/static/_js/body.min.js	/^    function W(e, t, n) {$/;"	f
+Xe	kozelafrikahoz.hu/static/_js/body.min.js	/^    function Xe(e, t) {$/;"	f
+Xeless KÉZMOSÁS KAMPÁNY 2019	kozelafrikahoz.hu/news.html	/^			<h3 class = "news_block_text_title">Xeless KÉZMOSÁS KAMPÁNY 2019<\/h3>$/;"	j
+Xeless KÉZMOSÁS KAMPÁNY 2019	kozelafrikahoz.hu/news/XelessProgram.html	/^            <h2 class="children_data_page_title">Xeless KÉZMOSÁS KAMPÁNY 2019<\/h2>$/;"	i
+Yaya SANGARÉ	kozelafrikahoz.hu/SaC/Mali/Cherifoula/YayaSangare.html	/^            <h2 class="children_data_page_title">Yaya SANGARÉ<\/h2>$/;"	i
+Yaya SANGARÉ	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Yaya SANGARÉ<\/h3>$/;"	j
+Ye	kozelafrikahoz.hu/static/_js/body.min.js	/^    function Ye(e, t, n, i, r) {$/;"	f
+Youmourou SOW	kozelafrikahoz.hu/SaC/Mali/Cherifoula/YoumourouSow.html	/^            <h2 class="children_data_page_title">Youmourou SOW<\/h2>$/;"	i
+Youmourou SOW	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Youmourou SOW<\/h3>$/;"	j
+Z	kozelafrikahoz.hu/static/_js/body.min.js	/^    function Z() {$/;"	f
+Zt	kozelafrikahoz.hu/static/_js/body.min.js	/^    function Zt(e) {$/;"	f
+a	kozelafrikahoz.hu/static/_js/body.min.js	/^                a = function() {$/;"	f	function:AnonymousFunction2dbd015015400
+a	kozelafrikahoz.hu/static/_js/body.min.js	/^                a = {$/;"	c	class:AnonymousFunction2dbd0150b300
+a	kozelafrikahoz.hu/static/_js/body.min.js	/^            var a = function(e) {$/;"	f	function:AnonymousFunction2dbd015015500
+a	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+a	kozelafrikahoz.hu/static/css/_screen.min.css	/^a{$/;"	s
+a	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+a	kozelafrikahoz.hu/static/css/screen.min.css	/^a{$/;"	s
+abbr	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+abbr	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+abort	kozelafrikahoz.hu/static/_js/body.min.js	/^                    abort: function(e) {$/;"	m	class:AnonymousFunction2dbd015019500.T
+acronym	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+acronym	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+activeLink	kozelafrikahoz.hu/static/_js/body.min.js	/^        activeLink: "is-active"$/;"	p	class:n
+address	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+address	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+ae	kozelafrikahoz.hu/static/_js/body.min.js	/^        function ae(e) {$/;"	f
+ajax	kozelafrikahoz.hu/static/css/_screen.min.css	/^}https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.min.css$/;"	s
+ajax	kozelafrikahoz.hu/static/css/screen.min.css	/^}https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.min.css$/;"	s
+always	kozelafrikahoz.hu/static/_js/body.min.js	/^                    always: function() {$/;"	m	class:AnonymousFunction2dbd0150b300.a
+applet	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+applet	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+article	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+article	kozelafrikahoz.hu/static/css/_screen.min.css	/^article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{$/;"	s
+article	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+article	kozelafrikahoz.hu/static/css/screen.min.css	/^article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{$/;"	s
+aside	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+aside	kozelafrikahoz.hu/static/css/_screen.min.css	/^article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{$/;"	s
+aside	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+aside	kozelafrikahoz.hu/static/css/screen.min.css	/^article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{$/;"	s
+audio	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+audio	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+b	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+b	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+be	kozelafrikahoz.hu/static/_js/body.min.js	/^    function be(e) {$/;"	f
+big	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+big	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+bindType	kozelafrikahoz.hu/static/_js/body.min.js	/^            bindType: r,$/;"	p	class:C.event.special
+blockquote	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+blockquote	kozelafrikahoz.hu/static/css/_screen.min.css	/^blockquote,q{$/;"	s
+blockquote	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+blockquote	kozelafrikahoz.hu/static/css/screen.min.css	/^blockquote,q{$/;"	s
+blockquote:after	kozelafrikahoz.hu/static/css/_screen.min.css	/^blockquote:before,blockquote:after,q:before,q:after{$/;"	s
+blockquote:after	kozelafrikahoz.hu/static/css/screen.min.css	/^blockquote:before,blockquote:after,q:before,q:after{$/;"	s
+blockquote:before	kozelafrikahoz.hu/static/css/_screen.min.css	/^blockquote:before,blockquote:after,q:before,q:after{$/;"	s
+blockquote:before	kozelafrikahoz.hu/static/css/screen.min.css	/^blockquote:before,blockquote:after,q:before,q:after{$/;"	s
+body	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+body	kozelafrikahoz.hu/static/css/_screen.min.css	/^body{.page-header__nav_index{$/;"	s
+body	kozelafrikahoz.hu/static/css/_screen.min.css	/^html,body{$/;"	s
+body	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+body	kozelafrikahoz.hu/static/css/screen.min.css	/^body{.page-header__nav_index{$/;"	s
+body	kozelafrikahoz.hu/static/css/screen.min.css	/^html,body{$/;"	s
+button	kozelafrikahoz.hu/static/css/_screen.min.css	/^button,input[type=submit]{$/;"	s
+button	kozelafrikahoz.hu/static/css/screen.min.css	/^button,input[type=submit]{$/;"	s
+canvas	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+canvas	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+caption	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+caption	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+cdnjs.cloudflare.com	kozelafrikahoz.hu/static/css/_screen.min.css	/^}https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.min.css$/;"	c
+cdnjs.cloudflare.com	kozelafrikahoz.hu/static/css/screen.min.css	/^}https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.min.css$/;"	c
+ce	kozelafrikahoz.hu/static/_js/body.min.js	/^        function ce(n) {$/;"	f
+center	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+center	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+cite	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+cite	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+code	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+code	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+complete	kozelafrikahoz.hu/static/_js/body.min.js	/^        return i.duration = C.fx.off ? 0 : "number" == typeof i.duration ? i.duration : i.durati/;"	f	function:i
+contact	kozelafrikahoz.hu/index.html	/^    <section class="contact" id="contact">$/;"	I
+css	kozelafrikahoz.hu/static/css/_screen.min.css	/^}https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.min.css$/;"	s
+css	kozelafrikahoz.hu/static/css/screen.min.css	/^}https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.min.css$/;"	s
+cssHooks	kozelafrikahoz.hu/static/_js/body.min.js	/^        C.cssHooks[r + o] = {$/;"	c	class:C
+ct	kozelafrikahoz.hu/static/_js/body.min.js	/^    function ct(e, t, n) {$/;"	f
+d	kozelafrikahoz.hu/static/_js/body.min.js	/^    function d(e) {$/;"	f
+dd	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+dd	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+de	kozelafrikahoz.hu/static/_js/body.min.js	/^        function de(e) {$/;"	f
+del	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+del	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+delegateType	kozelafrikahoz.hu/static/_js/body.min.js	/^            delegateType: r,$/;"	p	class:C.event.special
+details	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+details	kozelafrikahoz.hu/static/css/_screen.min.css	/^article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{$/;"	s
+details	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+details	kozelafrikahoz.hu/static/css/screen.min.css	/^article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{$/;"	s
+dfn	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+dfn	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+div	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+div	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+dl	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+dl	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+dt	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+dt	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+e	kozelafrikahoz.hu/static/_js/body.min.js	/^            return function e(t, n) {$/;"	f	function:re
+ee	kozelafrikahoz.hu/static/_js/body.min.js	/^    function ee() {$/;"	f
+em	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+em	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+embed	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+embed	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+expand	kozelafrikahoz.hu/static/_js/body.min.js	/^            expand: function(e) {$/;"	m	class:C.cssHooks
+f	kozelafrikahoz.hu/static/_js/body.min.js	/^            f = function(e) {$/;"	f	function:AnonymousFunction2dbd0150a400
+fe	kozelafrikahoz.hu/static/_js/body.min.js	/^        function fe(a) {$/;"	f
+fieldset	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+fieldset	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+figcaption	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+figcaption	kozelafrikahoz.hu/static/css/_screen.min.css	/^article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{$/;"	s
+figcaption	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+figcaption	kozelafrikahoz.hu/static/css/screen.min.css	/^article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{$/;"	s
+figure	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+figure	kozelafrikahoz.hu/static/css/_screen.min.css	/^article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{$/;"	s
+figure	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+figure	kozelafrikahoz.hu/static/css/screen.min.css	/^article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{$/;"	s
+filterLink	kozelafrikahoz.hu/static/_js/body.min.js	/^            filterLink: "js-filter",$/;"	p	class:r
+filterSelected	kozelafrikahoz.hu/static/_js/body.min.js	/^            filterSelected: "is-selected"$/;"	p	class:r
+fixedHeader	kozelafrikahoz.hu/static/_js/body.min.js	/^        fixedHeader: "is-fixed",$/;"	p	class:n
+fn	kozelafrikahoz.hu/static/_js/body.min.js	/^        C.fn[i] = function(e, t) {$/;"	f	function:C
+font-awesome	kozelafrikahoz.hu/static/css/_screen.min.css	/^}https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.min.css$/;"	s
+font-awesome	kozelafrikahoz.hu/static/css/screen.min.css	/^}https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.min.css$/;"	s
+font-awesome.min.css .contact__inner:after	kozelafrikahoz.hu/static/css/_screen.min.css	/^.contact__inner:after{$/;"	c
+font-awesome.min.css .contact__inner:after	kozelafrikahoz.hu/static/css/screen.min.css	/^.contact__inner:after{$/;"	c
+footer	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+footer	kozelafrikahoz.hu/static/css/_screen.min.css	/^article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{$/;"	s
+footer	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+footer	kozelafrikahoz.hu/static/css/screen.min.css	/^article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{$/;"	s
+form	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+form	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+ft	kozelafrikahoz.hu/static/_js/body.min.js	/^    function ft(o, e, t) {$/;"	f
+ge	kozelafrikahoz.hu/static/_js/body.min.js	/^        function ge(r) {$/;"	f
+getAllResponseHeaders	kozelafrikahoz.hu/static/_js/body.min.js	/^                    getAllResponseHeaders: function() {$/;"	m	class:AnonymousFunction2dbd015019500.T
+getResponseHeader	kozelafrikahoz.hu/static/_js/body.min.js	/^                    getResponseHeader: function(e) {$/;"	m	class:AnonymousFunction2dbd015019500.T
+h1	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+h1	kozelafrikahoz.hu/static/css/_screen.min.css	/^h1{$/;"	s
+h1	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+h1	kozelafrikahoz.hu/static/css/screen.min.css	/^h1{$/;"	s
+h2	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+h2	kozelafrikahoz.hu/static/css/_screen.min.css	/^h2{$/;"	s
+h2	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+h2	kozelafrikahoz.hu/static/css/screen.min.css	/^h2{$/;"	s
+h3	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+h3	kozelafrikahoz.hu/static/css/_screen.min.css	/^h3{$/;"	s
+h3	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+h3	kozelafrikahoz.hu/static/css/screen.min.css	/^h3{$/;"	s
+h4	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+h4	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+h5	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+h5	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+h6	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+h6	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+handle	kozelafrikahoz.hu/static/_js/body.min.js	/^            handle: function(e) {$/;"	m	class:C.event.special
+he	kozelafrikahoz.hu/static/_js/body.min.js	/^        function he(e) {$/;"	f
+header	kozelafrikahoz.hu/static/_js/body.min.js	/^        header: "js-header",$/;"	p	class:n
+header	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+header	kozelafrikahoz.hu/static/css/_screen.min.css	/^article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{$/;"	s
+header	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+header	kozelafrikahoz.hu/static/css/screen.min.css	/^article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{$/;"	s
+height	kozelafrikahoz.hu/static/_js/body.min.js	/^                height: e$/;"	p	class:ut.i
+hgroup	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+hgroup	kozelafrikahoz.hu/static/css/_screen.min.css	/^article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{$/;"	s
+hgroup	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+hgroup	kozelafrikahoz.hu/static/css/screen.min.css	/^article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{$/;"	s
+home	kozelafrikahoz.hu/index.html	/^    <section class="promo js-jumbo" id="home">$/;"	I
+html	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+html	kozelafrikahoz.hu/static/css/_screen.min.css	/^html,body{$/;"	s
+html	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+html	kozelafrikahoz.hu/static/css/screen.min.css	/^html,body{$/;"	s
+https:	kozelafrikahoz.hu/static/css/_screen.min.css	/^}https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.min.css$/;"	s
+https:	kozelafrikahoz.hu/static/css/screen.min.css	/^}https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.min.css$/;"	s
+i	kozelafrikahoz.hu/static/_js/body.min.js	/^            function i() {$/;"	f	function:AnonymousFunction2dbd015012600
+i	kozelafrikahoz.hu/static/_js/body.min.js	/^            var e, n, i = {$/;"	c	class:AnonymousFunction2dbd01501c300
+i	kozelafrikahoz.hu/static/_js/body.min.js	/^        var n, i = {$/;"	c	class:ut
+i	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+i	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+ie	kozelafrikahoz.hu/static/_js/body.min.js	/^        function ie(e, t, n, i) {$/;"	f
+iframe	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+iframe	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+img	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+img	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+init	kozelafrikahoz.hu/static/_js/body.min.js	/^        o.prototype.init = function() {$/;"	m	class:o
+init	kozelafrikahoz.hu/static/_js/body.min.js	/^    t.prototype.init = function() {$/;"	m	class:t
+input	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+input	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+input[type=submit]	kozelafrikahoz.hu/static/css/_screen.min.css	/^button,input[type=submit]{$/;"	s
+input[type=submit]	kozelafrikahoz.hu/static/css/screen.min.css	/^button,input[type=submit]{$/;"	s
+ins	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+ins	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+item	kozelafrikahoz.hu/static/_js/body.min.js	/^            item: "js-item",$/;"	p	class:r
+itemHidden	kozelafrikahoz.hu/static/_js/body.min.js	/^            itemHidden: "is-hidden",$/;"	p	class:r
+j	kozelafrikahoz.hu/static/_js/body.min.js	/^            j = function(e, t) {$/;"	f	function:AnonymousFunction2dbd01502700
+j	kozelafrikahoz.hu/static/_js/body.min.js	/^    function j(e, t) {$/;"	f
+je	kozelafrikahoz.hu/static/_js/body.min.js	/^    function je(e, t) {$/;"	f
+jumbo	kozelafrikahoz.hu/static/_js/body.min.js	/^        jumbo: "js-jumbo",$/;"	p	class:n
+jumboScroll	kozelafrikahoz.hu/static/_js/body.min.js	/^        jumboScroll: "is-scroll",$/;"	p	class:n
+kbd	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+kbd	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+l	kozelafrikahoz.hu/static/_js/body.min.js	/^            function l(e, t, n, i) {$/;"	f
+l	kozelafrikahoz.hu/static/_js/body.min.js	/^            l = function() {$/;"	f	function:ft
+label	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+label	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+le	kozelafrikahoz.hu/static/_js/body.min.js	/^        function le(e, t) {$/;"	f
+left	kozelafrikahoz.hu/static/_js/body.min.js	/^                        left: 0$/;"	p	class:AnonymousFunction2dbd01501c500.n
+left	kozelafrikahoz.hu/static/_js/body.min.js	/^                    left: 0$/;"	p	class:AnonymousFunction2dbd01501c300.i
+legend	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+legend	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+li	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+li	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+libs	kozelafrikahoz.hu/static/css/_screen.min.css	/^}https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.min.css$/;"	s
+libs	kozelafrikahoz.hu/static/css/screen.min.css	/^}https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.min.css$/;"	s
+lt	kozelafrikahoz.hu/static/_js/body.min.js	/^    function lt() {$/;"	f
+main	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+main	kozelafrikahoz.hu/static/css/_screen.min.css	/^article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{$/;"	s
+main	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+main	kozelafrikahoz.hu/static/css/screen.min.css	/^article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{$/;"	s
+mark	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+mark	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+me	kozelafrikahoz.hu/static/_js/body.min.js	/^        function me(a, e, t) {$/;"	f
+menu	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+menu	kozelafrikahoz.hu/static/css/_screen.min.css	/^article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{$/;"	s
+menu	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+menu	kozelafrikahoz.hu/static/css/screen.min.css	/^article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{$/;"	s
+mixFilter	kozelafrikahoz.hu/static/_js/body.min.js	/^        }, i.fn.mixFilter = function(e) {$/;"	f	function:i.fn
+n	kozelafrikahoz.hu/static/_js/body.min.js	/^                var e, t, n = {$/;"	c	class:AnonymousFunction2dbd01501c500
+n	kozelafrikahoz.hu/static/_js/body.min.js	/^    var n = {$/;"	c
+nav	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+nav	kozelafrikahoz.hu/static/css/_screen.min.css	/^article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{$/;"	s
+nav	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+nav	kozelafrikahoz.hu/static/css/screen.min.css	/^article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{$/;"	s
+nav ol	kozelafrikahoz.hu/static/css/_screen.min.css	/^nav ol,nav ul{$/;"	s
+nav ol	kozelafrikahoz.hu/static/css/screen.min.css	/^nav ol,nav ul{$/;"	s
+nav ul	kozelafrikahoz.hu/static/css/_screen.min.css	/^nav ol,nav ul{$/;"	s
+nav ul	kozelafrikahoz.hu/static/css/screen.min.css	/^nav ol,nav ul{$/;"	s
+navAnchor	kozelafrikahoz.hu/static/_js/body.min.js	/^        navAnchor: "js-anchor",$/;"	p	class:n
+navKit	kozelafrikahoz.hu/static/_js/body.min.js	/^    }, d.fn.navKit = function(e) {$/;"	f	function:d.fn
+navLink	kozelafrikahoz.hu/static/_js/body.min.js	/^        navLink: "js-link",$/;"	p	class:n
+o	kozelafrikahoz.hu/static/_js/body.min.js	/^        function o(e, t) {$/;"	c
+object	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+object	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+oe	kozelafrikahoz.hu/static/_js/body.min.js	/^        function oe(e) {$/;"	f
+ol	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+ol	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+ortfolio	kozelafrikahoz.hu/index.html	/^    <section class="portfolio js-portfolio" id="ortfolio">$/;"	I
+output	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+output	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+overrideMimeType	kozelafrikahoz.hu/static/_js/body.min.js	/^                    overrideMimeType: function(e) {$/;"	m	class:AnonymousFunction2dbd015019500.T
+p	kozelafrikahoz.hu/static/css/_screen.min.css	/^  p{font-size: 20}  $/;"	s
+p	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+p	kozelafrikahoz.hu/static/css/_screen.min.css	/^p{$/;"	s
+p	kozelafrikahoz.hu/static/css/screen.min.css	/^  p{font-size: 20}  $/;"	s
+p	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+p	kozelafrikahoz.hu/static/css/screen.min.css	/^p{$/;"	s
+pe	kozelafrikahoz.hu/static/_js/body.min.js	/^        function pe() {}$/;"	f
+portfolio	kozelafrikahoz.hu/index.html	/^   <section class="portfolio js-portfolio" id="portfolio">        $/;"	I
+pre	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+pre	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+q	kozelafrikahoz.hu/static/_js/body.min.js	/^    function q() {$/;"	f
+q	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+q	kozelafrikahoz.hu/static/css/_screen.min.css	/^blockquote,q{$/;"	s
+q	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+q	kozelafrikahoz.hu/static/css/screen.min.css	/^blockquote,q{$/;"	s
+q:after	kozelafrikahoz.hu/static/css/_screen.min.css	/^blockquote:before,blockquote:after,q:before,q:after{$/;"	s
+q:after	kozelafrikahoz.hu/static/css/screen.min.css	/^blockquote:before,blockquote:after,q:before,q:after{$/;"	s
+q:before	kozelafrikahoz.hu/static/css/_screen.min.css	/^blockquote:before,blockquote:after,q:before,q:after{$/;"	s
+q:before	kozelafrikahoz.hu/static/css/screen.min.css	/^blockquote:before,blockquote:after,q:before,q:after{$/;"	s
+r	kozelafrikahoz.hu/static/_js/body.min.js	/^            r = function(e, t) {$/;"	f	function:AnonymousFunction2dbd01501ab00
+r	kozelafrikahoz.hu/static/_js/body.min.js	/^        var r = function(e) {$/;"	f	function:AnonymousFunction2dbd0150fe00
+r	kozelafrikahoz.hu/static/_js/body.min.js	/^        var r = {$/;"	c
+re	kozelafrikahoz.hu/static/_js/body.min.js	/^        function re() {$/;"	f
+readyState	kozelafrikahoz.hu/static/_js/body.min.js	/^                    readyState: 0,$/;"	p	class:AnonymousFunction2dbd015019500.T
+ruby	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+ruby	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+s	kozelafrikahoz.hu/static/_js/body.min.js	/^                s = function() {$/;"	f	function:AnonymousFunction2dbd0150d500
+s	kozelafrikahoz.hu/static/_js/body.min.js	/^                }, o[1 ^ e][2].disable, o[2][2].lock), s[t[0]] = function() {$/;"	f
+s	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+s	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+samp	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+samp	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+se	kozelafrikahoz.hu/static/_js/body.min.js	/^        function se(e, t) {$/;"	f
+section	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+section	kozelafrikahoz.hu/static/css/_screen.min.css	/^article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{$/;"	s
+section	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+section	kozelafrikahoz.hu/static/css/screen.min.css	/^article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{$/;"	s
+setRequestHeader	kozelafrikahoz.hu/static/_js/body.min.js	/^                    setRequestHeader: function(e, t) {$/;"	m	class:AnonymousFunction2dbd015019500.T
+setup	kozelafrikahoz.hu/static/_js/body.min.js	/^            setup: function() {$/;"	m	class:C.event.special
+small	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+small	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+span	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+span	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+special	kozelafrikahoz.hu/static/_js/body.min.js	/^        C.event.special[e] = {$/;"	c	class:C.event
+special	kozelafrikahoz.hu/static/_js/body.min.js	/^        C.event.special[i] = {$/;"	c	class:C.event
+state	kozelafrikahoz.hu/static/_js/body.min.js	/^                    state: function() {$/;"	m	class:AnonymousFunction2dbd0150b300.a
+statusCode	kozelafrikahoz.hu/static/_js/body.min.js	/^                    statusCode: function(e) {$/;"	m	class:AnonymousFunction2dbd015019500.T
+stop	kozelafrikahoz.hu/static/_js/body.min.js	/^            t.stop = function() {$/;"	f	function:t
+strike	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+strike	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+strong	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+strong	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+sub	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+sub	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+summary	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+summary	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+sup	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+sup	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+t	kozelafrikahoz.hu/static/_js/body.min.js	/^    function t(e, t) {$/;"	c
+table	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+table	kozelafrikahoz.hu/static/css/_screen.min.css	/^table{$/;"	s
+table	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+table	kozelafrikahoz.hu/static/css/screen.min.css	/^table{$/;"	s
+tbody	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+tbody	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+td	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+td	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+te	kozelafrikahoz.hu/static/_js/body.min.js	/^    function te(e) {$/;"	f
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/AdamaSamake.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/AstanKouma.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/AwaGuindo.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/AwaKante.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/BassanouKamissoko.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/BintouKone.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/ChafiouDiarra.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/DjangoSissoko.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/DjenebaToure.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/DjiguiTraore.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/DjomaDoumbia.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/FatoumataCOULIBALY.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/FatoumataDem.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/FatoumataKone.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/FatoumataSangare.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/HawaDiarra.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/KadiatouDiarra.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/KadiatouSamake.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/KadiatouTraore.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/KanimbaDiakita.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/RokiaKonate.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/SanataKanakomo.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/SirykiTraore.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/TidianSissoko.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/YayaSangare.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/YoumourouSow.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/abdoullahTolo.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/adamaKoita.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/aichatouCoulibaly.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/alassanMaiga.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/aminataMoussa.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/aminataTheophile.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/aramataBoire.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/assetouTraore.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/awaAngelica.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/bintouSogoba.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/diamoussaDoumbia.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/djenebaKamissoko.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/fatoumataArama.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/issaBelem.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/mamadouKaya.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/salmaMaiga.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/sidiAbdoulaye.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Winners.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Winners/AbdoulayeSidibe.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Winners/Aicha_KEITA.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Winners/AlyBarry.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Winners/AminataSamake.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Winners/BalaMounkoro.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Winners/DaoudaTogola.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Winners/Fanta_CAMARA.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Winners/FatoumataGoita.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Winners/FatoumataTaore.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Winners/IssaNantoume.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Winners/Kadidia_TAGADIDOU.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Winners/NeneDiallo.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Winners/Salamata_COULIBALY.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Winners/SobaCoulibali.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Winners/Tiambaly_DJIGA.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Winners/aichataKeita.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Winners/djenebaDara.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Winners/fatoumataToure.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Winners/ousmaneSamanke.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Winners/pascalCoulibaly.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Zambia/Prambs/AbigelKaluba.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Zambia/Prambs/BlessedMwenifumbo.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Zambia/Prambs/CindyBanda.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Zambia/Prambs/DanielNgwila.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Zambia/Prambs/GiftChirwa.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Zambia/Prambs/GraceMukelebai.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Zambia/Prambs/GreenwellBlackwell.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Zambia/Prambs/HalwiindiMooya.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Zambia/Prambs/JaneMwanza.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Zambia/Prambs/MercyMwanza.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Zambia/Prambs/MichaelKayoka.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Zambia/Prambs/MwiyaTaulo.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Zambia/Prambs/NathanSiadipi.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Zambia/Prambs/OscarMubanga.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Zambia/Prambs/PaulineMoyo.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/mali.html	/^	<section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/zambia.html	/^	<section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/index.html	/^    <section class="portfolio js-portfolio" id="team">$/;"	I
+team	kozelafrikahoz.hu/news/VisszaIskolaba.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/news/XelessProgram.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/news/ZambiaGyerekTamogatas.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/news/corona.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/news/karacsonyiKampany.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/news/kozossegiNap.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/news/toros_collection.html	/^	  <section class="children" id="team">$/;"	I
+teardown	kozelafrikahoz.hu/static/_js/body.min.js	/^            teardown: function() {$/;"	m	class:C.event.special
+tfoot	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+tfoot	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+th	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+th	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+thead	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+thead	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+then	kozelafrikahoz.hu/static/_js/body.min.js	/^                    then: function() {$/;"	m	class:AnonymousFunction2dbd0150b300.a
+time	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+time	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+top	kozelafrikahoz.hu/static/_js/body.min.js	/^                        top: 0,$/;"	p	class:AnonymousFunction2dbd01501c500.n
+top	kozelafrikahoz.hu/static/_js/body.min.js	/^                    top: 0,$/;"	p	class:AnonymousFunction2dbd01501c300.i
+tr	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+tr	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+tt	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+tt	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+u	kozelafrikahoz.hu/static/_js/body.min.js	/^                a.send(l.hasContent && l.data || null), u = function(e, t) {$/;"	f
+u	kozelafrikahoz.hu/static/_js/body.min.js	/^                u = function(t, n, i) {$/;"	f	function:AnonymousFunction2dbd0150b800
+u	kozelafrikahoz.hu/static/_js/body.min.js	/^        function u(e) {$/;"	f	function:Ot
+u	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+u	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+ue	kozelafrikahoz.hu/static/_js/body.min.js	/^        function ue(t) {$/;"	f
+ul	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+ul	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+ut	kozelafrikahoz.hu/static/_js/body.min.js	/^    function ut(e, t) {$/;"	f
+var	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+var	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+ve	kozelafrikahoz.hu/static/_js/body.min.js	/^        function ve(e, t, n, i, r) {$/;"	f
+video	kozelafrikahoz.hu/static/css/_screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+video	kozelafrikahoz.hu/static/css/screen.min.css	/^ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addre/;"	s
+w	kozelafrikahoz.hu/static/_js/body.min.js	/^    function w(e, n, i) {$/;"	f
+we	kozelafrikahoz.hu/static/_js/body.min.js	/^    function we(e) {$/;"	f
+xe	kozelafrikahoz.hu/static/_js/body.min.js	/^        function xe(e) {$/;"	f
+ye	kozelafrikahoz.hu/static/_js/body.min.js	/^        function ye(p, h, m, g, v, e) {$/;"	f
+Építs egy Iskolát	kozelafrikahoz.hu/BuildASchool.html	/^		<h2 class="learn_more_page_title">Építs egy Iskolát<\/h2>$/;"	i
+Építsünk sportpályát és emeljük ki az iskolát a mocsárból!	kozelafrikahoz.hu/utatAlabdanak.html	/^      <h2 class="UtatAlabdanak_title">Építsünk sportpályát és emeljük ki az iskolát a mo/;"	i
+Ünnepeld velünk egy éves SZÜLINAPunkat és a NŐNAPot!ÉTÁMOGATÓI és ÖNKÉNTES EST	kozelafrikahoz.hu/news.html	/^    <h3 class = "news_block_text_title">Ünnepeld velünk egy éves SZÜLINAPunkat és a NŐNAPo/;"	j
