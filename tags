@@ -466,7 +466,7 @@ Aminata Moussa Traoré	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^             
 Aminata SAMAKÉ	kozelafrikahoz.hu/SaC/Mali/Winners/AminataSamake.html	/^            <h2 class="children_data_page_title">Aminata SAMAKÉ <\/h2>$/;"	i
 Aminata SAMANKÉ	kozelafrikahoz.hu/SaC/Mali/Winners.html	/^                  <h3 class="child-name">Aminata SAMANKÉ<\/h3>$/;"	j
 Aminata Théophile TRAORÉ	kozelafrikahoz.hu/SaC/Mali/Cherifoula/aminataTheophile.html	/^             <h2 class="children_data_page_title">Aminata Théophile TRAORÉ<\/h2>$/;"	i
-Aminata Théophile TRAORÉ	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                   <h3 class="child-name">Aminata Théophile TRAORÉ<\/h3>$/;"	j
+Aminata Théophile TRAORÉ	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Aminata Théophile TRAORÉ<\/h3>$/;"	j
 AnonymousFunction2dbd01500100	kozelafrikahoz.hu/static/_js/body.min.js	/^}("undefined" != typeof window ? window : this, function(h, e) {$/;"	f
 AnonymousFunction2dbd01500200	kozelafrikahoz.hu/static/_js/body.min.js	/^        u = function(e, t) {$/;"	f
 AnonymousFunction2dbd01500300	kozelafrikahoz.hu/static/_js/body.min.js	/^        toArray: function() {$/;"	f
@@ -1113,6 +1113,8 @@ N	kozelafrikahoz.hu/SaC/Mali/Cherifoula/KadiatouDiarra.html	/^            <h2 cl
 Nathan SIADIPI	kozelafrikahoz.hu/SaC/Zambia/Prambs/NathanSiadipi.html	/^            <h2 class="children_data_page_title">Nathan SIADIPI<\/h2>$/;"	i
 Nathan SIADIPI	kozelafrikahoz.hu/SaC/zambia.html	/^         <h3 class="child-name">Nathan SIADIPI<\/h3>$/;"	j
 Ne	kozelafrikahoz.hu/static/_js/body.min.js	/^    function Ne(e, t) {$/;"	f
+Niagalé TRAORÉ	kozelafrikahoz.hu/SaC/Mali/Cherifoula/niagaleTraore.html	/^            <h2 class="children_data_page_title">Niagalé TRAORÉ<\/h2>$/;"	i
+Niagalé TRAORÉ	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^                  <h3 class="child-name">Niagalé TRAORÉ<\/h3>$/;"	j
 Néné DIALLO	kozelafrikahoz.hu/SaC/Mali/Winners.html	/^                  <h3 class="child-name">Néné DIALLO<\/h3>$/;"	j
 Néné DIALLO	kozelafrikahoz.hu/SaC/Mali/Winners/NeneDiallo.html	/^            <h2 class="children_data_page_title">Néné DIALLO<\/h2>$/;"	i
 Oscar MUBANGA	kozelafrikahoz.hu/SaC/Zambia/Prambs/OscarMubanga.html	/^            <h2 class="children_data_page_title">Oscar MUBANGA<\/h2>$/;"	i
@@ -1528,6 +1530,7 @@ team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/ibrahimSoumaoro.html	/^    <section c
 team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/ibrahimTiema.html	/^    <section class="children" id="team">$/;"	I
 team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/issaBelem.html	/^	  <section class="children" id="team">$/;"	I
 team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/mamadouKaya.html	/^	  <section class="children" id="team">$/;"	I
+team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/niagaleTraore.html	/^    <section class="children" id="team">$/;"	I
 team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/salmaMaiga.html	/^	  <section class="children" id="team">$/;"	I
 team	kozelafrikahoz.hu/SaC/Mali/Cherifoula/sidiAbdoulaye.html	/^	  <section class="children" id="team">$/;"	I
 team	kozelafrikahoz.hu/SaC/Mali/Cherifula.html	/^	  <section class="children" id="team">$/;"	I
