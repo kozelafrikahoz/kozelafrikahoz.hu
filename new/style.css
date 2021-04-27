@@ -1,0 +1,246 @@
+:root
+{
+    /* theme color */
+    --themecolour: #f0e7a8;
+    --themecolourtrans: rgb(240, 231, 168, .90);
+
+    --darkerthemecolour: #f0d5a8;
+
+    /* screen widht to add extra padding for readable text */
+    --textScreenWidthThresholdMedium: 50em;
+    --textScreenWidthThresholdwide: 100em;
+
+
+    --imagesize: 300px;
+    --fontsize: 1.2em;
+
+}
+body
+{
+    margin: 0px;
+    background-color: var(--themecolour);
+
+    /* setting the background image */
+    display: grid;
+    background-size: cover;
+    background-size: 100% auto;
+    background-attachment: fixed;
+    background-repeat-x: no-repeat;
+    background-image: url('static/images/index/main.png');
+}
+
+.main-body
+{
+    /* makeing the content start lower */
+    margin-top: 50%;
+
+    /* setting some properties for the main part */
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    /* theme :) */
+    background-color: var(--themecolour);
+}
+
+/* general */
+    .perfect-center {
+        margin: 0;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+    }
+    .vertical-center {
+      margin: 0;
+      position: absolute;
+      top: 50%;
+      -ms-transform: translateY(-50%);
+      transform: translateY(-50%);
+    }
+    .horisantal-center
+    {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .horisantal-center-text {
+        text-align: center;
+    }
+    .fontsize-default
+    {
+        font-size: var(--fontsize);
+    }
+
+
+
+/* body-content general */
+    .body-content
+    {
+        /* its ugly when text touches the side */
+        padding-top: 1%;
+        padding-left: 10%;
+        padding-right: 10%;
+        /* padding-bottom: 10%; */
+    }
+    .body-content-title
+    {
+        padding-top: 3%;
+        text-align: center;
+    }
+    .body-content-subtitle
+    {
+        margin-top: -20px;
+        text-align: center;
+    }
+
+
+/* introduction */
+    .introduction
+    {
+        /* its hard to read when the text is too spread out */
+        max-width: 720px;
+
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .introduction-text
+    {
+        /* justify is the best way */
+        font-size: var(--fontsize);
+        text-align: justify;
+        text-justify: inter-word;
+    }
+
+
+/* projects */
+    .projects-wrapper
+    {
+        text-align: center;
+    }
+    .projects-element
+    {
+        position: relative;
+        width:  var(--imagesize);
+        height: var(--imagesize);
+
+        margin: 3%;
+        display: inline-block;
+    }
+    .projects-element .projects-element-overlay
+    {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        display: none;
+
+        border-radius: 50%;
+        color: #FFF;
+    }
+    .projects-element:hover .projects-element-overlay
+    {
+        border-radius: 50%;
+        display: inline-block;
+
+        background: rgba(0, 0, 0, .6);
+    }
+    .projects-image
+    {
+        width:  var(--imagesize);
+        height: var(--imagesize);
+        border-radius: 50%;
+        display: inline-block;
+    }
+    .projects-element:hover
+    {
+        transform: scale(1.05);
+        -webkit-transition: transform 0.2s ease-in-out;
+        display: inline-block;
+        border-radius: 50%;
+    }
+
+
+
+/* about us / team section */
+    .about-element
+    {
+        padding-top: 5%;
+        padding-bottom:  5%;
+        border-bottom: 1px solid var(--darkerthemecolour);
+
+        text-align: center;
+    }
+    .about-image
+    {
+        width: var(--imagesize);
+        height: var(--imagesize);
+
+        border-radius: 50%;
+        display: inline-block;
+        vertical-align: top;
+    }
+    .about-text
+    {
+        display: inline-block;
+    }
+    .about-name
+    {
+        padding: 3%;
+    }
+    .about-desc
+    {
+        max-width: 720px;
+        padding-left: 3%;
+
+        /* justify is the best way */
+        font-size: var(--fontsize);
+        text-align: justify;
+        text-justify: inter-word;
+    }
+
+
+
+
+/* videos */
+    .videos
+    {
+        padding-top: 10%;
+        margin: auto;
+        display: block;
+        text-align: center;
+    }
+    .videos-element
+    {
+        display: inline-block;
+    }
+
+
+
+
+
+
+/* contact */
+    .contact
+    {
+
+    }
+    .contact-list
+    {
+        padding-top: 5%;
+        margin-left: 0px;
+        padding-left: 0px;
+
+        list-style-type: none;
+    }
+    .contact-list-element
+    {
+        padding: 1%;
+        padding: bottom: 3%;
+    }

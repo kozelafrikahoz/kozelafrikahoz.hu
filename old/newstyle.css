@@ -1,0 +1,48 @@
+:root
+{
+    --mainyellow: #f0e7a8;
+}
+
+
+/* elements */
+    body
+    {
+        background-color: var(--mainyellow);
+    }
+
+
+
+/* header */
+    .main-header
+    {
+        width: 100%;
+        border-bottom: 1px solid black;
+    }
+
+    .header-left
+    {
+        float:left;
+        display: block;
+    }
+    .header-right
+    {
+        float:right;
+        display: block;
+    }
+
+    .header-MMM
+    {
+        float:left;
+        display: block;
+    }
+    .header-languanges
+    {
+        float: left;
+        display: block;
+    }
+    .header-hlinks
+    {
+        float: left;
+        display: block;
+    }
+
