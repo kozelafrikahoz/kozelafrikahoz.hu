@@ -1,7 +1,3 @@
-:root
-{
-    --themecolour: #f0e7a8;
-}
 .main-header
 {
     position: fixed;
@@ -12,35 +8,221 @@
     border-bottom-left-radius: 3px;
     border-bottom-right-radius: 3px;
 
-    background-color: var(--themecolour);
+    background-color: var(--themeColour);
     border-bottom: 1px solid black;
 }
-.header-left
+
+
+/* positons */
+    .header-left
+    {
+        float:left;
+        display: block;
+    }
+    .header-right
+    {
+        float:right;
+        display: block;
+    }
+    .header-bottom
+    {
+        clear: both;
+    }
+
+
+
+/* header right */
+    .header-MMM
+    {
+        float:left;
+        display: block;
+
+        margin-top: 10px;
+        margin-bottom: 10px;
+
+        font-size: var(--headerFontSize);
+    }
+
+
+
+/* langsoc */
+    .header-langsoc
+    {
+        float: left;
+        display: block;
+        padding-top: var(--headertoppadding);
+    }
+    .header-langsoc-language
+    {
+        text-decoration: none;
+    }
+    .header-langsoc-picture
+    {
+        width: var(--headerpicturewidth)
+    }
+    .header-langsoc-social
+    {
+        display: inline-block;
+        height: 1em;
+        padding-left: 0.5em
+    }
+    .header-langsoc-social-child
+    {
+        margin-right: 1px;
+        font-size: var(--headerFontSize);
+
+        color: black;
+        text-decoration: none;
+    }
+
+
+
+/* links */
+    .header-hlinks
+    {
+        float: left;
+        display: block;
+        padding-left: 0.5em;
+    }
+    .header-hlinks-anchor
+    {
+        display: inline-block;
+
+        height: 1em;
+        margin-top: var(--headertoppadding);
+        margin-right: 0.5em;
+
+        padding-top: 7px;
+        padding-bottom: 12px;
+        padding-left: 1em;
+        padding-right: 1em;
+
+        border: solid 1px black;
+        border-radius: 6px;
+    }
+    .header-hlinks-anchor:hover
+    {
+        background-color: var(--themeColourDark);
+        -webkit-transition: background-color 500ms;
+        color: white;
+    }
+    .header-hlinks-orange
+    {
+        color: white;
+        background-color: var(--themeColourDark)
+    }
+    .header-hlinks-red
+    {
+        color: white;
+        background-color: var(--themeColourRed)
+    }
+    .header-hlinks-red:hover
+    {
+        color: white;
+        background-color: var(--themeColourRed)
+    }
+
+
+
+/* smallscreen checkbox */
+    .header-smallscreen-checkbox
+    {
+        -webkit-appearance: none;
+        -webkit-tap-highlight-color: transparent;
+    }
+    .header-smallscreen-label
+    {
+        display: none;
+    }
+
+
+.header-only-smallscreen
 {
-    float:left;
-    display: block;
+    display: none;
 }
-.header-right
+
+
+@media screen and (max-width: 1200px)
 {
-    float:right;
-    display: block;
+    .header-only-smallscreen
+    {
+        display: block;
+    }
+
+    /* smallscreen checkbox */
+        .header-smallscreen-label
+        {
+            display: block;
+
+            padding-right: 0.5em;
+            padding-top: var(--headertoppadding);
+
+            text-align: center;
+            font-size: var(--headerFontSize);
+
+            float: left;
+        }
+
+
+    /* header hlinks */
+        .header-hlinks
+        {
+            float: right;
+            padding-bottom: var(--headertoppadding);
+        }
+        .header-hlinks-anchor
+        {
+            display: block;
+        }
+
+
+    /* header langsoc */
+        .header-langsoc-picture
+        {
+            width: var(--headerpicturewidthlarge)
+        }
+        .header-langsoc-social
+        {
+            display: block;
+            padding-left: 0;
+            text-align: center;
+        }
+        .header-langsoc-social-child
+        {
+            font-size: 3em;
+        }
+
+
+
+    /* part that disapears when checkbox is unclicked */
+        .header-smallscreen-checkbox:checked ~ .header-smallscreen-label
+        {
+            padding-top: 11.5px;
+        }
+        .header-langsoc
+        {
+            display: none;
+        }
+        .header-smallscreen-checkbox:checked ~ .header-langsoc
+        {
+            display: block;
+        }
+        .header-hlinks
+        {
+            display: none;
+        }
+        .header-smallscreen-checkbox:checked ~ .header-hlinks
+        {
+            display: block;
+        }
 }
-.header-MMM
+
+
+/* if the document isnt tall enough, then remove the header, because it takes up too much space */
+@media screen and (max-height: 600px)
 {
-    float:left;
-    display: block;
-}
-.header-languanges
-{
-    float: left;
-    display: block;
-}
-.header-hlinks
-{
-    float: left;
-    display: block;
-}
-.header-bottom
-{
-    clear: both;
+    .main-header
+    {
+        position: absolute;
+    }
 }

@@ -1,0 +1,82 @@
+:root
+{
+    /* theme colours */
+    --themeColour: #f0e7a8;
+    --themeColourMedium: #f0d5a8;
+    --themeColourDark: #FFA500;
+    --themeColourRed: #E2331A;
+    --themeColourGrey: #2d3e50;
+    --themeColourTrans: rgb(240, 231, 168, .90);
+
+    --headerpicturewidth: 3em;
+    --headerpicturewidthlarge: 5em;
+    --headertoppadding: 10px;
+    --headerMinWidth: 1200px;
+    --headerFontSize: 1.8em;
+
+    --imagesize: 300px;
+    --mainBorderRounding: 10px;
+
+
+    --font: "Cantarell", serif;
+    --fontSize: 110%;
+
+    --textSidePadding: 10%;
+    --textMaxWidth: 820px;
+
+
+}
+
+@media screen and (max-width: 1000px)
+{
+    :root
+    {
+        --fontSize:150%;
+        --textSidePadding: 2%;
+    }
+}
+@media screen and (max-width: 700px)
+{
+    :root
+    {
+        --headerFontSize:1.5em;
+    }
+}
+@media screen and (max-width: 500px)
+{
+    :root
+    {
+        --headerFontSize: 1em;
+    }
+}
+
+
+.perfect-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.horisantal-center
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.horisantal-center-text {
+    text-align: center;
+}
+.fontsize-default
+{
+    font-size: var(--fontsize);
+}
+

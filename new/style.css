@@ -1,24 +1,7 @@
-:root
-{
-    /* theme color */
-    --themecolour: #f0e7a8;
-    --themecolourtrans: rgb(240, 231, 168, .90);
-
-    --darkerthemecolour: #f0d5a8;
-
-    /* screen widht to add extra padding for readable text */
-    --textScreenWidthThresholdMedium: 50em;
-    --textScreenWidthThresholdwide: 100em;
-
-
-    --imagesize: 300px;
-    --fontsize: 1.2em;
-
-}
 body
 {
     margin: 0px;
-    background-color: var(--themecolour);
+    background-color: var(--themeColour);
 
     /* setting the background image */
     display: grid;
@@ -27,6 +10,10 @@ body
     background-attachment: fixed;
     background-repeat-x: no-repeat;
     background-image: url('static/images/index/main.png');
+
+    /* set font */
+    font-size: 1em;
+    font-family: var(--font);
 }
 
 .main-body
@@ -34,16 +21,22 @@ body
     /* makeing the content start lower */
     margin-top: 50%;
 
-    /* setting some properties for the main part */
     width: 100%;
-    height: 100%;
     border-radius: 10px;
     display: block;
     margin-left: auto;
     margin-right: auto;
 
-    /* theme :) */
-    background-color: var(--themecolour);
+    font-size: var(--fontSize);
+
+}
+
+
+.main-element
+{
+    width: 100%;
+    border-radius: var(--mainBorderRounding);
+    background-color: var(--themeColour);
 }
 
 /* general */
@@ -73,7 +66,7 @@ body
     }
     .fontsize-default
     {
-        font-size: var(--fontsize);
+        /* font-size: var(--fontsize); */
     }
 
 
@@ -83,9 +76,10 @@ body
     {
         /* its ugly when text touches the side */
         padding-top: 1%;
-        padding-left: 10%;
-        padding-right: 10%;
-        /* padding-bottom: 10%; */
+        padding-left: var(--textSidePadding);
+        padding-right: var(--textSidePadding);
+        padding-bottom: 5%;
+        margin-bottom: 1%;
     }
     .body-content-title
     {
@@ -103,7 +97,7 @@ body
     .introduction
     {
         /* its hard to read when the text is too spread out */
-        max-width: 720px;
+        max-width: var(--textMaxWidth);
 
         display: block;
         margin-left: auto;
@@ -112,7 +106,7 @@ body
     .introduction-text
     {
         /* justify is the best way */
-        font-size: var(--fontsize);
+        font-size: 1.2em;
         text-align: justify;
         text-justify: inter-word;
     }
@@ -149,7 +143,12 @@ body
         border-radius: 50%;
         display: inline-block;
 
-        background: rgba(0, 0, 0, .6);
+
+        text-decoration: none;
+        color: #FFF;
+        text-decoration: underline;
+
+        background: rgba(0, 0, 0, .4);
     }
     .projects-image
     {
@@ -173,7 +172,7 @@ body
     {
         padding-top: 5%;
         padding-bottom:  5%;
-        border-bottom: 1px solid var(--darkerthemecolour);
+        border-bottom: 1px solid var(--themeColourMedium);
 
         text-align: center;
     }
@@ -196,23 +195,73 @@ body
     }
     .about-desc
     {
-        max-width: 720px;
+        max-width: var(--textMaxWidth);
         padding-left: 3%;
 
-        /* justify is the best way */
-        font-size: var(--fontsize);
+        font-size: var(--fontSize);
         text-align: justify;
         text-justify: inter-word;
     }
 
+    /* checkbox for loading and unloading more team members */
+    .about-loadmore-btn
+    {
+        -webkit-appearance: none;
+        -webkit-tap-highlight-color: transparent;
+    }
+    .about-loadmore-btn-label
+    {
+        display: block;
+        margin: auto;
 
+        width: 10%;
+        padding-top: 0.4em;
+        padding-bottom: 0.1em;
+
+        border: solid 1px black;
+        border-radius: 20px;
+
+        text-align: center;
+    }
+    .about-loadmore-btn-label:hover
+    {
+        border: solid 1px rgb(0,0,0,0);
+        background-color: var(--themeColourDark);
+    }
+    /* hide and display the other team members */
+    .about-more
+    {
+        display: none;
+    }
+    .about-loadmore-btn:checked ~ .about-more
+    {
+        display: block;
+    }
+    /* switch between load more and view less */
+    .about-loadmore-unloaded
+    {
+        display: block;
+    }
+    .about-loadmore-btn:checked ~ .about-loadmore-btn-label .about-loadmore-unloaded
+    {
+        display: none;
+    }
+    .about-loadmore-loaded
+    {
+        display: none;
+    }
+    .about-loadmore-btn:checked ~ .about-loadmore-btn-label .about-loadmore-loaded
+    {
+        display: block;
+    }
 
 
 /* videos */
     .videos
     {
         padding-top: 10%;
-        margin: auto;
+        margin-left: auto;
+        margin-right: auto;
         display: block;
         text-align: center;
     }
@@ -243,4 +292,27 @@ body
     {
         padding: 1%;
         padding: bottom: 3%;
+    }
+    .contact-list-link
+    {
+        color: black;
+        text-decoration: none;
+        text-decoration: underline;
+    }
+
+
+
+/* footer */
+    .main-footer
+    {
+        background-color: var(--themeColourGrey);
+        border-top-left-radius: var(--mainBorderRounding);
+        border-top-right-radius: var(--mainBorderRounding);
+    }
+    .footer-text
+    {
+        padding: 2%;
+        margin: 0px;
+
+        text-align: center;
     }
